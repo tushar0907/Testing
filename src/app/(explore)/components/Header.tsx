@@ -12,14 +12,14 @@ function Header() {
 
         <div className="flex items-center justify-center">
             <span className="ml-4 text-3xl text-[#4f3c31] font-semibold italic">
-              <Image src={Logo} alt="logo" />
+              <Image src={Logo} height={40} alt="logo" />
             </span>
         </div>
         </Link>
 
 
         {/* Contact Section - Visible only on Desktop */}
-        <div className="mobile:hidden border rounded-full p-3 flex items-center space-x-2">
+        <div className="mobile:hidden border rounded-full p-3 px-5 flex items-center space-x-2">
           <FaWhatsapp className="text-[#4f3c31] align-middle" size={22} />
           <span className="text-lg font-semibold text-[#4f3c31] leading-none">
             9380834941

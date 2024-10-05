@@ -24,7 +24,7 @@ function ExploreBlogs() {
   }, []);
 
   return (
-    <div className="max-w-[1700px] mx-auto p-6">
+    <div className="max-w-[1512px] mx-auto p-6">
       {/* Header with Image Indicators - Display differently on mobile */}
       <div className="flex flex-row items-center overflow-x-auto space-x-4 mb-16 shadow-md border-b border-[#eaeaea] px-2 py-4 sticky top-24 bg-white z-10 mobile:shadow-none mobile:border-b-0 mobile:bg-transparent mobile:flex-col mobile:items-start mobile:space-x-0 mobile:space-y-4">
         {" "}
@@ -52,7 +52,7 @@ function ExploreBlogs() {
         </div>
       </div>
 
-      <h2 className="text-5xl text-[#342A28] flex w-full justify-center items-center font-semibold mb-24 tab:text-4xl mobile:text-3xl">
+      <h2 className="text-5xl text-[#342A28] font-semibold flex w-full justify-center items-center mb-24 tab:text-4xl mobile:text-3xl">
         Top 5 Places for Dessert Lovers
       </h2>
 
@@ -65,19 +65,19 @@ function ExploreBlogs() {
           }}
           className={`flex ${
             index % 2 === 0 ? "flex-row" : "flex-row-reverse"
-          } mobile:flex-col tab:flex-col mb-16 items-center space-x-8 mobile:space-x-0 mobile:space-y-6`}
+          } mobile:flex-col tab:flex-col w-[1412px] mb-16 items-center space-x-8 mobile:space-x-0 mobile:space-y-6`}
         >
           {/* Image Block */}
-          <div className="w-1/2 tab:w-full mobile:w-full p-4">
+          <div className="w-[700px] tab:w-full mobile:w-full p-4">
             <img
               src="https://static.vecteezy.com/system/resources/previews/024/048/567/large_2x/coffee-cup-top-view-on-old-wooden-table-leaf-pattern-on-cafe-latte-anise-stars-coffee-beans-in-bag-and-cinnamon-for-decoration-beautiful-organic-natural-view-with-best-drink-in-the-world-photo.jpg"
               alt={`Blog Image ${index + 1}`}
-              className="w-full h-[480px] object-cover rounded-md mobile:h-[250px] tab:h-[300px]"
+              className="w-[563px] h-[465px] object-cover rounded-md mobile:h-[250px] tab:h-[300px]"
             />
           </div>
           {/* Text Content */}
-          <div className="w-1/2 tab:w-full mobile:w-full p-4">
-            <p className="text-xl text-[#000000] mb-4 leading-relaxed tab:text-lg mobile:text-base">
+          <div className="w-[771px] h-[351px] overflow-y-scroll text-ellipsis tab:w-full mobile:w-full p-6">
+            <p className="text-lg font-poppins font-normal text-[#000000] mb-4 leading-relaxed tab:text-lg mobile:text-base">
               Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus
               convallis elit eget aliquam laoreet vel, sagittis mattis enim.
               Iaculis quam morbi proin vel eget enim risus, porttitor. Sed est
@@ -86,10 +86,18 @@ function ExploreBlogs() {
               convallis elit eget aliquam laoreet vel, sagittis mattis enim.
               Iaculis quam morbi proin vel eget enim risus, porttitor. Sed est
               id consectetur molestie eros. Malesuada quam cursus blandit amet.
+
+             <p className="py-4">
+             Malesuada quam cursus blandit amet.
               Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus
               convallis elit eget aliquam laoreet vel, sagittis mattis enim.
               Iaculis quam morbi proin vel eget enim risus, porttitor. Sed est
               id consectetur molestie eros. Malesuada quam cursus blandit amet.
+              Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus
+              convallis elit eget aliquam laoreet vel, sagittis mattis enim.
+              Iaculis quam morbi proin vel eget enim risus, porttitor. Sed est
+              id consectetur molestie eros. Malesuada quam cursus blandit amet.
+             </p>
             </p>
           </div>
         </div>

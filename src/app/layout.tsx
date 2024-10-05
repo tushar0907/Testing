@@ -2,6 +2,13 @@ import type { Metadata } from "next";
 import localFont from "next/font/local";
 import "./globals.css";
 import Header from "./(explore)/components/Header";
+import { Urbanist } from 'next/font/google';
+
+const urbanist = Urbanist({
+  weight: '400',
+  subsets: ['latin'],
+});
+
 
 const geistSans = localFont({
   src: "./fonts/GeistVF.woff",
@@ -30,7 +37,10 @@ export default function RootLayout({
         className={`${geistSans.variable} ${geistMono.variable} antialiased`}
       >
         <Header />
+        <main className={urbanist.className}>
         {children}
+
+        </main>
       </body>
     </html>
   );

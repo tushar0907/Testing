@@ -7,12 +7,12 @@ function ExploreCollection() {
   const [activeTab, setActiveTab] = useState("city");
 
   return (
-    <div className="max-w-[1700px] mx-auto p-6">
+    <div className="max-w-[1512px] mx-auto p-6">
       {/* Tabs Navigation */}
       <div className="flex space-x-8 mb-8 border-b py-3 sticky">
         <button
           onClick={() => setActiveTab("city")}
-          className={`text-2xl mobile:text-lg font-semibold relative ${
+          className={`text-xl mobile:text-lg font-semibold relative ${
             activeTab === "city" ? "text-[#584139]" : "text-[#A58E74]"
           }`}
         >
@@ -23,7 +23,7 @@ function ExploreCollection() {
         </button>
         <button
           onClick={() => setActiveTab("away")}
-          className={`text-2xl mobile:text-lg font-semibold relative ${
+          className={`text-xl mobile:text-lg font-semibold relative ${
             activeTab === "away" ? "text-[#584139]" : "text-[#A58E74]"
           }`}
         >
@@ -41,18 +41,18 @@ function ExploreCollection() {
               {[...Array(6)].map((_, index) => (
                 <div
                   key={index}
-                  className="flex-none w-[350px] mr-4 rounded-lg overflow-hidden bg-transparent my-5 flex-wrap relative"
+                  className="flex-none w-[350px] mr-[15px] rounded-[8px] overflow-hidden bg-transparent my-5 flex-wrap relative"
                 >
                   <img
                     src="https://assets2.devourtours.com/wp-content/uploads/flickr-Paul-VanDerWerf-best-parks-in-nyc.jpg"
                     alt="Away from City"
-                    className="w-full h-[350px] rounded-lg object-cover"
+                    className="w-[342] h-[430px] rounded-[8px] object-cover"
                   />
                   <div className="absolute inset-0 pb-8 flex flex-col justify-end p-4 text-white bg-black bg-opacity-40 rounded-lg">
                     <h4 className="mobile:text-xl text-3xl font-semibold">
                       Greens to Relax
                     </h4>
-                    <p className="mobile:text-sm text-xl">9 places ›</p>
+                    <p className="mobile:text-sm text-base">9 places ›</p>
                   </div>
                 </div>
               ))}
@@ -66,13 +66,13 @@ function ExploreCollection() {
               {[...Array(6)].map((_, index) => (
                 <div
                   key={index}
-                  className="flex-none w-[350px] mr-4 bg-transparent  rounded-lg overflow-hidden my-5 flex-wrap relative"
+                  className="flex-none w-[350px] mr-[15px] bg-transparent  rounded-[8px] overflow-hidden my-5 flex-wrap relative"
                 >
                   <Link href={"/exploreblogs"}>
                     <img
                       src="https://www.fabhotels.com/blog/wp-content/uploads/2019/02/Lotus-Temple.jpg"
                       alt="Away from City"
-                      className="w-full h-[350px] rounded-lg object-cover"
+                      className="w-[342] h-[430px] rounded-[8px] object-cover"
                     />
                     <div className="absolute inset-0 flex flex-col justify-end p-4  pb-8 text-white bg-black bg-opacity-40 rounded-lg">
                       <h4 className="mobile:text-xl text-3xl font-semibold">
