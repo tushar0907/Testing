@@ -1,7 +1,7 @@
 import Image from "next/image";
 import React from "react";
 import { FaWhatsapp } from "react-icons/fa";
-import Logo from "../../../../assets/Logo.svg";
+import Logo from "../../../../assets/lopn.png";
 import Link from "next/link";
 
 function Header() {
@@ -12,16 +12,16 @@ function Header() {
 
         <div className="flex items-center justify-center">
             <span className="ml-4 text-3xl text-[#4f3c31] font-semibold italic">
-              <Image src={Logo} height={40} alt="logo" />
+              <Image src={Logo} height={40} alt="logo" width={213}/>
             </span>
         </div>
         </Link>
 
 
         {/* Contact Section - Visible only on Desktop */}
-        <div className="mobile:hidden border rounded-full p-3 px-5 flex items-center space-x-2">
+        <div className="mobile:hidden border rounded-full p-3 py-3 px-8 flex items-center space-x-2">
           <FaWhatsapp className="text-[#4f3c31] align-middle" size={22} />
-          <span className="text-lg font-semibold text-[#4f3c31] leading-none">
+          <span className="text-lg font-normal px-2 text-[#4f3c31] leading-none">
             9380834941
           </span>
         </div>

@@ -18,12 +18,12 @@ function ExploreDetailsPage() {
           />
         </div>
       </div>
-     <div className="max-w-[1700px] mx-auto p-6">
+     <div className="w-screen mx-auto  p-6">
       {/* Banner Section */}
       
 
       {/* Section Cards */}
-      <div className="flex flex-wrap max-w-[1512px] justify-around items-start mb-16">
+      <div className="flex flex-wrap w-full justify-around items-start mb-16">
         {[...Array(6)].map((_, index) => (
           <div key={index} className="mobile:w-full w-[699px] h-[528px] mb-16">
             <Link href={"/exploreblogs"}>

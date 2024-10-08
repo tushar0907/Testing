@@ -7,7 +7,7 @@ function ExploreCollection() {
   const [activeTab, setActiveTab] = useState("city");
 
   return (
-    <div className="max-w-[1512px] mx-auto p-6">
+    <div className="w-screen px-5 mx-auto p-6">
       {/* Tabs Navigation */}
       <div className="flex space-x-8 mb-8 border-b py-3 sticky">
         <button

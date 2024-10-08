@@ -16,7 +16,9 @@ function ExplorePage() {
           />
         </div>
       </div>
-      <div className="max-w-[1512px] mx-auto p-6">
+      <div className="w-screen mobile:mt-12 h-[800px] pl-10 mobile:h-auto py-[50px] mobile:py-0">
+
+
         {/* Section - Explore in and Around */}
         <div className="mb-12">
           <div className="flex items-center justify-between mb-6">
