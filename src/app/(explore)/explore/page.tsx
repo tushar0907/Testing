@@ -1,31 +1,26 @@
+"use client"
+
 import React from "react";
-import Banner from "../../../../assets/hero cards desktop.png";
-import Image from "next/image";
+import 'swiper/css';
+import 'swiper/css/pagination';
+import 'swiper/css/navigation';
 import Link from "next/link";
+import Slider from "../components/Slider";
 
 function ExplorePage() {
   return (
     <>
-      <div className="relative w-full h-[550px] bg-[#d6d4c5] rounded-md overflow-hidden mb-16">
-        {/* Leave space for the image */}
-        <div className="absolute bottom-0 left-0 right-0">
-          <Image
-            src={Banner}
-            alt="Illustration"
-            className="h-full w-full object-cover"
-          />
-        </div>
-      </div>
+      {/* Swiper for Banner */}
+     <Slider />
+
+      {/* The rest of your original code remains unchanged */}
       <div className="w-screen mobile:mt-12 h-[800px] pl-10 mobile:h-auto py-[50px] mobile:py-0">
-
-
         {/* Section - Explore in and Around */}
         <div className="mb-12">
           <div className="flex items-center justify-between mb-6">
             <h3 className="text-2xl font-semibold text-[#584139] tab:text-xl mobile:text-lg">
               explore in and around
             </h3>
-
             <Link href={"/explorecollections"}>
               <button className="text-[#9a7b4f] hover:underline text-base mobile:text-sm">
                 see collection →
