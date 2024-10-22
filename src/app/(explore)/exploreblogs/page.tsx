@@ -26,31 +26,30 @@ function ExploreBlogs() {
   return (
     <div className="w-screen mx-auto p-6">
       {/* Header with Image Indicators - Display differently on mobile */}
-      <div className="flex flex-row items-center overflow-x-auto mb-16 shadow-md border-r-white border-l-white border-b-[#eaeaea] px-2 py-4 sticky top-24 bg-white z-10 mobile:shadow-none mobile:border-b-0 mobile:bg-transparent mobile:flex-col mobile:items-start mobile:space-x-0 mobile:space-y-4">
-        <h2 className="text-3xl flex w-[30%] items-center font-semibold text-[#342A28] text-left tab:text-2xl mobile:hidden">
-          Museums Collection
-        </h2>
-        {/* Slider Section */}
-        <div className="flex items-center mobile:w-auto w-full overflow-x-auto space-x-4 mobile:flex-col mobile:space-x-0 mobile:space-y-4 mobile:fixed mobile:left-4 mobile:top-[150px] mobile:z-10">
-  {[...Array(12)].map((_, index) => (
-    <div
-      key={index}
-      className={`flex-none mobile:w-16 mobile:h-16 w-24 h-24 rounded-md overflow-hidden cursor-pointer border-4 transition-all duration-300 ease-in-out ${
-        activeIndex === index
-          ? "border-[#9a7b4f] shadow-md filter-none" // Active state (no foggy effect)
-          : "border-transparent filter opacity-60" // Inactive state (foggy effect with grayscale and reduced opacity)
-      }`}
-    >
-      <img
-        src="https://static.vecteezy.com/system/resources/previews/024/048/567/large_2x/coffee-cup-top-view-on-old-wooden-table-leaf-pattern-on-cafe-latte-anise-stars-coffee-beans-in-bag-and-cinnamon-for-decoration-beautiful-organic-natural-view-with-best-drink-in-the-world-photo.jpg"
-        alt={`Blog Thumbnail ${index + 1}`}
-        className="w-full h-full object-cover"
-      />
-    </div>
-  ))}
-</div>
-
+      <div className="flex flex-row items-center overflow-x-auto mb-16 shadow-md border-r-white border-l-white border-b-[#eaeaea] px-2 py-4 sticky top-24 bg-white z-10 mobile:shadow-none mobile:border-b-0 mobile:bg-transparent mobile:items-center">
+  <h2 className="text-3xl flex w-[30%] items-center font-semibold text-[#342A28] text-left tab:text-2xl mobile:hidden">
+    Museums Collection
+  </h2>
+  {/* Slider Section */}
+  <div className="flex items-center mobile:w-auto w-full overflow-x-auto space-x-4 mobile:pl-2">
+    {[...Array(12)].map((_, index) => (
+      <div
+        key={index}
+        className={`flex-none mobile:w-24 mobile:h-24 w-24 h-24 rounded-md overflow-hidden cursor-pointer border-4 transition-all duration-300 ease-in-out ${
+          activeIndex === index
+            ? "border-[#9a7b4f] shadow-md filter-none"
+            : "border-transparent filter opacity-60"
+        }`}
+      >
+        <img
+          src="https://static.vecteezy.com/system/resources/previews/024/048/567/large_2x/coffee-cup-top-view-on-old-wooden-table-leaf-pattern-on-cafe-latte-anise-stars-coffee-beans-in-bag-and-cinnamon-for-decoration-beautiful-organic-natural-view-with-best-drink-in-the-world-photo.jpg"
+          alt={`Blog Thumbnail ${index + 1}`}
+          className="w-full h-full object-cover"
+        />
       </div>
+    ))}
+  </div>
+</div>
 
       <h2 className="text-5xl text-[#342A28] font-semibold flex w-full justify-center items-center mb-24 tab:text-4xl mobile:text-3xl">
         Top 5 Places for Dessert Lovers
