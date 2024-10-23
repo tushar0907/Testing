@@ -18,14 +18,14 @@ function ExploreDetailsPage() {
           {[...Array(6)].map((_, index) => (
             <div
               key={index}
-              className="mobile:w-full w-[699px] h-[528px] mb-16"
+              className="mobile:w-full w-[699px] h-[528px] mobile:-mb-6 mb-16"
             >
               <Link href={"/exploreblogs"}>
                 <div className="bg-transparent rounded-lg overflow-hidden">
                   <Image
                     src={Museum}
                     alt="Away from City"
-                    className="w-[699px] h-[430px] rounded-[8px] object-cover"
+                    className="w-[699px] mobile:h-[300px] h-[430px] rounded-[8px] object-cover"
                   />
                   <div className="py-7 mobile:py-2">
                     <h3 className="text-3xl mobile:text-lg font-semibold  mobile:mb-0 text-[#342A28]">
@@ -53,7 +53,7 @@ function ExploreDetailsPage() {
         </div>
 
         {/* Section - Explore in and Around */}
-        <div className="mb-12">
+        <div className="mobile:mb-4 mb-12">
           <div className="flex items-center justify-between mb-6">
             <h3 className="text-2xl mobile:text-base font-semibold text-[#584139]">
               explore in and around

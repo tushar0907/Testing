@@ -18,11 +18,11 @@ function ExplorePage() {
         {/* Section - Explore in and Around */}
         <div className="mb-12">
           <div className="flex items-center justify-between mb-6">
-            <h3 className="text-2xl font-semibold text-[#584139] tab:text-xl mobile:text-lg">
+            <h3 className="text-2xl mobile:font-bold font-semibold text-[#584139] tab:text-xl mobile:text-lg">
               explore in and around
             </h3>
             <Link href={"/explorecollections"}>
-              <button className="text-[#9a7b4f] hover:underline text-base mobile:text-sm">
+              <button className="text-[#9a7b4f] mobile:mr-8 hover:underline text-base mobile:text-sm">
                 see collection →
               </button>
             </Link>
@@ -60,10 +60,10 @@ function ExplorePage() {
         {/* Section - Events to Break Monotony */}
         <div className="mb-12">
           <div className="flex items-center justify-between mb-6">
-            <h3 className="text-2xl font-semibold text-[#584139] tab:text-xl mobile:text-lg">
+            <h3 className="text-2xl mobile:font-bold font-semibold text-[#584139] tab:text-xl mobile:text-lg">
               events to break monotony
             </h3>
-            <button className="text-[#9a7b4f] hover:underline tab:text-base mobile:text-sm">
+            <button className="text-[#9a7b4f] mobile:mr-8 hover:underline tab:text-base mobile:text-sm">
               see collection →
             </button>
           </div>
@@ -99,10 +99,10 @@ function ExplorePage() {
         {/* Section - Best Cruise Around You */}
         <div className="mb-12">
           <div className="flex items-center justify-between mb-6">
-            <h3 className="text-2xl font-semibold text-[#584139] tab:text-xl mobile:text-lg">
+            <h3 className="text-2xl mobile:font-bold font-semibold text-[#584139] tab:text-xl mobile:text-lg">
               best cruise around you
             </h3>
-            <button className="text-[#9a7b4f] hover:underline tab:text-base mobile:text-sm">
+            <button className="text-[#9a7b4f] mobile:mr-8 hover:underline tab:text-base mobile:text-sm">
               see collection →
             </button>
           </div>
@@ -138,10 +138,10 @@ function ExplorePage() {
         {/* Section - Enjoy with the Young Ones */}
         <div className="mb-12">
           <div className="flex items-center justify-between mb-6">
-            <h3 className="text-2xl font-semibold text-[#584139] tab:text-2xl mobile:text-xl">
+            <h3 className="text-2xl mobile:font-bold font-semibold text-[#584139] tab:text-2xl mobile:text-xl">
               enjoy with the young ones
             </h3>
-            <button className="text-[#9a7b4f] hover:underline tab:text-base mobile:text-sm">
+            <button className="text-[#9a7b4f] mobile:mr-8 hover:underline tab:text-base mobile:text-sm">
               see collection →
             </button>
           </div>

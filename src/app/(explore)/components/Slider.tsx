@@ -5,27 +5,28 @@ import 'swiper/css';
 import 'swiper/css/pagination';
 import 'swiper/css/navigation';
 import { Autoplay, Pagination, Navigation } from 'swiper/modules';
-import SmallImage from "../../../../assets/BannerImg.svg"; // This is the small image, replace with your actual path
+import SmallImage from "../../../../assets/BannerImg.svg"; // This is the image for the mobile view.
 
 function Slider() {
   return (
     <Swiper
-    spaceBetween={30}
-    centeredSlides={true}
-    autoplay={{
-      delay: 2500,
-      disableOnInteraction: false,
-    }}
-    pagination={{
-      clickable: true,
-    }}
-    navigation={true}
-    modules={[Autoplay, Pagination, Navigation]}
-    className="mySwiper"
-  >
-    {[...Array(4)].map((_, index) => (
-      <SwiperSlide key={index}>
-        <div className="relative w-full h-[550px] bg-[#7F7F69] rounded-md overflow-hidden mb-16 flex items-center justify-between px-10">
+      spaceBetween={30}
+      centeredSlides={true}
+      autoplay={{
+        delay: 2500,
+        disableOnInteraction: false,
+      }}
+      pagination={{
+        clickable: true,
+      }}
+      navigation={true}
+      modules={[Autoplay, Pagination, Navigation]}
+      className="mySwiper"
+    >
+      {[...Array(4)].map((_, index) => (
+        <SwiperSlide key={index}>
+          <div className="relative w-full mobile:h-[250px] h-[550px] bg-[#7F7F69] rounded-md overflow-hidden mb-16">
+          <div className="mobile:hidden relative w-full h-[550px] bg-[#7F7F69] rounded-md overflow-hidden mb-16 flex items-center justify-between px-10">
           {/* Left section with text */}
           <div className="flex-1 px-28 mobile:px-3">
             <h3 className="text-lg font-semibold text-white uppercase mb-2">
@@ -47,9 +48,27 @@ function Slider() {
             />
           </div>
         </div>
-      </SwiperSlide>
-    ))}
-  </Swiper>
+            
+            {/* Mobile view */}
+            <div className="hidden mobile:flex  items-center justify-center px-4 h-full">
+              <Image
+                src={SmallImage}
+                alt="Illustration"
+                className="flex flex-1 h-[200px] object-cover mb-4"
+              />
+             <div className="flex text-center flex-1 flex-col">
+
+             <h3 className="text-sm font-semibold text-white uppercase mb-1">
+                Spacez Collection
+              </h3>
+              <h1 className="text-3xl font-bold text-white mb-2">Explore</h1>
+             </div>
+          
+            </div>
+          </div>
+        </SwiperSlide>
+      ))}
+    </Swiper>
   );
 }
 
