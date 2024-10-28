@@ -1,7 +1,7 @@
 "use client";
 
 import Image from "next/image";
-import React from "react";
+import React, { Suspense } from "react";
 import Link from "next/link";
 import Slider from "../components/Slider";
 import { useSearchParams } from "next/navigation";
@@ -26,10 +26,8 @@ type CafesData = {
 import cafesDataJson from "../../data.json";
 const cafesData = cafesDataJson as CafesData;
 
-// Verify data structure
-console.log("cafesData structure:", cafesData);
-
-function ExploreDetailsPage() {
+// Component to use searchParams safely in Suspense
+function ExploreDetailsContent() {
   const searchParams = useSearchParams();
   const category = searchParams.get("category") || "cafes"; // Default to 'cafes' if category is null
 
@@ -40,9 +38,6 @@ function ExploreDetailsPage() {
       : category === "cafes" && cafesData.cafes
       ? cafesData.cafes
       : [];
-
-  console.log("Selected category:", category);
-  console.log("Data to render:", data); // Log the actual data being used
 
   return (
     <>
@@ -66,19 +61,19 @@ function ExploreDetailsPage() {
                       height={430}
                     />
                     <div className="py-7 mobile:py-2">
-                      <h3 className="text-3xl mobile:text-lg font-semibold mobile:mb-0 text-[#342A28] max-w-[300px] ">
+                      <h3 className="text-3xl mobile:text-lg font-semibold mobile:mb-0 text-[#342A28]">
                         {item.name}
                       </h3>
-                      <p className="text-lg mobile:text-base font-medium text-[#A58E74] mb-4 max-w-[300px] ">
+                      <p className="text-lg mobile:text-base font-medium text-[#A58E74] mb-4">
                         {item.address}
                       </p>
                       <div className="flex items-center w-full mb-3 space-x-4 text-[#343534]">
-                        <p className="tab:text-base mobile:text-sm font-semibold text-[#584139] ">
+                        <p className="tab:text-base mobile:text-sm font-semibold text-[#584139]">
                           <span className="font-medium">Ticket Prices: </span>
                           {item.price_for_two}
                         </p>
                         <span className="mx-4 text-[#9a7b4f]">|</span>
-                        <p className="tab:text-base mobile:text-sm font-semibold text-[#584139] ">
+                        <p className="tab:text-base mobile:text-sm font-semibold text-[#584139]">
                           <span className="font-normal">Speciality: </span>
                           {item.speciality.join(", ")}
                         </p>
@@ -99,4 +94,10 @@ function ExploreDetailsPage() {
   );
 }
 
-export default ExploreDetailsPage;
+export default function ExploreDetailsPage() {
+  return (
+    <Suspense fallback={<div>Loading...</div>}>
+      <ExploreDetailsContent />
+    </Suspense>
+  );
+}
