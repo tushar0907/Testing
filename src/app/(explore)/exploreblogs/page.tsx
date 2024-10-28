@@ -1,9 +1,10 @@
 "use client";
-import React, { useState, useEffect, useRef } from "react";
+
+import React, { useState, useEffect, useRef, Suspense } from "react";
 import { useSearchParams } from "next/navigation";
 import cafesData from "../../data.json"; // Ensure you have your JSON data here
 
-function ExploreBlogs() {
+function ExploreBlogsContent() {
   const [activeIndex, setActiveIndex] = useState(0);
   const sectionsRef = useRef<(HTMLDivElement | null)[]>([]);
   const sliderRef = useRef<HTMLDivElement | null>(null);
@@ -33,7 +34,7 @@ function ExploreBlogs() {
     <div className="w-screen mx-auto p-6">
       {/* Header and Slider */}
       <div
-        className={`flex flex-row items-center overflow-x-auto mobile:mb-8 mb-16 shadow-md border-b-[#eaeaea] px-2 py-4 sticky top-24 z-10 transition-colors duration-300`}
+        className={`flex flex-row items-center overflow-x-auto mobile:mb-8 mb-16 shadow-md border-b-[#eaeaea] px-2 py-4 sticky top-24 z-10 bg-white transition-colors duration-300`}
       >
         <h2 className="text-3xl flex w-[30%] items-center font-semibold text-[#342A28] text-left tab:text-2xl mobile:hidden">
           Museums Collection
@@ -45,7 +46,7 @@ function ExploreBlogs() {
           {cafesData.cafes.map((_, index) => (
             <div
               key={index}
-              className={`flex-none mobile:w-24 mobile:h-24 w-24 h-24 rounded-md overflow-hidden cursor-pointer border-4 ${
+              className={`flex-none mobile:w-20 mobile:h-20 w-24 h-24 rounded-md overflow-hidden cursor-pointer border-4 ${
                 activeIndex === index ? "border-[#9a7b4f] shadow-md" : "border-transparent opacity-60"
               }`}
               onClick={() => handleBoxClick(index)}
@@ -99,4 +100,11 @@ function ExploreBlogs() {
   );
 }
 
-export default ExploreBlogs;
+// Wrap ExploreBlogsContent with Suspense
+export default function ExploreBlogs() {
+  return (
+    <Suspense fallback={<div>Loading...</div>}>
+      <ExploreBlogsContent />
+    </Suspense>
+  );
+}
