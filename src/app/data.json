@@ -1,0 +1,95 @@
+{
+    "cafes": [
+      {
+        "name": "Dyu Art Cafe",
+        "description": "A charming Kerala-style cafe with an open courtyard and mini art gallery. Perfect for coffee lovers and art enthusiasts in a serene setting.",
+        "rating": 4.5,
+        "address": "Dyu Art Cafe, No 23, KHB MIG Colony, Koramangala 8th Block, Koramangala, Bengaluru, Karnataka 560095",
+        "price_for_two": "INR 850",
+        "speciality": ["Banoffee Pie", "Chicken Melt Sandwich"],
+        "image_link": "https://aburstofflavor.wordpress.com/wp-content/uploads/2017/10/img_20170406_173941.jpg?w=2000"
+      },
+      {
+        "name": "Justbe Cafe",
+        "description": "India’s first whole-food plant-based cafe, offering healthy, chemical-free dishes in a peaceful environment ideal for families and solo diners.",
+        "rating": 4.5,
+        "address": "Sadashiva Nagar, Bengaluru",
+        "price_for_two": "INR 1000",
+        "speciality": ["Smoky Squash Soup", "Quinoa Sizzler"],
+        "image_link": "https://justbeyou.in/wp-content/uploads/2020/11/Interior-2.jpg"
+      },
+      {
+        "name": "Trippy Goat Cafe",
+        "description": "Located in a grand old bungalow with alfresco seating, this cozy spot on Cunningham Road offers hearty meals in a calm, airy setting.",
+        "rating": 4.3,
+        "address": "Cunningham Road, Bengaluru",
+        "price_for_two": "INR 1200",
+        "speciality": ["BBQ Pork Ribs", "Mexican Fiesta Pizza"],
+        "image_link": "https://imgmedia.lbb.in/media/2021/09/614c709ce2020f0a00d381e7_1632399516151.jpg"
+      },
+      {
+        "name": "Matteo Coffea",
+        "description": "A paradise for coffee lovers with a variety of brews, ranging from classic cappuccinos to traditional filter coffee, all in an elegant setting.",
+        "rating": 4.1,
+        "address": "Church Street, Bengaluru",
+        "price_for_two": "INR 600",
+        "speciality": ["Croissants", "Traditional Filter Coffee"],
+        "image_link": "https://media-cdn.tripadvisor.com/media/photo-s/09/4f/00/e8/matteo-coffea.jpg"
+      },
+      {
+        "name": "Om Made Cafe",
+        "description": "Eco-friendly rooftop cafe offering organic dishes with city views. A sustainable dining choice with live music on weekends.",
+        "rating": 4.2,
+        "address": "Koramangala, Bengaluru",
+        "price_for_two": "INR 1300",
+        "speciality": ["Smoky Lamb Burger", "Fruit Smoothies"],
+        "image_link": "https://imgstaticcontent.lbb.in/lbbnew/wp-content/uploads/sites/2/2016/06/OmMadeCafe-f.jpg"
+      },
+      {
+        "name": "The White Room Coffee & Kitchen",
+        "description": "British-style ambiance inside High Gates Hotel, with pristine white decor and a colonial feel, ideal for a classic coffee experience.",
+        "rating": 4,
+        "address": "MG Road, Bengaluru",
+        "price_for_two": "INR 1000",
+        "speciality": ["British-style Tea", "Quiche"],
+        "image_link": "https://imgmedia.lbb.in/media/2021/07/60ff78ceacda01173753c881_1627355342761.jpg"
+      },
+      {
+        "name": "Champaca Cafe",
+        "description": "A peaceful bookstore cafe surrounded by greenery, perfect for quiet escapes with a book or light snack, with a serene, earthy vibe.",
+        "rating": 4.5,
+        "address": "Queen’s Road, Bengaluru",
+        "price_for_two": "INR 500",
+        "speciality": ["Spinach & Corn Quiche", "Blueberry Tea Cake"],
+        "image_link": "https://imgmedia.lbb.in/66108171_708847716216036_8818966896906051467_n_1564563015019.jpg"
+      },
+      {
+        "name": "Brik Oven",
+        "description": "A lively spot on Church Street known for cheesy loaded pizzas and a cozy vibe, perfect for pizza lovers and casual hangouts.",
+        "rating": 4.4,
+        "address": "Church Street, Bengaluru",
+        "price_for_two": "INR 900",
+        "speciality": ["Cheesy Loaded Pizzas", "Shakes"],
+        "image_link": "https://b.zmtcdn.com/data/pictures/5/18924375/5252bb91c4a57a5d0973f644a81a7219.jpg"
+      },
+      {
+        "name": "Marzipan Cafe and Bakery",
+        "description": "Cozy Mediterranean-themed cafe with rustic interiors offering authentic dishes and a warm ambiance.",
+        "rating": 4.2,
+        "address": "Ulsoor, Bengaluru",
+        "price_for_two": "INR 1200",
+        "speciality": ["Baklava", "Mediterranean Shawarma"],
+        "image_link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5DzTJ1qDgOoQICSayjxL_BEcW0mC3LniLiA&s"
+      },
+      {
+        "name": "Lazy Suzy",
+        "description": "Known for its all-day breakfast and desserts, this cafe offers a relaxing retreat from the busy city streets with prompt service.",
+        "rating": 4.3,
+        "address": "Indiranagar, Bengaluru",
+        "price_for_two": "INR 800",
+        "speciality": ["All-day Breakfast", "Pastries"],
+        "image_link": "https://b.zmtcdn.com/data/pictures/4/18221564/18505771a0b79eebcd18a85df69997d1.png"
+      }
+    ]
+  }
+  

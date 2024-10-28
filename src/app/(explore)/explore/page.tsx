@@ -1,4 +1,4 @@
-"use client"
+"use client";
 
 import React from "react";
 import 'swiper/css';
@@ -6,14 +6,14 @@ import 'swiper/css/pagination';
 import 'swiper/css/navigation';
 import Link from "next/link";
 import Slider from "../components/Slider";
+import cafesData from "../../data.json"; // Ensure you have your JSON data here
 
 function ExplorePage() {
   return (
     <>
       {/* Swiper for Banner */}
-     <Slider />
+      <Slider />
 
-      {/* The rest of your original code remains unchanged */}
       <div className="w-screen mobile:mt-12 h-[800px] mobile:pl-2 pl-10 mobile:h-auto py-[50px] mobile:py-0">
         {/* Section - Explore in and Around */}
         <div className="mb-12">
@@ -28,16 +28,16 @@ function ExplorePage() {
             </Link>
           </div>
           <div className="flex space-x-[15px] overflow-x-auto pb-4">
-            {[...Array(6)].map((_, index) => (
+            {cafesData.cafes.slice(0, 6).map((cafe, index) => (
               <div
                 key={index}
                 className="flex-none rounded-[8px] w-[300px] overflow-hidden relative tab:w-[250px] mobile:w-[200px]"
               >
                 {/* Image fully covers the card */}
-                <Link href={"/exploredetails"}>
+                <Link href={`/exploredetails?cafe=${index}`}>
                   <img
-                    src="https://cdn.prod.website-files.com/65bb0d838b57c5aa2c4a2b9d/65e1eaa9c88fa546d21ab2d6_61766357266d4a50df17786f_9w2ykjya.jpeg"
-                    alt="Museum"
+                    src={cafe.image_link}
+                    alt={cafe.name}
                     className="w-[342px] h-[430px] rounded-[8px] object-cover tab:h-[300px] mobile:h-[250px]"
                   />
                   {/* Darker Overlay Effect */}
@@ -45,10 +45,10 @@ function ExplorePage() {
                   {/* Text Overlay on Image */}
                   <div className="absolute inset-0 flex flex-col justify-end p-4 text-white">
                     <h4 className="text-3xl font-semibold tab:text-lg mobile:text-base">
-                      Luxury Dining
+                      {cafe.name}
                     </h4>
                     <p className="text-base tab:text-xs mobile:text-xs">
-                      9 places ›
+                      Located in {cafe.address.split(',')[0]} ›
                     </p>
                   </div>
                 </Link>
@@ -56,6 +56,7 @@ function ExplorePage() {
             ))}
           </div>
         </div>
+
 
         {/* Section - Events to Break Monotony */}
         <div className="mb-12">
