@@ -49,14 +49,14 @@ function ExploreDetailsContent() {
             data.map((item, index) => (
               <div
                 key={index}
-                className="mobile:w-full w-[699px] h-[528px] mobile:-mb-12 mb-16"
+                className="mobile:w-full w-[699px] h-[528px] mobile:-mb-32 tab:mb-16"
               >
                 <Link href={`/exploreblogs?section=${index}&category=${category}`}>
                   <div className="bg-transparent rounded-lg overflow-hidden">
                     <Image
                       src={item.image_link}
                       alt={item.name}
-                      className="w-[699px] mobile:h-[300px] h-[430px] rounded-[8px] object-cover"
+                      className="w-[699px] mobile:h-[180px] tab:h-[430px] rounded-[8px] object-cover"
                       width={699}
                       height={430}
                     />

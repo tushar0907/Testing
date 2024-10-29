@@ -3,6 +3,26 @@
 import React, { useState, useEffect, useRef, Suspense } from "react";
 import { useSearchParams } from "next/navigation";
 import cafesData from "../../data.json"; // Ensure you have your JSON data here
+import { FaStar } from "react-icons/fa";
+import { FaStarHalf } from "react-icons/fa6";
+
+// Define types for TypeScript
+type CafeOrRestaurant = {
+  name: string;
+  description: string;
+  rating: number;
+  address: string;
+  price_for_two: string;
+  speciality: string[];
+  image_link: string;
+};
+
+type CafesData = {
+  cafes: CafeOrRestaurant[];
+  restaurants: CafeOrRestaurant[];
+};
+
+const cafesDataJson = cafesData as CafesData;
 
 function ExploreBlogsContent() {
   const [activeIndex, setActiveIndex] = useState(0);
@@ -13,14 +33,37 @@ function ExploreBlogsContent() {
   // Determine the category and select the data accordingly
   const category = searchParams.get("category");
   const sectionIndex = parseInt(searchParams.get("section") || "0", 10); // Get the section index
-  const data = category === "restaurants" ? cafesData.restaurants : cafesData.cafes;
+  const data = category === "restaurants" ? cafesDataJson.restaurants : cafesDataJson.cafes;
+
+  // Function to render stars based on rating
+  const renderStars = (rating: number) => {
+    const fullStars = Math.floor(rating); // Full stars count
+    const halfStar = rating % 1 !== 0; // Boolean to determine if there’s a half star
+    const emptyStars = 5 - fullStars - (halfStar ? 1 : 0); // Remaining empty stars
+
+    return (
+      <div className="flex items-center space-x-1">
+        {Array(fullStars)
+          .fill(null)
+          .map((_, index) => (
+            <FaStar key={`full-${index}`} className="text-yellow-500" />
+          ))}
+        {halfStar && <FaStarHalf className="text-yellow-500" />}
+        {Array(emptyStars)
+          .fill(null)
+          .map((_, index) => (
+            <FaStar key={`empty-${index}`} className="text-gray-300" />
+          ))}
+      </div>
+    );
+  };
 
   useEffect(() => {
     // Scroll to the specific section based on `sectionIndex` from the URL
     if (!isNaN(sectionIndex) && sectionsRef.current[sectionIndex]) {
       sectionsRef.current[sectionIndex]?.scrollIntoView({
         behavior: "smooth",
-        block: "center"
+        block: "center",
       });
       setActiveIndex(sectionIndex);
     }
@@ -124,7 +167,10 @@ function ExploreBlogsContent() {
             <p className="text-lg font-normal text-[#000000] mb-4 leading-relaxed tab:text-lg mobile:text-base">
               {item.description}
             </p>
-            <p className="text-lg font-semibold text-[#342A28] mb-2">Rating: {item.rating}</p>
+            <div className="flex items-center mb-2">
+              <p className="text-lg font-semibold text-[#342A28] mr-2">Rating:</p>
+              {renderStars(item.rating)}
+            </div>
             <p className="text-lg font-semibold text-[#342A28] mb-2">Price for Two: {item.price_for_two}</p>
             <p className="text-lg font-semibold text-[#342A28] mb-2">
               Speciality: {item.speciality.join(", ")}
