@@ -182,5 +182,2695 @@
       "speciality": ["Tandoori Kebabs", "Tribal Biryani"],
       "image_link": "https://res.cloudinary.com/simplotel/image/upload/w_5000,h_3333/x_0,y_523,w_4994,h_2810,r_0,c_crop/q_80,w_1600,dpr_1,f_auto,fl_progressive,c_limit/the-president-hotel-jayanagar-bangalore/PRMxPHJ-33_r0qzyp"
     }
+  ],
+  "restobars": [
+    {
+      "name": "Toit",
+      "description": "A renowned microbrewery in Indiranagar, Toit offers freshly brewed craft beers paired with a diverse menu, including wood-fired pizzas and continental dishes, all in a vibrant atmosphere.",
+      "rating": 4.5,
+      "address": "298, 100 Feet Road, Indiranagar",
+      "price_for_two": "INR 2,000",
+      "speciality": [
+        "Craft Beers",
+        "Wood-Fired Pizzas"
+      ],
+      "image_link": "https://toit.in/wp-content/uploads/2023/12/Mumbai.png"
+    },
+    {
+      "name": "Arbor Brewing Company",
+      "description": "This spacious brewpub brings American-style craft beers to Bangalore, complemented by a menu featuring global cuisines, making it a favorite among beer enthusiasts.",
+      "rating": 4.4,
+      "address": "8, Magrath Road, Brigade Road",
+      "price_for_two": "INR 2,500",
+      "speciality": [
+        "Craft Beers",
+        "Beer-Battered Onion Rings"
+      ],
+      "image_link": "https://images.jdmagicbox.com/comp/bangalore/j6/080pxx80.xx80.121127171955.s5j6/catalogue/arbor-brewing-company-magrath-road-bangalore-american-restaurants-yv7yk6qwon.jpg"
+    },
+    {
+      "name": "The 13th Floor",
+      "description": "Located on the rooftop of the Barton Centre, it offers panoramic city views, an extensive cocktail menu, and a selection of Asian and Indian appetizers, perfect for a romantic evening.",
+      "rating": 4.3,
+      "address": "84, MG Road, Ashok Nagar",
+      "price_for_two": "INR 2,500",
+      "speciality": [
+        "Cocktails",
+        "Pan-Asian Appetizers"
+      ],
+      "image_link": "https://b.zmtcdn.com/data/pictures/5/50975/42e887331f375914c357d4178c24282a.jpg"
+    },
+    {
+      "name": "Byg Brewski Brewing Company",
+      "description": "One of the largest brewpubs in India, it boasts a rustic ambiance with multiple seating options, serving a variety of craft beers and an eclectic food menu ranging from Indian to Continental cuisines.",
+      "rating": 4.5,
+      "address": "Hennur Bagalur Road, Hennur",
+      "price_for_two": "INR 2,200",
+      "speciality": [
+        "Craft Beers",
+        "Multi-Cuisine Menu"
+      ],
+      "image_link": "https://b.zmtcdn.com/data/pictures/9/20499219/86a9a34a801e69725605f8e2e3df64d1.jpg"
+    },
+    {
+      "name": "Communiti",
+      "description": "Known for its lively ambiance and community-style seating, Communiti offers freshly brewed beers and a menu featuring European and Continental dishes, making it ideal for group gatherings.",
+      "rating": 4.2,
+      "address": "67, Residency Road, Ashok Nagar",
+      "price_for_two": "INR 1,800",
+      "speciality": [
+        "Craft Beers",
+        "European Cuisine"
+      ],
+      "image_link": "https://b.zmtcdn.com/data/pictures/5/18430785/21c0063d843b97ccf06598dcd81bb6ae.jpg"
+    },
+    {
+      "name": "The Biere Club",
+      "description": "As Bangalore's first craft brewery, it offers a range of beers brewed in-house, complemented by a menu of European and Indian dishes, all set in a chic, industrial-style space.",
+      "rating": 4.3,
+      "address": "20/2, Vittal Mallya Road, Ashok Nagar",
+      "price_for_two": "INR 2,000",
+      "speciality": [
+        "Craft Beers",
+        "Beer-Battered Fish and Chips"
+      ],
+      "image_link": "https://media.weddingz.in/photologue/images/the-biere-club-lavelle-road-bangalore.png"
+    },
+    {
+      "name": "Fenny's Lounge & Kitchen",
+      "description": "Featuring a Mediterranean-inspired ambiance with open-air seating, Fenny's offers a range of cocktails and a menu that blends Continental and Italian cuisines, perfect for a relaxed evening.",
+      "rating": 4.2,
+      "address": "7, 80 Feet Road, Koramangala",
+      "price_for_two": "INR 2,000",
+      "speciality": [
+        "Cocktails",
+        "Wood-Fired Pizzas"
+      ],
+      "image_link": "https://media.safarway.com/content/f1344488-d2a9-44fe-9819-4185dc6c154f_sm.jpg"
+    },
+    {
+      "name": "Skyye",
+      "description": "Perched atop UB City, Skyye is known for its rooftop setting with LED-lit flooring, offering a range of cocktails and a menu featuring Asian and Continental dishes, ideal for a night out.",
+      "rating": 4.1,
+      "address": "UB City, Vittal Mallya Road",
+      "price_for_two": "INR 2,500",
+      "speciality": [
+        "Cocktails",
+        "Sushi Platters"
+      ],
+      "image_link": "https://b.zmtcdn.com/data/pictures/7/57177/a71060e10d69f1ed6d1aaa48d76b23e8_featured_v2.jpg"
+    },
+    {
+      "name": "Loft 38",
+      "description": "With its industrial-chic decor and live music performances, Loft 38 offers a vibrant nightlife experience, serving a variety of cocktails and a menu featuring global cuisines.",
+      "rating": 4.0,
+      "address": "763, 100 Feet Road, Indiranagar",
+      "price_for_two": "INR 2,000",
+      "speciality": [
+        "Cocktails",
+        "Grilled Meats"
+      ],
+      "image_link": "https://res.cloudinary.com/https-highape-com/image/upload/v1588971652/bdbwqlgaqsdhxe6vund1.jpg"
+    },
+    {
+      "name": "Prost Brew Pub",
+      "description": "Known for its rustic interiors and lively ambiance, Prost offers a range of craft beers brewed in-house, along with a menu featuring Continental and Indian dishes, making it a popular spot for beer lovers.",
+      "rating": 4.2,
+      "address": "749, 10th Main, Koramangala",
+      "price_for_two": "INR 2,000",
+      "speciality": [
+        "Craft Beers",
+        "Chicken Wings"
+      ],
+      "image_link": "https://imgmedia.lbb.in/media/2019/08/5d66d7259b4b7d51f0d16cad_1567020837193.jpg"
+    }
+  ],
+  "bars": [
+    {
+      "name": "ZLB23",
+      "description": "Nestled within The Leela Palace, ZLB23 is celebrated for its sophisticated ambiance and expertly crafted cocktails, earning it the title of Best Bar in India for 2024. ",
+      "rating": 4.8,
+      "address": "The Leela Palace, Old Airport Road",
+      "price_for_two": "INR 5,500",
+      "speciality": [
+        "Prohibition-era Cocktails",
+        "Japanese Old Fashioned"
+      ],
+      "image_link": "https://www.30bestbarsindia.in/wp-content/uploads/2024/01/01-A4.jpg"
+    },
+    {
+      "name": "Copitas",
+      "description": "Located in the Four Seasons Hotel, Copitas offers an elegant setting with a menu of carefully curated cocktails, including unique renditions of the classic Gin and Tonic. ",
+      "rating": 4.7,
+      "address": "Four Seasons Hotel, Bellary Road",
+      "price_for_two": "INR 2,500",
+      "speciality": [
+        "Gin and Tonic Variations",
+        "Martini"
+      ],
+      "image_link": "https://www.fourseasons.com/alt/img-opt/~70.1530.0,0000-315,5000-3000,0000-1687,5000/publish/content/dam/fourseasons/images/web/BNG/BNG_381_original.jpg"
+    },
+    {
+      "name": "Sly Granny",
+      "description": "This chic bar in Indiranagar combines eclectic decor with a menu of innovative cocktails and modern European cuisine, making it a favorite among the city's trendsetters. ",
+      "rating": 4.5,
+      "address": "618, 3rd Floor, 12th Main, Indiranagar",
+      "price_for_two": "INR 2,500",
+      "speciality": [
+        "Planter\u2019s Punch",
+        "Queen\u2019s Park Sizzle"
+      ],
+      "image_link": "https://content.jdmagicbox.com/v2/comp/bangalore/i2/080pxx80.xx80.230116181401.l2i2/catalogue/sly-granny-brigade-road-bangalore-fast-food-k632x9udxb.jpg"
+    },
+    {
+      "name": "10 Speakeasy",
+      "description": "Bangalore\u2019s first speakeasy cocktail bar, hidden behind a paan shop, offers a range of classic and contemporary cocktails in a retro-inspired setting. ",
+      "rating": 4.4,
+      "address": "10, Wood Street, Ashok Nagar",
+      "price_for_two": "INR 2,000",
+      "speciality": [
+        "Millionaire Manhattan",
+        "Darjeeling Dew"
+      ],
+      "image_link": "https://content3.jdmagicbox.com/v2/comp/bangalore/m3/080pxx80.xx80.221013230300.i6m3/catalogue/10-speakeasy-bangalore-restaurants-gn4cpv5stw.jpg"
+    },
+    {
+      "name": "Toast & Tonic",
+      "description": "Known for its focus on gin-based cocktails, Toast & Tonic offers a variety of innovative drinks alongside a menu of modern European dishes. ",
+      "rating": 4.3,
+      "address": "14/1, Wood Street, Ashok Nagar",
+      "price_for_two": "INR 3,000",
+      "speciality": [
+        "British Raj",
+        "Herbalist Gin Cocktails"
+      ],
+      "image_link": "https://dineout-media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto/DINEOUT_ALL_RESTAURANTS/IMAGES/RESTAURANT_IMAGE_SERVICE/2024/7/24/9097fa86-f4a2-4d45-9673-4ebc66c9bdb6_toasttonicbangalore42768f4391214d31ae68c2d7e4b8cdba.JPG"
+    },
+    {
+      "name": "The 13th Floor",
+      "description": "Offering panoramic views of the city skyline, this rooftop bar is renowned for its extensive cocktail menu and live music, providing a memorable evening experience. ",
+      "rating": 4.2,
+      "address": "84, MG Road, Barton Centre",
+      "price_for_two": "INR 2,500",
+      "speciality": [
+        "Cocktails",
+        "Pan-Asian Appetizers"
+      ],
+      "image_link": "https://vmnk.gumlet.io/assets/bangalore/the-13-th-floor-ashok-nagar/images/original/the-13-th-floor-ashok-nagar-xn14x.jpg"
+    },
+    {
+      "name": "Byg Brewski Brewing Company",
+      "description": "One of the largest brewpubs in India, it boasts a rustic ambiance with multiple seating options, serving a variety of craft beers and an eclectic food menu ranging from Indian to Continental cuisines. ",
+      "rating": 4.5,
+      "address": "Hennur Bagalur Road, Hennur",
+      "price_for_two": "INR 2,200",
+      "speciality": [
+        "Craft Beers",
+        "Multi-Cuisine Menu"
+      ],
+      "image_link": "https://theplan.it//awardsContest/2020/Hospitality/5034/12.jpg"
+    },
+    {
+      "name": "The Biere Club",
+      "description": "As Bangalore's first craft brewery, it offers a range of beers brewed in-house, complemented by a menu of European and Indian dishes, all set in a chic, industrial-style space. ",
+      "rating": 4.3,
+      "address": "20/2, Vittal Mallya Road, Ashok Nagar",
+      "price_for_two": "INR 2,000",
+      "speciality": [
+        "Craft Beers",
+        "Beer-Battered Fish and Chips"
+      ],
+      "image_link": "https://imgmedia.lbb.in/media/2024/08/66ac87fe54c79150f6ff2067_1722583038581.jpg"
+    },
+    {
+      "name": "Fenny's Lounge & Kitchen",
+      "description": "Featuring a Mediterranean-inspired ambiance with open-air seating, Fenny's offers a range of cocktails and a menu that blends Continental and Italian cuisines, perfect for a relaxed evening. ",
+      "rating": 4.2,
+      "address": "7, 80 Feet Road, Koramangala",
+      "price_for_two": "INR 2,000",
+      "speciality": [
+        "Cocktails",
+        "Wood-Fired Pizzas"
+      ],
+      "image_link": "https://images.venuebookingz.com/31491-1699268248-wm-fenny-6.jpg"
+    },
+    {
+      "name": "Skyye",
+      "description": "Perched atop UB City, Skyye is known for its rooftop setting with LED-lit flooring, offering a range of cocktails and a menu featuring Asian and Continental dishes, ideal for a night out.",
+      "rating": 4.1,
+      "address": "UB City, Vittal Mallya Road",
+      "price_for_two": "INR 2,500",
+      "speciality": [
+        "Cocktails",
+        "Sushi Platters"
+      ],
+      "image_link": "https://cdn.venuelook.com/uploads/space_1372/1409896961_595x400.png"
+    }
+  ],
+  "breweries": [
+    {
+      "name": "Toit",
+      "description": "A renowned microbrewery in Indiranagar, Toit offers freshly brewed craft beers paired with a diverse menu, including wood-fired pizzas and continental dishes, all in a vibrant atmosphere.",
+      "rating": 4.5,
+      "address": "298, 100 Feet Road, Indiranagar",
+      "price_for_two": "INR 2,000",
+      "speciality": [
+        "Craft Beers",
+        "Wood-Fired Pizzas"
+      ],
+      "image_link": "https://toit.in/wp-content/uploads/2024/09/Image-Paragraph-Section-.jpeg"
+    },
+    {
+      "name": "Arbor Brewing Company",
+      "description": "This spacious brewpub brings American-style craft beers to Bangalore, complemented by a menu featuring global cuisines, making it a favorite among beer enthusiasts.",
+      "rating": 4.4,
+      "address": "8, Magrath Road, Brigade Road",
+      "price_for_two": "INR 2,500",
+      "speciality": [
+        "Craft Beers",
+        "Beer-Battered Onion Rings"
+      ],
+      "image_link": "https://ik.imagekit.io/pu0hxo64d/uploads/gallery/interior-of-arbor-brewing-company-brigade-road.JPG"
+    },
+    {
+      "name": "Windmills Craftworks",
+      "description": "Combining craft beer, live jazz, and a library ambiance, this artsy spot in Whitefield is perfect for a unique dining and music experience.",
+      "rating": 4.5,
+      "address": "331, Road 5B, EPIP Zone, Whitefield",
+      "price_for_two": "INR 3,000",
+      "speciality": [
+        "Craft Beers",
+        "Live Jazz Performances"
+      ],
+      "image_link": "https://ik.imagekit.io/pu0hxo64d/uploads/gallery/interior-of-windmills-craftworks-whitefield.PNG"
+    },
+    {
+      "name": "Byg Brewski Brewing Company",
+      "description": "One of the largest brewpubs in India, it boasts a rustic ambiance with multiple seating options, serving a variety of craft beers and an eclectic food menu ranging from Indian to Continental cuisines.",
+      "rating": 4.5,
+      "address": "Hennur Bagalur Road, Hennur",
+      "price_for_two": "INR 2,200",
+      "speciality": [
+        "Craft Beers",
+        "Multi-Cuisine Menu"
+      ],
+      "image_link": "https://b.zmtcdn.com/data/pictures/8/18706428/bfedecafe497d8f11d128e524789ce6e_featured_v2.jpg"
+    },
+    {
+      "name": "The Biere Club",
+      "description": "As Bangalore's first craft brewery, it offers a range of beers brewed in-house, complemented by a menu of European and Indian dishes, all set in a chic, industrial-style space.",
+      "rating": 4.3,
+      "address": "20/2, Vittal Mallya Road, Ashok Nagar",
+      "price_for_two": "INR 2,000",
+      "speciality": [
+        "Craft Beers",
+        "Beer-Battered Fish and Chips"
+      ],
+      "image_link": "https://s3images.coroflot.com/user_files/individual_files/277207_XP2OoPqs_PQV86Ply1cU1Slqs.jpg"
+    },
+    {
+      "name": "Big Brewsky",
+      "description": "Known for its expansive space and serene ambiance, Big Brewsky offers a variety of craft beers alongside a menu featuring Asian and Continental cuisines, perfect for a relaxed evening.",
+      "rating": 4.4,
+      "address": "Sarjapur Road, Before WIPRO Corporate Office",
+      "price_for_two": "INR 2,000",
+      "speciality": [
+        "Craft Beers",
+        "Asian Platters"
+      ],
+      "image_link": "https://d4t7t8y8xqo0t.cloudfront.net/resized/750X436/restaurant%2F685396%2Frestaurant020230901091132.jpg"
+    },
+    {
+      "name": "XOOX Brewmill",
+      "description": "Housed in a refurbished factory, XOOX Brewmill combines industrial charm with live music, offering a range of craft beers and a menu featuring global cuisines.",
+      "rating": 4.3,
+      "address": "8, Koramangala Industrial Layout, Koramangala",
+      "price_for_two": "INR 2,000",
+      "speciality": [
+        "Craft Beers",
+        "Live Music"
+      ],
+      "image_link": "https://vmnk.gumlet.io/assets/bangalore/xoox-brewmill-koramangala/images/original/xoox-brewmill-koramangala-4mzgr.jpg"
+    },
+    {
+      "name": "Red Rhino",
+      "description": "Located in Whitefield, Red Rhino offers a variety of craft beers brewed in-house, complemented by a menu featuring Indian and Continental dishes, all in a vibrant setting.",
+      "rating": 4.2,
+      "address": "4th Floor, Uptown Square, Whitefield",
+      "price_for_two": "INR 2,000",
+      "speciality": [
+        "Craft Beers",
+        "Indian Grills"
+      ],
+      "image_link": "https://b.zmtcdn.com/data/pictures/0/18492910/ec8263b904d613a0c7eaa2af61a99841_featured_v2.jpg"
+    },
+    {
+      "name": "Brewsky",
+      "description": "With its rooftop setting and panoramic views, Brewsky offers a range of craft beers and a menu featuring Continental and Asian cuisines, making it a popular spot for evening gatherings.",
+      "rating": 4.3,
+      "address": "4th Floor, 22, 5th Block, Koramangala",
+      "price_for_two": "INR 2,000",
+      "speciality": [
+        "Craft Beers",
+        "Rooftop Ambiance"
+      ],
+      "image_link": "https://d4t7t8y8xqo0t.cloudfront.net/app//resized/818X450/restaurant/685396/restaurant020230901091204.jpg"
+    },
+    {
+      "name": "Prost Brew Pub",
+      "description": "Known for its rustic interiors and lively ambiance, Prost offers a range of craft beers brewed in-house, along with a menu featuring Continental and Indian dishes, making it a popular spot for beer lovers.",
+      "rating": 4.2,
+      "address": "749, 10th Main, Koramangala",
+      "price_for_two": "749, 10th Main, Koramangala",
+      "speciality": [
+        "Craft Beers",
+        "Chicken Wings"
+      ],
+      "image_link": "https://res.cloudinary.com/https-highape-com/image/upload/v1588522405/r5tp9xnfgwphypvk2itl.jpg"
+    }
+  ],
+  "streetfood": [
+    {
+      "name": "VV Puram Food Street",
+      "description": "Also known as Thindi Beedi, this bustling street is a haven for food lovers, offering a variety of South Indian delicacies like dosas, idlis, and vadas, along with unique treats like akki rotti and paddu. ",
+      "rating": 4.5,
+      "address": "VV Puram, Bengaluru",
+      "price_for_two": "INR 200",
+      "speciality": [
+        "Akki Rotti",
+        "Paddu"
+      ],
+      "image_link": "https://www.colive.com/blog/wp-content/uploads/2020/08/Screenshot-2024-06-19-155744.png"
+    },
+    {
+      "name": "Sri Sairam's Chats and Juice Centre",
+      "description": "Famous for its extensive chaat menu, this stall offers over 99 varieties, including unique combinations like Disco Chaat and Crazy Chaat, making it a must-visit for chaat enthusiasts. ",
+      "rating": 4.4,
+      "address": "Malleshwaram, Bengaluru",
+      "price_for_two": "INR 150",
+      "speciality": [
+        "Disco Chaat",
+        "Crazy Chaat"
+      ],
+      "image_link": "https://fastly.4sqi.net/img/general/600x600/82071961_6U4lQDWRXZuWWUJUg1-uBLoN1UFGPNXVjlDgGT32CPc.jpg"
+    },
+    {
+      "name": "Rakesh Kumar Pani Puri Stall",
+      "description": "A popular spot for authentic North Indian-style pani puri, offering a perfect blend of spicy, tangy, and sweet flavors that keep customers coming back for more. ",
+      "rating": 4.3,
+      "address": "Jayanagar 3rd Block, Bengaluru",
+      "price_for_two": "INR 100",
+      "speciality": [
+        "Pani Puri",
+        "Dahi Puri"
+      ],
+      "image_link": "https://bangaloremirror.indiatimes.com/thumb/msid-67921944,width-1200,height-900,resizemode-4/.jpg"
+    },
+    {
+      "name": "Chatar Patar",
+      "description": "Known for its innovative take on traditional street food, Chatar Patar offers a variety of fusion dishes like panipuri shots and flavored bhel, providing a modern twist to classic favorites. ",
+      "rating": 4.2,
+      "address": "Koramangala, Bengaluru",
+      "price_for_two": "INR 200",
+      "speciality": [
+        "Panipuri Shots",
+        "Flavored Bhel"
+      ],
+      "image_link": "https://content.jdmagicbox.com/comp/indore/j7/0731px731.x731.170609082823.v2j7/catalogue/chatar-patar-indore-fast-food-5uxye.jpg"
+    },
+    {
+      "name": "Khan Saheb Grills and Rolls",
+      "description": "Specializing in succulent kebabs and rolls, this stall offers a variety of fillings wrapped in soft rotis, making it a favorite for meat lovers seeking quick bites. ",
+      "rating": 4.3,
+      "address": "Indiranagar, Bengaluru",
+      "price_for_two": "INR 250",
+      "speciality": [
+        "Chicken Tikka Roll",
+        "Mutton Seekh Roll"
+      ],
+      "image_link": "https://images.jdmagicbox.com/comp/bangalore/r5/080pxx80.xx80.170413083148.t7r5/catalogue/khan-saheb-grills-and-rolls-malleswaram-bangalore-fast-food-mdprykiu7l.jpg"
+    },
+    {
+      "name": "Hari's Super Sandwich",
+      "description": "A go-to spot for sandwich lovers, offering a range of unique combinations like chocolate sandwich and dahi toast, blending sweet and savory flavors seamlessly. ",
+      "rating": 4.2,
+      "address": "Jayanagar 4th Block, Bengaluru",
+      "price_for_two": "INR 150",
+      "speciality": [
+        "Chocolate Sandwich",
+        "Dahi Toast"
+      ],
+      "image_link": "https://imgmedia.lbb.in/media/2019/06/5d109f3f307bb2058efc42b3_1561370431650.jpg"
+    },
+    {
+      "name": "Central Tiffin Room (CTR)",
+      "description": "Renowned for its crispy butter masala dosas, CTR has been serving authentic South Indian breakfast items for decades, maintaining its legacy of taste and quality. ",
+      "rating": 4.5,
+      "address": "Malleshwaram, Bengaluru",
+      "price_for_two": "INR 200",
+      "speciality": [
+        "Butter Masala Dosa",
+        "Mangalore Bajji"
+      ],
+      "image_link": "https://bangalorelocale.com/wp-content/uploads/2021/07/CTR-Malleshwaram.jpg"
+    },
+    {
+      "name": "Shivaji Military Hotel",
+      "description": "A legendary spot for non-vegetarian fare, especially known for its flavorful Donne Biryani served in eco-friendly leaf containers, attracting food enthusiasts from all over. ",
+      "rating": 4.4,
+      "address": "Jayanagar, Bengaluru",
+      "price_for_two": "INR 300",
+      "speciality": [
+        "Donne Biryani",
+        "Mutton Chops"
+      ],
+      "image_link": "https://b.zmtcdn.com/data/reviews_photos/5f0/0cb1704b6b25b1bc81be237d0d0675f0_1582300065.jpg"
+    },
+    {
+      "name": "Brahmin's Coffee Bar",
+      "description": "Famous for its soft idlis and crispy vadas served with coconut chutney, accompanied by strong filter coffee, making it a breakfast favorite among locals. ",
+      "rating": 4.5,
+      "address": "Basavanagudi, Bengaluru",
+      "price_for_two": "INR 150",
+      "speciality": [
+        "Idli-Vada Combo",
+        "Filter Coffee"
+      ],
+      "image_link": "https://content.jdmagicbox.com/v2/comp/bangalore/c5/080pxx80.xx80.221230232318.f5c5/catalogue/brahmin-s-cafe-by-rkr-ashoknagar-bangalore-restaurants-nxpmzn1rqo.jpg"
+    },
+    {
+      "name": "Mosque Road Stalls",
+      "description": "Especially vibrant during Ramadan, these stalls offer a variety of kebabs, biryanis, and sweets like phirni, providing a rich culinary experience reflective of Bangalore's diverse culture. ",
+      "rating": 4.3,
+      "address": "Frazer Town, Bengaluru",
+      "price_for_two": "INR 300",
+      "speciality": [
+        "Seekh Kebabs",
+        "Phirni"
+      ],
+      "image_link": "https://i.pinimg.com/736x/6e/f9/36/6ef936b56f0344aff377a4d0bf803d9a.jpg"
+    }
+  ],
+  "dessertparlors": [
+    {
+      "name": "Art of Delight",
+      "description": "A cozy dessert parlor known for its delectable sundaes, cheesecakes, and waffles, offering a perfect spot for sweet indulgence.",
+      "rating": 4.5,
+      "address": "44/1, Residency Road, Ashok Nagar",
+      "price_for_two": "INR 500",
+      "speciality": [
+        "Nutella Cheesecake",
+        "Red Velvet Sundae"
+      ],
+      "image_link": "https://b.zmtcdn.com/data/pictures/4/18422924/19c230bb123b5ee36061d60849bfab19.jpg"
+    },
+    {
+      "name": "Corner House Ice Cream",
+      "description": "A beloved chain offering a variety of ice creams and sundaes, with their signature \"Death by Chocolate\" being a crowd favorite.",
+      "rating": 4.4,
+      "address": "Multiple Locations",
+      "price_for_two": "INR 400",
+      "speciality": [
+        "Death by Chocolate",
+        "Hot Chocolate Fudge"
+      ],
+      "image_link": "https://content.jdmagicbox.com/comp/raipur-chhattisgarh/k7/9999px771.x771.180910103523.z7k7/catalogue/celesty-ice-cream-shanker-nagar-raipur-chhattisgarh-ice-cream-parlours-y7xshat7sf-250.jpg"
+    },
+    {
+      "name": "Smoor",
+      "description": "A premium chocolatier and patisserie offering artisanal chocolates, cakes, and desserts in an elegant setting.",
+      "rating": 4.6,
+      "address": "1131, 100 Feet Road, Indiranagar",
+      "price_for_two": "INR 800",
+      "speciality": [
+        "Belgian Chocolate Cake",
+        "Macarons"
+      ],
+      "image_link": "https://images.jdmagicbox.com/v2/comp/bangalore/a6/080pxx80.xx80.221119210833.m2a6/catalogue/smoor-sadashiva-nagar-bangalore-otqgvrh89e.jpg"
+    },
+    {
+      "name": "Glen's Bakehouse",
+      "description": "Known for its freshly baked goods, including cupcakes, brownies, and their famous red velvet cake, served in a charming ambiance.",
+      "rating": 4.3,
+      "address": "297, 100 Feet Road, Indiranagar",
+      "price_for_two": "INR 600",
+      "speciality": [
+        "Red Velvet Cake",
+        "Chocolate Mud Pie"
+      ],
+      "image_link": "https://b.zmtcdn.com/data/pictures/6/20821486/4ac1bb2deb89c50e2262d6953c5f68a5.jpeg"
+    },
+    {
+      "name": "Berry'd Alive",
+      "description": "Specializing in berry-based desserts, offering a range of cheesecakes, mousses, and parfaits that highlight fresh, fruity flavors.",
+      "rating": 4.4,
+      "address": "22, St. Marks Road, Ashok Nagar",
+      "price_for_two": "INR 500",
+      "speciality": [
+        "Raspberry Cheesecake",
+        "Blueberry Mousse"
+      ],
+      "image_link": "https://content.jdmagicbox.com/v2/comp/bangalore/x2/080pxx80.xx80.160129150443.l4x2/catalogue/berry-d-alive-whitefield-bangalore-desserts-5ket73.jpg"
+    },
+    {
+      "name": "Dolci",
+      "description": "An Italian-inspired dessert cafe offering a variety of pastries, tarts, and gelatos, perfect for a sweet escape.",
+      "rating": 4.2,
+      "address": "18/3, Ali Askar Road, Cunningham Road",
+      "price_for_two": "INR 700",
+      "speciality": [
+        "Tiramisu",
+        "Lemon Tart"
+      ],
+      "image_link": "https://b.zmtcdn.com/data/pictures/7/52097/6c9077fc8004ee55772b7a024f123fcf.jpg"
+    },
+    {
+      "name": "Aubree",
+      "description": "A boutique patisserie known for its designer cakes, macarons, and chocolates, ideal for special occasions and gifting.",
+      "rating": 4.5,
+      "address": "298, 100 Feet Road, Indiranagar",
+      "price_for_two": "INR 1,000",
+      "speciality": [
+        "Custom Cakes",
+        "Assorted Macarons"
+      ],
+      "image_link": "https://b.zmtcdn.com/data/pictures/7/19279447/30b8f3107584cd51d167a8b4690d4474.jpg"
+    },
+    {
+      "name": "Cream Stone",
+      "description": "Offering a unique ice cream experience where customers can create their own combinations with a variety of mix-ins on a frozen stone.",
+      "rating": 4.3,
+      "address": "Multiple Locations",
+      "price_for_two": "INR 400",
+      "speciality": [
+        "Stone Ice Cream Creations",
+        "Fruit Exotica"
+      ],
+      "image_link": "https://www.businessoffood.in/wp-content/uploads/2024/02/cream-stone-2.jpg"
+    },
+    {
+      "name": "Desserted",
+      "description": "A quaint dessert parlor offering a range of cakes, pastries, and cookies, with a focus on quality ingredients and classic recipes.",
+      "rating": 4.2,
+      "address": "42, 8th Main Road, Vasanth Nagar",
+      "price_for_two": "INR 500",
+      "speciality": [
+        "Chocolate Truffle Cake",
+        "Almond Biscotti"
+      ],
+      "image_link": "https://content.jdmagicbox.com/v2/comp/bangalore/z1/080pxx80.xx80.200312191019.a3z1/catalogue/flyover-drinkery-hebbal-bangalore-restaurants-7kkt4beho7-250.jpg"
+    },
+    {
+      "name": "Lavonne",
+      "description": "A patisserie and baking academy offering exquisite pastries, croissants, and a delightful cafe experience for dessert enthusiasts.",
+      "rating": 4.5,
+      "address": "151, 2nd Cross, Domlur II Stage",
+      "price_for_two": "INR 800",
+      "speciality": [
+        "Almond Croissant",
+        "Opera Cake"
+      ],
+      "image_link": "https://airmenusimages.blr1.cdn.digitaloceanspaces.com/outlets/outlets_80_1623783029.6598654.png"
+    }
+  ],
+  "bakeries": [
+    {
+      "name": "Albert Bakery",
+      "description": "Established in 1902, Albert Bakery is renowned for its mutton samosas and khova naan, offering a taste of Bangalore's rich culinary heritage.",
+      "rating": 4.5,
+      "address": "93, Mosque Road, Frazer Town",
+      "price_for_two": "INR 200",
+      "speciality": [
+        "Mutton Samosas",
+        "Khova Naan"
+      ],
+      "image_link": "https://media-cdn.tripadvisor.com/media/photo-s/18/67/e2/84/entrance.jpg"
+    },
+    {
+      "name": "Thom's Bakery",
+      "description": "A beloved spot since 1960, Thom's is famous for its plum cakes and freshly baked bread, making it a go-to for traditional baked goods.",
+      "rating": 4.4,
+      "address": "1/2, Wheeler Road, Frazer Town",
+      "price_for_two": "INR 250",
+      "speciality": [
+        "Plum Cake",
+        "Fresh Bread"
+      ],
+      "image_link": "https://i.pinimg.com/736x/61/a4/de/61a4debf5ef2c97f4bea4e565d2d19e2.jpg"
+    },
+    {
+      "name": "Iyengar Bakery",
+      "description": "With multiple outlets across the city, Iyengar Bakery is known for its soft, fluffy buns and honey cake, offering a taste of authentic South Indian bakery items.",
+      "rating": 4.3,
+      "address": "Multiple Locations",
+      "price_for_two": "INR 150",
+      "speciality": [
+        "Honey Cake",
+        "Khara Bun"
+      ],
+      "image_link": "https://content.jdmagicbox.com/v2/comp/bangalore/n1/080pxx80.xx80.210810225045.w2n1/catalogue/iyengars-bakery-bilekahalli-bangalore-bakeries-zdhl65k2gh.jpg"
+    },
+    {
+      "name": "O.G. Variar & Sons",
+      "description": "Operating since 1955, this bakery is celebrated for its butter biscuits and vegetable puffs, maintaining a legacy of quality and taste.",
+      "rating": 4.4,
+      "address": "68, 12th Main Road, Rajajinagar",
+      "price_for_two": "INR 200",
+      "speciality": [
+        "Butter Biscuits",
+        "Vegetable Puffs"
+      ],
+      "image_link": "https://fastly.4sqi.net/img/general/600x600/46356676_Q7W7XgrQkkJ3h_Rtst1MhfmHrAgT4EfNSx8dmnpADoo.jpg"
+    },
+    {
+      "name": "Fatima Bakery",
+      "description": "Known for its wide range of pastries, cakes, and bread, Fatima Bakery has been serving delightful treats since 1957.",
+      "rating": 4.3,
+      "address": "1, Hosur Road, Richmond Town",
+      "price_for_two": "INR 300",
+      "speciality": [
+        "Plum Cake",
+        "Chicken Puff"
+      ],
+      "image_link": "https://content.jdmagicbox.com/v2/comp/bangalore/f1/080pxx80.xx80.160207234446.k6f1/catalogue/fatima-bakeries-koramangala-6th-block-bangalore-bakeries-6rgwq-250.jpg"
+    },
+    {
+      "name": "Koshy's Bakery",
+      "description": "A part of the iconic Koshy's restaurant, the bakery offers a variety of cakes, pastries, and bread, maintaining its old-world charm.",
+      "rating": 4.2,
+      "address": "39, St. Marks Road, Ashok Nagar",
+      "price_for_two": "INR 250",
+      "speciality": [
+        "Rum Cake",
+        "Chicken Sandwich"
+      ],
+      "image_link": "https://b.zmtcdn.com/data/reviews_photos/cf8/096eabc226272945e960285325368cf8_1637601463.jpg?fit=around|750:500&crop=750:500;*,*"
+    },
+    {
+      "name": "All Saints Bakery",
+      "description": "Established in 1969, All Saints is known for its plum cakes and rich cream pastries, offering a nostalgic experience for its patrons.",
+      "rating": 4.1,
+      "address": "2, Brigade Road, Ashok Nagar",
+      "price_for_two": "INR 200",
+      "speciality": [
+        "Plum Cake",
+        "Rich Cream Pastries"
+      ],
+      "image_link": "https://fastly.4sqi.net/img/general/200x200/35263271_G2Iy24HGqOeYgUuujkOBBjUnR6igXePLEcIP6p0sv3c.jpg"
+    },
+    {
+      "name": "Spicy North Bakery",
+      "description": "Famous for its spicy chicken puffs and a variety of savory snacks, this bakery offers a unique twist to traditional baked goods.",
+      "rating": 4.0,
+      "address": "15, Mosque Road, Frazer Town",
+      "price_for_two": "INR 150",
+      "speciality": [
+        "Spicy Chicken Puff",
+        "Mutton Samosa"
+      ],
+      "image_link": "https://b.zmtcdn.com/data/collections/2b9361aa328a43b08986f77bbec280bd_1709810493.png"
+    },
+    {
+      "name": "Bangalore Baking Company",
+      "description": "Located within the JW Marriott, this upscale bakery offers a range of artisanal bread, pastries, and desserts, perfect for a gourmet experience.",
+      "rating": 4.5,
+      "address": "JW Marriott, Vittal Mallya Road",
+      "price_for_two": "INR 500",
+      "speciality": [
+        "Artisanal Bread",
+        "Gourmet Pastries"
+      ],
+      "image_link": "https://b.zmtcdn.com/data/pictures/5/54155/4b6af83d51018cb5c16d0be74de444a7.jpg"
+    },
+    {
+      "name": "Glen's Bakehouse",
+      "description": "Known for its red velvet cupcakes and cozy ambiance, Glen's offers a variety of baked goods and desserts, making it a popular spot for dessert lovers.",
+      "rating": 4.3,
+      "address": "297, 100 Feet Road, Indiranagar",
+      "price_for_two": "INR 400",
+      "speciality": [
+        "Red Velvet Cupcake",
+        "Chocolate Mud Pie"
+      ],
+      "image_link": "https://b.zmtcdn.com/data/pictures/6/20821486/4ac1bb2deb89c50e2262d6953c5f68a5.jpeg"
+    }
+  ],
+  "finedining": [
+    {
+      "name": "Karavalli",
+      "description": "Located within The Gateway Hotel, Karavalli offers an authentic coastal dining experience, showcasing the rich flavors of South India's coastal regions in a traditional setting. ",
+      "rating": 4.5,
+      "address": "The Gateway Hotel, Residency Road",
+      "price_for_two": "INR 3,000",
+      "speciality": [
+        "Seafood Delicacies",
+        "Mangalorean Cuisine"
+      ],
+      "image_link": "https://b.zmtcdn.com/data/pictures/5/50565/51b719456b8295934915930913ce5fb3.jpg?fit=around|750:500&crop=750:500;*,*"
+    },
+    {
+      "name": "Jamavar",
+      "description": "Situated in The Leela Palace, Jamavar presents an opulent ambiance with a menu that celebrates the diverse flavors of Indian cuisine, making it a favorite among connoisseurs. ",
+      "rating": 4.4,
+      "address": "The Leela Palace, Old Airport Road",
+      "price_for_two": "INR 4,000",
+      "speciality": [
+        "North and South Indian Specialties"
+      ],
+      "image_link": "https://content3.jdmagicbox.com/v2/comp/bangalore/57/080p5176157/catalogue/jamavar-the-leela-palace--old-airport-road-bangalore-north-indian-restaurants-jw6pk.jpg"
+    },
+    {
+      "name": "Edo Restaurant & Bar",
+      "description": "Nestled in ITC Gardenia, Edo offers an authentic Japanese dining experience with a focus on sushi, sashimi, and teppanyaki, all set in a contemporary ambiance. ",
+      "rating": 4.7,
+      "address": "ITC Gardenia, Residency Road",
+      "price_for_two": "INR 4,500",
+      "speciality": [
+        "Sushi",
+        "Sashimi",
+        "Teppanyaki"
+      ],
+      "image_link": "https://b.zmtcdn.com/data/pictures/2/51532/aba084c454e79e52d28183e9b23623dc.jpg"
+    },
+    {
+      "name": "Rim Naam",
+      "description": "Located within The Oberoi, Rim Naam provides a serene alfresco dining experience, specializing in Thai cuisine amidst a lush garden setting, perfect for romantic dinners. ",
+      "rating": 4.9,
+      "address": "The Oberoi, MG Road",
+      "price_for_two": "INR 4,000",
+      "speciality": [
+        "Thai Cuisine",
+        "Alfresco Dining"
+      ],
+      "image_link": "https://b.zmtcdn.com/data/pictures/7/50857/e15161949cb277f029258e188178ae9a.jpg"
+    },
+    {
+      "name": "Le Cirque Signature",
+      "description": "Housed in The Leela Palace, Le Cirque Signature offers a blend of French and Italian cuisines in an elegant setting, known for its impeccable service and gourmet dishes. ",
+      "rating": 4.5,
+      "address": "The Leela Palace, Old Airport Road",
+      "price_for_two": "INR 5,000",
+      "speciality": [
+        "French and Italian Gourmet Dishes"
+      ],
+      "image_link": "https://b.zmtcdn.com/data/pictures/5/59215/d14ec198bc1ce01e79a534c82a8d9515.jpg"
+    },
+    {
+      "name": "Alba",
+      "description": "Situated in JW Marriott, Alba specializes in Italian cuisine, offering a range of classic and contemporary dishes in a sophisticated ambiance, ideal for special occasions. ",
+      "rating": 4.4,
+      "address": "JW Marriott, Vittal Mallya Road",
+      "price_for_two": "INR 3,500",
+      "speciality": [
+        "Italian Cuisine",
+        "Signature Pastas"
+      ],
+      "image_link": "https://b.zmtcdn.com/data/pictures/8/55908/d3f77230ee3bbd96dc0f16cced8b24d9.jpg"
+    },
+    {
+      "name": "Ssaffron",
+      "description": "Located in Shangri-La Hotel, Ssaffron offers panoramic city views alongside a menu that spans North and South Indian cuisines, providing a luxurious dining experience. ",
+      "rating": 4.5,
+      "address": "Shangri-La Hotel, Vasanth Nagar",
+      "price_for_two": "INR 4,000",
+      "speciality": [
+        "North and South Indian Specialties"
+      ],
+      "image_link": "https://b.zmtcdn.com/data/pictures/2/57702/07af89a34823df14d66937f776511804.jpg"
+    },
+    {
+      "name": "Grasshopper",
+      "description": "Set on Bannerghatta Road, Grasshopper offers a unique dining experience with a fixed multi-course menu that changes regularly, focusing on European cuisine in a minimalist setting. ",
+      "rating": 4.2,
+      "address": "Bannerghatta Road",
+      "price_for_two": "INR 5,000",
+      "speciality": [
+        "European Multi-Course Menu"
+      ],
+      "image_link": "https://b.zmtcdn.com/data/pictures/1/50451/33d6b138b175a0b0e32b1db01d00a0b9.jpg"
+    },
+    {
+      "name": "Tiamo",
+      "description": "Located in Conrad Bengaluru, Tiamo offers Mediterranean cuisine with poolside seating, providing a relaxed yet upscale dining experience with views of Ulsoor Lake. ",
+      "rating": 4.3,
+      "address": "Conrad Bengaluru, Ulsoor",
+      "price_for_two": "INR 3,500",
+      "speciality": [
+        "Mediterranean Cuisine",
+        "Poolside Dining"
+      ],
+      "image_link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfG2vo0OA8m_sxlLepQWVdh-xfKYRegdBeHQ&s"
+    },
+    {
+      "name": "Far & East",
+      "description": "Situated in Four Seasons Hotel, Far & East specializes in Asian cuisines, including Chinese, Japanese, and Thai, served in a chic and modern setting, perfect for gourmet enthusiasts. ",
+      "rating": 4.3,
+      "address": "Four Seasons Hotel, RT Nagar",
+      "price_for_two": "INR 4,500",
+      "speciality": [
+        "Asian Cuisine",
+        "Sushi",
+        "Dim Sum"
+      ],
+      "image_link": "https://images.jdmagicbox.com/v2/comp/bangalore/f5/080pxx80.xx80.190624153406.t4f5/catalogue/far-and-east-four-seasons-hotel-ganga-nagar-extension-bangalore-restaurants-bn45gfqc2j.jpg"
+    }
+  ],
+  "casualdining": [
+    {
+      "name": "The Bangalore Cafe",
+      "description": "A vibrant vegetarian restaurant offering a diverse menu ranging from North Indian to Continental dishes, set in a spacious and lively ambiance. (dineout.co.in)",
+      "rating": 4.3,
+      "address": "Shanti Nagar, Central Bangalore",
+      "price_for_two": "INR 800",
+      "speciality": [
+        "Continental",
+        "North Indian",
+        "Fast Food"
+      ],
+      "image_link": "https://www.smergers.com/media/businessphoto/71850-1658820795-c64e57db-7b4b-4360-b414-dd2cd559c2e4.png"
+    },
+    {
+      "name": "Salt - Indian Restaurant Bar & Grill",
+      "description": "A contemporary dining spot known for its modern take on Indian cuisine, offering a variety of North Indian, Mughlai, and South Indian dishes in a chic setting. (dineout.co.in)",
+      "rating": 4.5,
+      "address": "Vittal Mallya Road, Central Bangalore",
+      "price_for_two": "INR 1,200",
+      "speciality": [
+        "North Indian",
+        "Mughlai",
+        "South Indian"
+      ],
+      "image_link": "https://b.zmtcdn.com/data/pictures/0/20039390/a1f2a486867328616139f33fc95f7d69.jpg"
+    },
+    {
+      "name": "Toscano",
+      "description": "An Italian restaurant offering authentic pizzas, pastas, and other Italian delicacies, known for its cozy ambiance and attentive service. (dineout.co.in)",
+      "rating": 4.5,
+      "address": "UB City, Central Bangalore",
+      "price_for_two": "INR 1,600",
+      "speciality": [
+        "Italian Cuisine",
+        "Wood-Fired Pizzas"
+      ],
+      "image_link": "https://tariqsp.com/wp-content/uploads/2023/02/toscano.png"
+    },
+    {
+      "name": "Shiro",
+      "description": "A stylish restaurant offering Japanese and Asian cuisines, known for its sushi, dim sum, and elegant ambiance, making it a favorite among diners. (dineout.co.in)",
+      "rating": 4.3,
+      "address": "UB City, Vittal Mallya Road, Central Bangalore",
+      "price_for_two": "INR 3,000",
+      "speciality": [
+        "Japanese",
+        "Asian",
+        "Sushi",
+        "Dim Sum"
+      ],
+      "image_link": "https://mir-s3-cdn-cf.behance.net/project_modules/disp/141b0316749113.562b0c552f2d9.jpg"
+    },
+    {
+      "name": "Farzi Cafe",
+      "description": "A modern Indian bistro offering innovative fusion dishes that blend traditional Indian flavors with global culinary techniques, set in a chic and contemporary setting. (dineout.co.in)",
+      "rating": 4.3,
+      "address": "UB City, Vittal Mallya Road, Central Bangalore",
+      "price_for_two": "INR 1,600",
+      "speciality": [
+        "Modern Indian",
+        "Fusion Cuisine"
+      ],
+      "image_link": "https://dineout-media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto/v1677189657/f856ff9334dbbc3f193b8b509e972a71.jpg"
+    },
+    {
+      "name": "The Fatty Bao",
+      "description": "An Asian gastro bar offering a variety of dim sum, sushi, and other Asian delicacies, known for its vibrant ambiance and creative cocktails. (dineout.co.in)",
+      "rating": 4.6,
+      "address": "Lavelle Road, Central Bangalore",
+      "price_for_two": "INR 2,000",
+      "speciality": [
+        "Asian",
+        "Chinese",
+        "Sushi",
+        "Dim Sum"
+      ],
+      "image_link": "https://b.zmtcdn.com/data/pictures/8/58268/97778bacfe7f9223f099c322d2fc2b18.jpg"
+    },
+    {
+      "name": "Sriracha",
+      "description": "An Asian restaurant offering a variety of dishes from across the continent, known for its flavorful curries, stir-fries, and dim sum, set in a contemporary ambiance. (dineout.co.in)",
+      "rating": 4.4,
+      "address": "UB City, Vittal Mallya Road, Central Bangalore",
+      "price_for_two": "INR 1,600",
+      "speciality": [
+        "Asian Cuisine",
+        "Curries",
+        "Stir-Fries"
+      ],
+      "image_link": "https://content.jdmagicbox.com/v2/comp/bangalore/l4/080pxx80.xx80.170911121231.q6l4/catalogue/sriracha-restaurant-vittal-mallya-road-bangalore-restaurants-mktk3-250.jpg"
+    },
+    {
+      "name": "Smoke House Deli",
+      "description": "A European-style cafe offering a variety of sandwiches, pastas, and grills, known for its quirky decor and relaxed atmosphere, making it a popular spot for casual dining. (dineout.co.in)",
+      "rating": 4.4,
+      "address": "Lavelle Road, Central Bangalore",
+      "price_for_two": "INR 1,400",
+      "speciality": [
+        "European",
+        "Continental",
+        "Italian"
+      ],
+      "image_link": "https://www.smokehousedeli.in/wp-content/uploads/2023/07/NESCO.jpg"
+    },
+    {
+      "name": "Sanchez",
+      "description": "A Mexican restaurant offering authentic tacos, burritos, and other Mexican delicacies, known for its vibrant decor and lively atmosphere, making it a favorite among diners. (dineout.co.in)",
+      "rating": 4.3,
+      "address": "UB City, Vittal Mallya Road, Central Bangalore",
+      "price_for_two": "INR 1,800",
+      "speciality": [
+        "Mexican Cuisine",
+        "Tacos",
+        "Burritos"
+      ],
+      "image_link": "https://b.zmtcdn.com/data/pictures/6/21175666/8c3982daa4c332287dad7c41604a86e8.jpg"
+    },
+    {
+      "name": "Ozaa - Mediterranean Grills",
+      "description": "A Mediterranean restaurant offering a variety of grills, salads, and other Mediterranean delicacies, known for its fresh ingredients and flavorful dishes, set in a relaxed ambiance. (dineout.co.in)",
+      "rating": 4.4,
+      "address": "Oakwood Premier Prestige Bangalore, Vittal Mallya Road, Central Bangalore",
+      "price_for_two": "INR 2,500",
+      "speciality": [
+        "Mediterranean Cuisine",
+        "Grills",
+        "Salads"
+      ],
+      "image_link": "https://b.zmtcdn.com/data/pictures/4/19586034/dbbda15053538aeebc46c2fb5dd9d904_featured_v2.jpg"
+    }
+  ],
+  "buffetrestaurants": [
+    {
+      "name": "Barbeque Nation",
+      "description": "Renowned for its live grills embedded in dining tables, Barbeque Nation offers an extensive buffet featuring a variety of barbecued starters, main courses, and desserts, catering to both vegetarians and non-vegetarians.",
+      "rating": 4.5,
+      "address": "Multiple Locations",
+      "price_for_two": "INR 1,600",
+      "speciality": [
+        "Live Grill",
+        "Wide Variety of Starters"
+      ],
+      "image_link": "https://content.jdmagicbox.com/v2/comp/bangalore/94/080p5604994/catalogue/barbeque-nation-hal-2nd-stage-indiranagar-bangalore-barbeque-restaurants-3misktmdz3-250.jpg"
+    },
+    {
+      "name": "Chutney Chang",
+      "description": "Offering a fusion of Indian and Chinese cuisines, Chutney Chang boasts over 70 dishes in its buffet spread, including a variety of chaats, dim sums, and desserts, making it a favorite among buffet enthusiasts.",
+      "rating": 4.4,
+      "address": "44, HM Eleganza, Museum Road",
+      "price_for_two": "INR 1,500",
+      "speciality": [
+        "Indian and Chinese Fusion",
+        "Extensive Spread"
+      ],
+      "image_link": "https://media-cdn.tripadvisor.com/media/photo-s/05/ed/91/73/chutney-chang.jpg"
+    },
+    {
+      "name": "The Big Brewsky",
+      "description": "Known for its expansive space and serene ambiance, Big Brewsky offers a lavish buffet with a variety of cuisines, including Asian, Continental, and Indian, complemented by their in-house brewed beers.",
+      "rating": 4.5,
+      "address": "Sarjapur Road, Before WIPRO Corporate Office",
+      "price_for_two": "INR 2,000",
+      "speciality": [
+        "Multi-Cuisine Buffet",
+        "Craft Beers"
+      ],
+      "image_link": "https://b.zmtcdn.com/data/pictures/9/20499219/86a9a34a801e69725605f8e2e3df64d1.jpg"
+    },
+    {
+      "name": "M Cafe - Bengaluru Marriott Hotel Whitefield",
+      "description": "Located within the Marriott Hotel, M Cafe offers an international buffet with live cooking stations, featuring a range of global cuisines and a delightful dessert section.",
+      "rating": 4.6,
+      "address": "8th Road, EPIP Zone, Whitefield",
+      "price_for_two": "INR 2,500",
+      "speciality": [
+        "International Cuisine",
+        "Live Cooking Stations"
+      ],
+      "image_link": "https://b.zmtcdn.com/data/pictures/8/54148/d445fc1182c125d7befcc31408d96284.jpg"
+    },
+    {
+      "name": "The Fisherman's Wharf",
+      "description": "Specializing in Goan and coastal cuisines, The Fisherman's Wharf offers a seafood-centric buffet with a variety of fresh catches prepared in traditional styles, set in a vibrant ambiance.",
+      "rating": 4.3,
+      "address": "26, Haralur Road, Ambalipura Village",
+      "price_for_two": "INR 1,800",
+      "speciality": [
+        "Goan Seafood",
+        "Coastal Delicacies"
+      ],
+      "image_link": "https://media-cdn.tripadvisor.com/media/photo-s/05/df/9c/e0/fisherman-s-warf.jpg"
+    },
+    {
+      "name": "Asia Alive - DoubleTree Suites by Hilton",
+      "description": "Offering a pan-Asian buffet, Asia Alive features a variety of Asian cuisines, including Thai, Chinese, and Japanese, with live counters and a sushi bar, providing an authentic Asian dining experience.",
+      "rating": 4.4,
+      "address": "Iblur Gate, Sarjapur Road",
+      "price_for_two": "INR 2,200",
+      "speciality": [
+        "Pan-Asian Cuisine",
+        "Sushi Bar"
+      ],
+      "image_link": "https://b.zmtcdn.com/data/pictures/8/57138/0c51cc233553d85bd1f165c788043bfa.jpg"
+    },
+    {
+      "name": "The Raj Pavilion - ITC Windsor",
+      "description": "Set in a colonial-style ambiance, The Raj Pavilion offers a lavish buffet featuring Indian and international cuisines, with a focus on traditional recipes and fresh ingredients.",
+      "rating": 4.5,
+      "address": "25, Windsor Square, Golf Course Road",
+      "price_for_two": "INR 2,500",
+      "speciality": [
+        "Indian and International Cuisine",
+        "Elegant Setting"
+      ],
+      "image_link": "https://b.zmtcdn.com/data/pictures/8/51018/42b857eabd76755a26b1814634cc4f87.jpg"
+    },
+    {
+      "name": "Cubbon Pavilion - ITC Gardenia",
+      "description": "Known for its 24/7 buffet service, Cubbon Pavilion offers a diverse spread of Indian and global cuisines, with live stations and an emphasis on organic and locally sourced ingredients.",
+      "rating": 4.6,
+      "address": "1, Residency Road",
+      "price_for_two": "INR 2,800",
+      "speciality": [
+        "24/7 Buffet",
+        "Organic Ingredients"
+      ],
+      "image_link": "https://images.jdmagicbox.com/v2/comp/bangalore/c1/080pxx80.xx80.091023144111.f3c1/catalogue/cubbon-pavilion-itc-gardenia-hotel-residency-road-bangalore-restaurants-1a1atq5.jpg"
+    },
+    {
+      "name": "The Glass House - Deli Bistro Bar",
+      "description": "Offering a contemporary dining experience, The Glass House features a buffet with a mix of European and Asian cuisines, set in a chic glasshouse setting with a lively atmosphere.",
+      "rating": 4.3,
+      "address": "25/2, Lavelle Road",
+      "price_for_two": "INR 2,000",
+      "speciality": [
+        "European and Asian Fusion",
+        "Stylish Ambiance"
+      ],
+      "image_link": "https://b.zmtcdn.com/data/reviews_photos/971/393218101d23e26f64dbf012fc72a971_1661664732.jpg"
+    },
+    {
+      "name": "Nook - Aloft Bengaluru Cessna Business Park",
+      "description": "A modern dining space offering a buffet with a variety of international cuisines, live cooking stations, and a vibrant ambiance, making it a popular choice for both business and leisure dining.",
+      "rating": 4.4,
+      "address": "Cessna Business Park, Sarjapur-Marathahalli Outer Ring Road",
+      "price_for_two": "INR 2,000",
+      "speciality": [
+        "International Cuisine",
+        "Live Stations"
+      ],
+      "image_link": "https://content.jdmagicbox.com/v2/comp/bangalore/w2/080pxx80.xx80.150328135621.p8w2/catalogue/nook-restaurant-bangalore-restaurants-13ieik6.jpg"
+    }
+  ],
+  "quickbites": [
+    {
+      "name": "Veena Stores",
+      "description": "A legendary spot in Malleshwaram, Veena Stores is renowned for its soft idlis and crispy vadas, served with flavorful chutney, making it a favorite for a quick and satisfying breakfast. ",
+      "rating": 4.5,
+      "address": "183, Margosa Road, Malleshwaram",
+      "price_for_two": "INR 100",
+      "speciality": [
+        "Idli-Vada Combo",
+        "Filter Coffee"
+      ],
+      "image_link": "https://content.jdmagicbox.com/v2/comp/bangalore/67/080p4311267/catalogue/veena-restaurant-malleswaram-bangalore-south-indian-restaurants-hlhhghwm1x-250.jpg"
+    },
+    {
+      "name": "Taaza Thindi",
+      "description": "Known for its hygienic environment and quick service, Taaza Thindi offers a variety of South Indian snacks like dosas, idlis, and vadas, all at affordable prices. ",
+      "rating": 4.4,
+      "address": "1004, 26th Main Road, Jayanagar 4th T Block",
+      "price_for_two": "INR 150",
+      "speciality": [
+        "Masala Dosa",
+        "Kesari Bath"
+      ],
+      "image_link": "https://fastly.4sqi.net/img/general/600x600/514237_r7ZrNS49VuHOmeTzuEZha9z81b4wec1bnvq24hKaqv4.jpg"
+    },
+    {
+      "name": "Koshy's Bakery",
+      "description": "A part of the iconic Koshy's restaurant, the bakery offers a variety of cakes, pastries, and bread, maintaining its old-world charm. ",
+      "rating": 4.2,
+      "address": "39, St. Marks Road, Ashok Nagar",
+      "price_for_two": "INR 250",
+      "speciality": [
+        "Rum Cake",
+        "Chicken Sandwich"
+      ],
+      "image_link": "https://tariqsp.com/wp-content/uploads/2023/02/word-image-960-1.png"
+    },
+    {
+      "name": "Hari Super Sandwich",
+      "description": "A go-to spot for sandwich lovers, offering a range of unique combinations like chocolate sandwich and dahi toast, blending sweet and savory flavors seamlessly. ",
+      "rating": 4.2,
+      "address": "Jayanagar 4th Block, Bengaluru",
+      "price_for_two": "INR 150",
+      "speciality": [
+        "Chocolate Sandwich",
+        "Dahi Toast"
+      ],
+      "image_link": "https://content.jdmagicbox.com/v2/comp/bangalore/x6/080pxx80.xx80.191129191306.y7x6/catalogue/hari-super-sandwich-jp-nagar-bangalore-fast-food-uq50cdvj8y-250.jpg"
+    },
+    {
+      "name": "Khan Saheb Grills and Rolls",
+      "description": "Specializing in succulent kebabs and rolls, this stall offers a variety of fillings wrapped in soft rotis, making it a favorite for meat lovers seeking quick bites. ",
+      "rating": 4.3,
+      "address": "Indiranagar, Bengaluru",
+      "price_for_two": "INR 250",
+      "speciality": [
+        "Chicken Tikka Roll",
+        "Mutton Seekh Roll"
+      ],
+      "image_link": "https://imgmedia.lbb.in/73077276_142814937017414_1261619818853013031_n_1580129155179.jpg"
+    },
+    {
+      "name": "Rakesh Kumar Pani Puri Stall",
+      "description": "A popular spot for authentic North Indian-style pani puri, offering a perfect blend of spicy, tangy, and sweet flavors that keep customers coming back for more. ",
+      "rating": 4.3,
+      "address": "Jayanagar 3rd Block, Bengaluru",
+      "price_for_two": "INR 100",
+      "speciality": [
+        "Pani Puri",
+        "Dahi Puri"
+      ],
+      "image_link": "https://images.jdmagicbox.com/v2/comp/bangalore/h6/080pxx80.xx80.190905172901.l6h6/catalogue/s-l-v-swagath-jayanagar-bangalore-street-food-qfcyq143vk-250.jpg"
+    },
+    {
+      "name": "Sri Sairam's Chats and Juice Centre",
+      "description": "Famous for its extensive chaat menu, this stall offers over 99 varieties, including unique combinations like Disco Chaat and Crazy Chaat, making it a must-visit for chaat enthusiasts. ",
+      "rating": 4.4,
+      "address": "Malleshwaram, Bengaluru",
+      "price_for_two": "INR 150",
+      "speciality": [
+        "Disco Chaat",
+        "Crazy Chaat"
+      ],
+      "image_link": "https://content.jdmagicbox.com/v2/comp/bangalore/l8/080pxx80.xx80.150403165840.a7l8/catalogue/sri-sai-ram-juice-and-chats-malleswaram-bangalore-juice-centres-ogrg9j1736-250.jpg"
+    },
+    {
+      "name": "Chatar Patar",
+      "description": "Known for its innovative take on traditional street food, Chatar Patar offers a variety of fusion dishes like panipuri shots and flavored bhel, providing a modern twist to classic favorites. ",
+      "rating": 4.2,
+      "address": "Koramangala, Bengaluru",
+      "price_for_two": "INR 200",
+      "speciality": [
+        "Panipuri Shots",
+        "Flavored Bhel"
+      ],
+      "image_link": "https://b.zmtcdn.com/data/pictures/6/20723976/d8a36b7e5b2ccfb2d759643bd96e76ac.jpg?fit=around%7C200%3A200&crop=200%3A200%3B%2A%2C%2A"
+    },
+    {
+      "name": "Central Tiffin Room (CTR)",
+      "description": "Renowned for its crispy butter masala dosas, CTR has been serving authentic South Indian breakfast items for decades, maintaining its legacy of taste and quality. ",
+      "rating": 4.5,
+      "address": "Malleshwaram, Bengaluru",
+      "price_for_two": "INR 200",
+      "speciality": [
+        "Butter Masala Dosa",
+        "Mangalore Bajji"
+      ],
+      "image_link": "https://bangalorelocale.com/wp-content/uploads/2021/07/CTR-Malleshwaram.jpg"
+    },
+    {
+      "name": "Shivaji Military Hotel",
+      "description": "A legendary spot for non-vegetarian fare, especially known for its flavorful Donne Biryani served in eco-friendly leaf containers, attracting food enthusiasts from all over. ",
+      "rating": 4.4,
+      "address": "Jayanagar, Bengaluru",
+      "price_for_two": "INR 300",
+      "speciality": [
+        "Donne Biryani",
+        "Mutton Chops"
+      ],
+      "image_link": "https://b.zmtcdn.com/data/collections/ce8f94a179d859d01f94c441d67ef5ad_1706256879.png"
+    }
+  ],
+  "foodcourts": [
+    {
+      "name": "UB City Food Court",
+      "description": "Located in the heart of Bangalore, UB City Food Court offers a variety of cuisines ranging from Indian to Continental, housed within the luxurious UB City Mall. ",
+      "rating": 4.5,
+      "address": "UB City Mall, Vittal Mallya Road",
+      "price_for_two": "INR 1,500",
+      "speciality": [
+        "Diverse Cuisine Options",
+        "Upscale Ambiance"
+      ],
+      "image_link": "https://b.zmtcdn.com/data/pictures/4/19586034/dbbda15053538aeebc46c2fb5dd9d904_featured_v2.jpg"
+    },
+    {
+      "name": "Orion Mall Food Court",
+      "description": "Featuring a vast array of eateries, Orion Mall's food court caters to all tastes, from fast food to traditional Indian dishes, set in a spacious and modern environment. ",
+      "rating": 4.4,
+      "address": "Orion Mall, Rajajinagar",
+      "price_for_two": "INR 1,200",
+      "speciality": [
+        "Wide Range of Eateries",
+        "Lake View Seating"
+      ],
+      "image_link": "https://b.zmtcdn.com/data/pictures/5/20089345/f89c012a4781239682e16f4fddaeb4f1_featured_v2.jpg"
+    },
+    {
+      "name": "Forum Mall Food Court",
+      "description": "A popular destination for shoppers and food lovers alike, offering a mix of international and local food outlets, ensuring a satisfying meal for everyone. ",
+      "rating": 4.3,
+      "address": "Forum Mall, Koramangala",
+      "price_for_two": "INR 1,000",
+      "speciality": [
+        "Variety of Food Stalls",
+        "Lively Atmosphere"
+      ],
+      "image_link": "https://b.zmtcdn.com/data/pictures/chains/9/18581089/a51176a0f82201c443327913e40bcf0f_featured_v2.jpg"
+    },
+    {
+      "name": "Phoenix Marketcity Food Court",
+      "description": "Known for its extensive selection of dining options, Phoenix Marketcity's food court provides a culinary journey with flavors from around the world. ",
+      "rating": 4.5,
+      "address": "Phoenix Marketcity, Whitefield",
+      "price_for_two": "INR 1,500",
+      "speciality": [
+        "International Cuisine",
+        "Spacious Seating"
+      ],
+      "image_link": "https://b.zmtcdn.com/data/pictures/7/20273287/e1185dc09f0b1cb31c17fc77a07a76be_featured_v2.jpg"
+    },
+    {
+      "name": "Mantri Square Food Court",
+      "description": "Offering a plethora of food choices, Mantri Square's food court is ideal for families and groups, providing both quick bites and full meals. ",
+      "rating": 4.2,
+      "address": "Mantri Square Mall, Malleshwaram",
+      "price_for_two": "INR 1,000",
+      "speciality": [
+        "Family-Friendly Options",
+        "Diverse Menus"
+      ],
+      "image_link": "https://media-cdn.tripadvisor.com/media/photo-s/0c/5d/18/40/top-floor-food-plaza.jpg"
+    },
+    {
+      "name": "Garuda Mall Food Court",
+      "description": "A convenient spot for shoppers to refuel, Garuda Mall's food court features a range of fast food and casual dining options in a comfortable setting. ",
+      "rating": 4.1,
+      "address": "Garuda Mall, Ashok Nagar",
+      "price_for_two": "INR 900",
+      "speciality": [
+        "Quick Bites",
+        "Casual Dining"
+      ],
+      "image_link": "https://imgstaticcontent.lbb.in/lbbnew/wp-content/uploads/sites/2/2018/05/16203234/StreetMama2.jpg"
+    },
+    {
+      "name": "VR Bengaluru Food Court",
+      "description": "Combining entertainment and dining, VR Bengaluru's food court offers a variety of cuisines alongside a vibrant atmosphere, perfect for a day out. ",
+      "rating": 4.3,
+      "address": "VR Bengaluru, Whitefield",
+      "price_for_two": "INR 1,200",
+      "speciality": [
+        "Eclectic Food Choices",
+        "Modern Ambiance"
+      ],
+      "image_link": "https://b.zmtcdn.com/data/pictures/chains/7/18294917/47437fff5486a84894b5f8cae41dcf6d_featured_v2.jpg"
+    },
+    {
+      "name": "Inorbit Mall Food Court",
+      "description": "Catering to diverse palates, Inorbit Mall's food court provides a mix of local and international food outlets, ensuring a delightful dining experience. ",
+      "rating": 4.2,
+      "address": "Inorbit Mall, Whitefield",
+      "price_for_two": "INR 1,000",
+      "speciality": [
+        "Local and International Cuisines"
+      ],
+      "image_link": "https://content.jdmagicbox.com/v2/comp/bangalore/a1/080pxx80.xx80.130406134122.q6a1/catalogue/flavours-of-china-restaurant-whitefield-bangalore-chinese-restaurants-4gi4n0y8ou.jpg"
+    },
+    {
+      "name": "Esteem Mall Food Court",
+      "description": "A compact yet diverse food court offering a selection of eateries that cater to quick meals and snacks, ideal for a casual dining experience. ",
+      "rating": 4.0,
+      "address": "Esteem Mall, Hebbal",
+      "price_for_two": "INR 800",
+      "speciality": [
+        "Quick Meals",
+        "Snack Options"
+      ],
+      "image_link": "https://b.zmtcdn.com/data/pictures/1/19355061/696ecf1d448641f8b57d15c762525b6f_featured_v2.jpg"
+    },
+    {
+      "name": "Total Mall Food Court",
+      "description": "Providing a variety of food stalls, Total Mall's food court is perfect for those seeking affordable and diverse dining options in a relaxed environment. ",
+      "rating": 4.1,
+      "address": "Total Mall, Sarjapur Road",
+      "price_for_two": "INR 900",
+      "speciality": [],
+      "image_link": "https://content.jdmagicbox.com/v2/comp/bangalore/b5/080pxx80.xx80.220317230332.q7b5/catalogue/destination-food-court-bangalore-food-court-1nsg4cadls.jpg"
+    }
+  ],
+  "themebasedeateries": [
+    {
+      "name": "The Black Pearl",
+      "description": "Inspired by the \"Pirates of the Caribbean\" franchise, The Black Pearl offers a pirate ship-themed ambiance with pirate props and live music. The buffet includes an elaborate 5-course spread with unlimited barbecues, a variety of starters, main courses, and international desserts. ",
+      "rating": 4.5,
+      "address": "4th Floor, Vikas Tech Park, 105, Jyoti Nivas College Rd, 5th Block, Koramangala",
+      "price_for_two": "INR 1,600",
+      "speciality": [
+        "Pirate-Themed Ambiance",
+        "Live Barbecue Grill"
+      ],
+      "image_link": "https://b.zmtcdn.com/data/pictures/6/18387426/144afd1b621ea5556b5ede73381e9723.jpg"
+    },
+    {
+      "name": "Gufha Restaurant",
+      "description": "Designed to resemble a cave, Gufha offers a unique dining experience with dim lighting and cave-like interiors. The menu features Indian and Afghani cuisines, providing a diverse range of flavors. ",
+      "rating": 4.3,
+      "address": "79/8, Pattalamma Temple Rd, Jayanagar East, Jaya Nagar 1st Block, Jayanagar",
+      "price_for_two": "INR 1,200",
+      "speciality": [
+        "Cave-Themed Interiors",
+        "Indian and Afghani Cuisine"
+      ],
+      "image_link": "https://b.zmtcdn.com/data/pictures/6/50456/e9281cf262a96de0a3a0412c43bb4182_featured_v2.jpg"
+    },
+    {
+      "name": "Ruh",
+      "description": "Ruh transports diners to an Arabian fairytale with its dimly-lit area resembling a fairytale with chandeliers, mirrors, and Arabian tents adorning the restaurant. The menu offers a blend of Indian, Mediterranean, and Middle Eastern cuisines. ",
+      "rating": 4.4,
+      "address": "Venkatari Plaza, 2nd Floor, 88, Outer Ring Rd, above Tanishq Jewellery, Marathahalli",
+      "price_for_two": "INR 1,500",
+      "speciality": [
+        "Arabic-Themed Decor",
+        "Middle Eastern Cuisine"
+      ],
+      "image_link": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/15/c3/78/99/ruh-non-smoking-spanish.jpg?w=1200&h=-1&s=1"
+    },
+    {
+      "name": "Cable Car",
+      "description": "Inspired by the iconic San Francisco cable cars, this restaurant features interiors resembling a cable car, offering a unique dining experience. The menu includes a variety of Indian and Continental dishes. ",
+      "rating": 4.2,
+      "address": "3rd Floor, 2nd Phase, JP Nagar",
+      "price_for_two": "INR 1,400",
+      "speciality": [
+        "Cable Car-Themed Interiors",
+        "Indian and Continental Cuisine"
+      ],
+      "image_link": "https://b.zmtcdn.com/data/reviews_photos/f0d/b05b1b7b9e7b4711ce432f9eb081df0d_1546365879.jpg?fit=around|750:500&crop=750:500;*,*"
+    },
+    {
+      "name": "Oia",
+      "description": "Recreating the aesthetics of a Greek village with whitewashed houses and blue domes, Oia offers a Mediterranean dining experience with signature dishes and mixologist special cocktails. ",
+      "rating": 4.5,
+      "address": "Hennur",
+      "price_for_two": "INR 2,000",
+      "speciality": [
+        "Greek Village-Themed Ambiance",
+        "Mediterranean Cuisine"
+      ],
+      "image_link": "https://imgmedia.lbb.in/media/2023/07/64c1164d97647b5d53ee4e33_1690375757702.jpg"
+    },
+    {
+      "name": "Hunger Camp",
+      "description": "A military-themed restaurant featuring tents for dining, bunker seating, and military-inspired decor such as grenade-shaped salt and pepper shakers. The staff is dressed in fatigues to enhance the military ambiance. ",
+      "rating": 4.3,
+      "address": "HSR Layout",
+      "price_for_two": "INR 1,200",
+      "speciality": [
+        "Military-Themed Decor",
+        "Indian and Continental Cuisine"
+      ],
+      "image_link": "https://b.zmtcdn.com/data/pictures/7/18783527/0dea55eb0debdc03849dc68087dd4176.jpg"
+    },
+    {
+      "name": "Gismat Arabic Jail Mandi Restaurant",
+      "description": "A jail-themed restaurant where the interiors resemble a jail, with each guest being allocated a cell. The staff's dressing style adds to the overall attraction of the place. The menu offers a diverse range of cuisines including Indian, Mexican, Italian, as well as continental options. ",
+      "rating": 4.2,
+      "address": "2631, 27th Main Rd, 1st Sector, HSR Layout",
+      "price_for_two": "INR 1,000",
+      "speciality": [
+        "Jail-Themed Ambiance",
+        "Arabic Mandi Dishes"
+      ],
+      "image_link": "https://content.jdmagicbox.com/v2/comp/hyderabad/g8/040pxx40.xx40.210219151616.h9g8/catalogue/-goskrit67z.jpg"
+    },
+    {
+      "name": "The 13th Floor",
+      "description": "Offering a rooftop dining experience with panoramic views of the city, The 13th Floor features a chic ambiance with live music. The menu includes a variety of Asian and Continental dishes. ",
+      "rating": 4.4,
+      "address": "84, MG Road, Barton Centre",
+      "price_for_two": "INR 2,000",
+      "speciality": [
+        "Rooftop Ambiance",
+        "Asian and Continental Cuisine"
+      ],
+      "image_link": "https://imgstaticcontent.lbb.in/lbbnew/wp-content/uploads/sites/2/2017/04/23112132/13thFloor4-600x400.jpg"
+    },
+    {
+      "name": "The Humming Tree",
+      "description": "A bohemian-themed restaurant known for its vibrant decor and live music events. The menu offers a variety of Continental and Asian dishes, making it a popular spot for art and music lovers. ",
+      "rating": 4.3,
+      "address": "12th Main Road, Indiranagar",
+      "price_for_two": "INR 1,800",
+      "speciality": [
+        "Bohemian Decor",
+        "Live Music",
+        "Continental and Asian Cuisine"
+      ],
+      "image_link": "https://imgstaticcontent.lbb.in/lbbnew/wp-content/uploads/sites/2/2016/02/thehummingtree-f.jpg"
+    },
+    {
+      "name": "The Hole in the Wall Cafe",
+      "description": "A cozy cafe with a rustic theme, offering a variety of breakfast options, sandwiches, and desserts. The warm ambiance and hearty meals make it a favorite among locals. ",
+      "rating": 4.5,
+      "address": "8th Main Road, Koramangala 4th Block",
+      "price_for_two": "INR 800",
+      "speciality": [
+        "Rustic Decor",
+        "Breakfast Specials",
+        "Desserts"
+      ],
+      "image_link": "https://b.zmtcdn.com/data/pictures/4/54044/da9ab60184d56bff32190d1af044c574.jpg"
+    }
+  ],
+  "rooftopdining": [
+    {
+      "name": "Skyye",
+      "description": "Perched atop UB City, Skyye offers panoramic views of Bangalore's skyline. The chic ambiance, illuminated floor, and extensive cocktail menu make it a favorite for evening outings. (lifestyleasia.com)",
+      "rating": 4.5,
+      "address": "16th Floor, UB City, Vittal Mallya Road",
+      "price_for_two": "INR 2,500",
+      "speciality": [
+        "Signature Cocktails",
+        "Continental Cuisine"
+      ],
+      "image_link": "https://b.zmtcdn.com/data/pictures/2/51552/14591beb555e7b3b49c3bf260f80dde4.jpg"
+    },
+    {
+      "name": "Ebony",
+      "description": "Located on the 13th floor of Barton Centre, Ebony provides a serene dining experience with a blend of Indian and Asian cuisines, complemented by a breathtaking city view. (lifestyleasia.com)",
+      "rating": 4.4,
+      "address": "13th Floor, Barton Centre, MG Road",
+      "price_for_two": "INR 2,000",
+      "speciality": [
+        "North Indian and Asian Delicacies"
+      ],
+      "image_link": "https://b.zmtcdn.com/data/pictures/5/50975/2269507710b2895cf68419f9830bd126_featured_v2.jpg"
+    },
+    {
+      "name": "Byg Brewski Brewing Company",
+      "description": "Known for its expansive space and rustic decor, Byg Brewski offers craft beers brewed in-house and a diverse menu ranging from Asian to Continental dishes. (lifestyleasia.com)",
+      "rating": 4.6,
+      "address": "Sarjapur Road",
+      "price_for_two": "INR 2,200",
+      "speciality": [
+        "Craft Beers",
+        "Asian and Continental Cuisine"
+      ],
+      "image_link": "https://res.cloudinary.com/https-highape-com/image/upload/q_auto:eco,f_auto,h_380/v1577513830/mk4fgsz07wrx0rsqhp1x.jpg"
+    },
+    {
+      "name": "Fenny's Lounge & Kitchen",
+      "description": "With a Mediterranean-inspired ambiance, Fenny's offers a relaxed rooftop setting, live music, and a menu featuring wood-fired pizzas and continental dishes. (lifestyleasia.com)",
+      "rating": 4.5,
+      "address": "Koramangala 7th Block",
+      "price_for_two": "INR 1,800",
+      "speciality": [
+        "Wood-Fired Pizzas",
+        "Continental Cuisine"
+      ],
+      "image_link": "https://b.zmtcdn.com/data/pictures/7/54127/748fe48197030c687e9aafb6b61db8d8.jpg?fit=around|750:500&crop=750:500;*,*"
+    },
+    {
+      "name": "High Ultra Lounge",
+      "description": "Situated on the 31st floor, High Ultra Lounge is one of the highest dining venues in South India, offering Asian cuisine and a 360-degree view of the city. (lifestyleasia.com)",
+      "rating": 4.7,
+      "address": "Malleswaram",
+      "price_for_two": "INR 3,000",
+      "speciality": [
+        "Asian Cuisine",
+        "Signature Cocktails"
+      ],
+      "image_link": "https://i.pinimg.com/564x/e2/e9/8e/e2e98ea4f9798eafca97740770814a77.jpg"
+    },
+    {
+      "name": "The 13th Floor",
+      "description": "A classic rooftop bar offering a mix of Indian and Asian cuisines, The 13th Floor is known for its live music and stunning views of Bangalore's skyline. (lifestyleasia.com)",
+      "rating": 4.4,
+      "address": "MG Road",
+      "price_for_two": "INR 2,000",
+      "speciality": [
+        "Indian and Asian Delicacies",
+        "Live Music"
+      ],
+      "image_link": "https://b.zmtcdn.com/data/pictures/5/50975/42e887331f375914c357d4178c24282a.jpg"
+    },
+    {
+      "name": "The Tao Terraces",
+      "description": "Offering a tranquil ambiance with water features and Asian-inspired decor, The Tao Terraces serves a variety of Asian cuisines, including Thai, Chinese, and Japanese. (lifestyleasia.com)",
+      "rating": 4.3,
+      "address": "MG Road",
+      "price_for_two": "INR 2,500",
+      "speciality": [
+        "Asian Cuisine",
+        "Sushi Bar"
+      ],
+      "image_link": "https://imgmedia.lbb.in/media/2022/12/63aa8e43e9c4cc0f83cc61ff_1672121923941.jpg"
+    },
+    {
+      "name": "The Humming Tree",
+      "description": "A bohemian-themed rooftop venue known for its live music events, The Humming Tree offers a variety of Continental and Asian dishes, making it a popular spot for art and music lovers. (lifestyleasia.com)",
+      "rating": 4.3,
+      "address": "Indiranagar, Bengaluru",
+      "price_for_two": "INR 1,800",
+      "speciality": [
+        "Live Music",
+        "Continental and Asian Cuisine"
+      ],
+      "image_link": "https://b.zmtcdn.com/data/pictures/3/55353/8bf34fbba42c82a5bba504c91d953c8c.jpg?fit=around|750:500&crop=750:500;*,*"
+    },
+    {
+      "name": "The Fatty Bao",
+      "description": "An Asian gastro bar offering a variety of dim sum, sushi, and other Asian delicacies, known for its vibrant ambiance and creative cocktails. (lifestyleasia.com)",
+      "rating": 4.6,
+      "address": "Indiranagar, Bengaluru",
+      "price_for_two": "INR 2,000",
+      "speciality": [
+        "Asian",
+        "Chinese",
+        "Sushi",
+        "Dim Sum"
+      ],
+      "image_link": "https://imgstaticcontent.lbb.in/lbbnew/wp-content/uploads/sites/7/2017/07/08185753/05082017_FattyBao06.jpg"
+    },
+    {
+      "name": "Sly Granny",
+      "description": "A quirky rooftop restaurant with eclectic decor, Sly Granny offers a menu that blends European and Indian cuisines, along with an impressive selection of cocktails. (lifestyleasia.com)",
+      "rating": 4.5,
+      "address": "Indiranagar, Bengaluru",
+      "price_for_two": "INR 2,000",
+      "speciality": [
+        "European and Indian Fusion Cuisine",
+        "Signature Cocktails"
+      ],
+      "image_link": "https://content.jdmagicbox.com/v2/comp/bangalore/i2/080pxx80.xx80.230116181401.l2i2/catalogue/sly-granny-brigade-road-bangalore-fast-food-k632x9udxb.jpg"
+    }
+  ],
+  "familyfriendlyrestaurants": [
+    {
+      "name": "The Rogue Elephant",
+      "description": "Nestled in a serene garden setting, The Rogue Elephant offers a tranquil outdoor dining experience. The menu features a variety of continental dishes, and the spacious environment allows children to play freely. (ndtv.com)",
+      "rating": 4.5,
+      "address": "93, Kanakapura Road, Basavanagudi",
+      "price_for_two": "INR 1,200",
+      "speciality": [
+        "Garden Ambiance",
+        "Continental Cuisine"
+      ],
+      "image_link": "https://content.jdmagicbox.com/v2/comp/bangalore/t1/080pxx80.xx80.100623140839.t3t1/catalogue/the-rogue-elephant-basavanagudi-bangalore-north-indian-restaurants-q0td4ktg6m-250.jpg"
+    },
+    {
+      "name": "Bistro Claytopia",
+      "description": "Combining dining with art, Bistro Claytopia allows children to engage in pottery while parents enjoy a meal. The menu includes American and Italian dishes, making it a hit among families. (babychakra.com)",
+      "rating": 4.4,
+      "address": "11, 80 Feet Road, Koramangala",
+      "price_for_two": "INR 1,000",
+      "speciality": [
+        "Pottery Activities",
+        "Kid-Friendly Menu"
+      ],
+      "image_link": "https://imgstaticcontent.lbb.in/lbbnew/wp-content/uploads/sites/2/2016/12/BistroClaytopia2.jpg"
+    },
+    {
+      "name": "The Only Place",
+      "description": "Known for its American classics like burgers, steaks, and apple pie, The Only Place offers a cozy ambiance with both indoor and outdoor seating, making it ideal for family gatherings. (babychakra.com)",
+      "rating": 4.3,
+      "address": "13, Museum Road, Ashok Nagar",
+      "price_for_two": "INR 1,500",
+      "speciality": [
+        "American Cuisine",
+        "Outdoor Seating"
+      ],
+      "image_link": "https://b.zmtcdn.com/data/pictures/8/51008/58a9793999052aec4da059b9098a2add.jpg"
+    },
+    {
+      "name": "The Fisherman's Wharf",
+      "description": "Bringing Goan vibes to Bangalore, this restaurant offers coastal cuisine in a vibrant setting. The spacious outdoor area and live music make it enjoyable for both adults and children. (ndtv.com)",
+      "rating": 4.5,
+      "address": "26, Haralur Road, Ambalipura Village",
+      "price_for_two": "INR 1,800",
+      "speciality": [
+        "Goan Seafood",
+        "Live Music"
+      ],
+      "image_link": "https://media-cdn.tripadvisor.com/media/photo-s/06/b7/07/9e/the-fisherman-s-wharf.jpg"
+    },
+    {
+      "name": "Truffles",
+      "description": "A favorite among burger enthusiasts, Truffles offers a variety of fast food options in a lively atmosphere. The kid-friendly menu and quick service make it a popular choice for families. (babychakra.com)",
+      "rating": 4.4,
+      "address": "22, St. Marks Road, Shanthala Nagar",
+      "price_for_two": "INR 1,000",
+      "speciality": [
+        "Burgers",
+        "Fast Food"
+      ],
+      "image_link": "https://b.zmtcdn.com/data/pictures/8/20692388/2944165aa5284acc6448bb3e361fcc06_featured_v2.jpg"
+    },
+    {
+      "name": "Serengeti",
+      "description": "Designed to resemble an African jungle, Serengeti offers a unique dining experience with its thematic decor. The menu includes North Indian and Mughlai dishes, appealing to both adults and children. (kreativemommy.com)",
+      "rating": 4.3,
+      "address": "3rd Floor, Total Mall, Madiwala",
+      "price_for_two": "INR 1,500",
+      "speciality": [
+        "Jungle-Themed Ambiance",
+        "Mughlai Cuisine"
+      ],
+      "image_link": "https://media-cdn.tripadvisor.com/media/photo-s/06/b7/07/9e/the-fisherman-s-wharf.jpg"
+    },
+    {
+      "name": "Koshy's ",
+      "description": "A Bangalore institution, Koshy's offers a diverse menu ranging from Indian to Continental dishes. The spacious seating and nostalgic ambiance make it suitable for family outings. (ndtv.com)",
+      "rating": 4.2,
+      "address": "39, St. Marks Road, Ashok Nagar",
+      "price_for_two": "INR 1,500",
+      "speciality": [
+        "Indian and Continental Cuisine",
+        "Historic Ambiance"
+      ],
+      "image_link": "https://b.zmtcdn.com/data/reviews_photos/2af/28951b19c2a78e1c143eeed94ef822af_1637601462.jpg"
+    },
+    {
+      "name": "Toit",
+      "description": "Known for its craft beers and wood-fired pizzas, Toit offers a lively atmosphere with a menu that caters to all age groups. The spacious setting and friendly staff make it family-friendly. (ndtv.com)",
+      "rating": 4.5,
+      "address": "298, 100 Feet Road, Indiranagar",
+      "price_for_two": "INR 2,000",
+      "speciality": [
+        "Craft Beers",
+        "Wood-Fired Pizzas"
+      ],
+      "image_link": "https://ik.imagekit.io/pu0hxo64d/uploads/gallery/tr:e-sharpen,l-text,ie-U2xvc2hvdXQuY29t,lfo-center,co-FFFFFF50,fs-20,tg-b,l-end/terrace-party-at-toit.PNG"
+    },
+    {
+      "name": "Sunny's",
+      "description": "Offering European cuisine in a charming setting, Sunny's provides both indoor and garden seating. The relaxed ambiance and diverse menu make it a great spot for family lunches. (babychakra.com)",
+      "rating": 4.4,
+      "address": "50, Lavelle Road, Shanthala Nagar",
+      "price_for_two": "INR 2,000",
+      "speciality": [
+        "European Cuisine",
+        "Garden Seating"
+      ],
+      "image_link": "https://imgmedia.lbb.in/media/2020/12/5fd053a899d5ea6bbccf6f60_1607488424752.jpg"
+    },
+    {
+      "name": "Hard Rock Cafe",
+      "description": "Combining music with dining, Hard Rock Cafe offers American classics in a rock 'n' roll-themed setting. The lively atmosphere and kid-friendly menu make it a hit among families. (ndtv.com)",
+      "rating": 4.3,
+      "address": "40, St. Marks Road, Ashok Nagar",
+      "price_for_two": "INR 2,500",
+      "speciality": [
+        "American Cuisine",
+        "Live Music"
+      ],
+      "image_link": "https://res.cloudinary.com/dyiffrkzh/image/upload/c_fill,f_auto,fl_progressive.strip_profile,g_center,h_400,q_auto,w_700/v1697457254/bbj/gziulosapid2sl6cyewk.jpg"
+    }
+  ],
+  "petfriendlycafes": [
+    {
+      "name": "TherPup The Dog Cafe",
+      "description": "A haven for dog lovers, TherPup offers a spacious outdoor area where dogs can roam freely. The caf\u00e9 serves a variety of snacks and beverages, and even has a special menu for dogs. (thebetterindia.com)",
+      "rating": 4.5,
+      "address": "Whitefield",
+      "price_for_two": "INR 1,000",
+      "speciality": [
+        "Dog Play Area",
+        "Special Dog Menu"
+      ],
+      "image_link": "https://b.zmtcdn.com/data/pictures/8/18369808/cfdd2804180ac6f965fc1e77ceac06b2.jpg"
+    },
+    {
+      "name": "The Pet People Cafe",
+      "description": "This New York-inspired caf\u00e9 boasts a cheerful atmosphere with big windows and ample light. It offers plant-based, cruelty-free, and vegan options, along with food for pets. (thebetterindia.com)",
+      "rating": 4.4,
+      "address": "HSR Layout",
+      "price_for_two": "INR 1,200",
+      "speciality": [
+        "Vegan Options",
+        "Pet-Friendly Menu"
+      ],
+      "image_link": "https://imgmedia.lbb.in/media/2021/09/614dadee90f0c62df2f857a4_1632480750227.jpg"
+    },
+    {
+      "name": "Urban Solace",
+      "description": "One of the first cafes in the city to welcome pets, Urban Solace offers open seating, live music, and a range of mouth-watering delicacies at reasonable rates. (thebetterindia.com)",
+      "rating": 4.3,
+      "address": "Ulsoor",
+      "price_for_two": "INR 1,000",
+      "speciality": [
+        "Live Music",
+        "Pet-Friendly Space"
+      ],
+      "image_link": "https://b.zmtcdn.com/data/pictures/1/20829551/0f3dc719ed2cc7be49b8ad484d070dd1.jpg"
+    },
+    {
+      "name": "The Teal Door Cafe",
+      "description": "Known for its aesthetics and peaceful environment, The Teal Door Caf\u00e9 offers big glass windows, colorful furniture, and a wide range of delicacies. (thebetterindia.com)",
+      "rating": 4.4,
+      "address": "Indiranagar",
+      "price_for_two": "INR 1,200",
+      "speciality": [
+        "Instagram-Worthy Decor",
+        "Diverse Menu"
+      ],
+      "image_link": "https://media-cdn.tripadvisor.com/media/photo-s/1a/43/d2/29/1st-floor-decor.jpg"
+    },
+    {
+      "name": "Zoeys: Good Vibes Only",
+      "description": "Away from the city's hustle, Zoey\u2019s offers a rustic and chic ambiance with greenery, board games, and a separate menu for pets. (thebetterindia.com)",
+      "rating": 4.5,
+      "address": "Sarjapur Road",
+      "price_for_two": "INR 1,500",
+      "speciality": [
+        "Rustic Ambiance",
+        "Pet Menu"
+      ],
+      "image_link": "https://imgmedia.lbb.in/media/2020/11/03/985F4392-4C2B-46B5-AFCA-217815C91294.jpg"
+    },
+    {
+      "name": "Mighty Paws Cafe",
+      "description": "Set in a charming house with large green windows, this caf\u00e9 offers freshly made continental food at reasonable rates and is themed around wildlife and adventure. (thebetterindia.com)",
+      "rating": 4.3,
+      "address": "Kasavanahalli",
+      "price_for_two": "INR 1,000",
+      "speciality": [
+        "Wildlife Theme",
+        "Continental Cuisine"
+      ],
+      "image_link": "https://b.zmtcdn.com/data/pictures/8/20309298/1bec01d54245f125764e728439f82977.jpg"
+    },
+    {
+      "name": "The Reservoire",
+      "description": "One of the largest cocktail bars in the city, The Reservoire offers over 200 varieties of cocktails and extends a range of food options for pets as well. (thebetterindia.com)",
+      "rating": 4.5,
+      "address": "Koramangala",
+      "price_for_two": "INR 2,000",
+      "speciality": [
+        "Extensive Cocktail Menu",
+        "Pet-Friendly"
+      ],
+      "image_link": "https://imgstaticcontent.lbb.in/lbbnew/wp-content/uploads/sites/2/2018/02/21202314/TheReservoire.jpg"
+    },
+    {
+      "name": "Yellow Submarine",
+      "description": "With a nautical-themed ambiance, Yellow Submarine provides live sports screening, music, and delicacies for both you and your pets. (thebetterindia.com)",
+      "rating": 4.4,
+      "address": "Panduranga Nagar",
+      "price_for_two": "INR 1,500",
+      "speciality": [
+        "Nautical Theme",
+        "Pet-Friendly Menu"
+      ],
+      "image_link": "https://b.zmtcdn.com/data/reviews_photos/483/db2d461139131baa13496c2828176483_1577351024.jpg"
+    },
+    {
+      "name": "Yogisthaan",
+      "description": "Promoting clean eating and living, Yogisthaan offers a vast menu of desi delicacies, unique beverages, and is pet-friendly. (thebetterindia.com)",
+      "rating": 4.3,
+      "address": "Indiranagar",
+      "price_for_two": "INR 1,000",
+      "speciality": [
+        "Health-Focused Menu",
+        "Pet-Friendly"
+      ],
+      "image_link": "https://b.zmtcdn.com/data/pictures/2/18535602/616f7fcb2c053e5b412ad7214381740b.jpg"
+    },
+    {
+      "name": "Green Theory",
+      "description": "Set in a colonial bungalow with a lush garden, Green Theory offers organic vegetarian dishes and welcomes pets in its serene outdoor seating area. (thebetterindia.com)",
+      "rating": 4.4,
+      "address": "Richmond Town",
+      "price_for_two": "INR 1,200",
+      "speciality": [
+        "Organic Vegetarian Cuisine",
+        "Garden Seating"
+      ],
+      "image_link": "https://b.zmtcdn.com/data/pictures/3/52253/aa119f15486c3f5c3c917def904deb04.jpeg"
+    }
+  ],
+  "organiceateries": [
+    {
+      "name": "FarmLore",
+      "description": "Situated on a 37-acre natural farm, FarmLore offers a 10-course farm-to-table dining experience. The menu changes daily, reflecting the freshest produce harvested from their organic farm. ",
+      "rating": 4.8,
+      "address": "Survey No:67, Mohan Raju Layout, Sathanur Village, Bagalur",
+      "price_for_two": "INR 5,300",
+      "speciality": [
+        "Seasonal Tasting Menu",
+        "Organic Produce"
+      ],
+      "image_link": "https://curlytales.com/wp-content/uploads/2021/08/farmlore-2.jpg"
+    },
+    {
+      "name": "Go Native",
+      "description": "Emphasizing sustainability, Go Native serves vegetarian meals using fresh organic produce. The menu rotates seasonally, offering dishes that highlight local ingredients. ",
+      "rating": 4.5,
+      "address": "Multiple Locations",
+      "price_for_two": "INR 1,200",
+      "speciality": [
+        "Seasonal Vegetarian Dishes",
+        "Eco-Friendly Ambiance"
+      ],
+      "image_link": "https://curlytales.com/wp-content/uploads/2020/01/Go-native-gallery-35-e1579591698425.jpg"
+    },
+    {
+      "name": "Green Theory",
+      "description": "Set in a colonial bungalow with a lush garden, Green Theory offers organic vegetarian dishes in a serene environment. The menu includes a variety of continental and Asian cuisines. ",
+      "rating": 4.4,
+      "address": "11, Convent Road, Richmond Town",
+      "price_for_two": "INR 1,000",
+      "speciality": [
+        "Organic Vegetarian Cuisine",
+        "Garden Seating"
+      ],
+      "image_link": "https://b.zmtcdn.com/data/pictures/3/52253/aa119f15486c3f5c3c917def904deb04.jpeg"
+    },
+    {
+      "name": "South Ruchis",
+      "description": "A 100% organic vegetarian restaurant sourcing chemical-free vegetables and staples from their own farm. The menu features traditional South Indian dishes made with organic ingredients. ",
+      "rating": 4.3,
+      "address": "Multiple Locations",
+      "price_for_two": "INR 800",
+      "speciality": [
+        "Organic South Indian Cuisine",
+        "Farm-Sourced Ingredients"
+      ],
+      "image_link": "https://b.zmtcdn.com/data/pictures/4/18339884/e506a93c639d64725626ecc627904ef9.jpg"
+    },
+    {
+      "name": "The GreenPath Organic State",
+      "description": "An eco-initiative housing an organic restaurant, detox caf\u00e9, and organic store. Their restaurant, Forgotten Foods, is known for its farm-to-table organic food and great ambiance. ",
+      "rating": 4.2,
+      "address": "32/1, 6th Cross, 15th Main, Malleshwaram",
+      "price_for_two": "INR 1,000",
+      "speciality": [
+        "Organic Farm-to-Table Cuisine",
+        "Eco-Friendly Environment"
+      ],
+      "image_link": "https://media-cdn.tripadvisor.com/media/photo-s/13/ac/24/36/the-greenpath-organic.jpg"
+    },
+    {
+      "name": "Farmlore",
+      "description": "A farm-to-table restaurant offering a 10-course meal created from organic produce that originates from their farm. The menu changes daily based on the garden\u2019s produce and the chef\u2019s whim. ",
+      "rating": 4.7,
+      "address": "Survey No:67, Sathanur Village, Bagalur Post, North Taluk",
+      "price_for_two": "INR 5,300",
+      "speciality": [
+        "Epicurean Farm-to-Plate Experience",
+        "Organic Produce"
+      ],
+      "image_link": "https://curlytales.com/wp-content/uploads/2021/08/farmlore-2.jpg"
+    },
+    {
+      "name": "Citrus Trail",
+      "description": "Located near Bannerghatta National Park, Citrus Trail offers a farm-to-fork experience with a multicuisine restaurant set amidst a 12-acre farm. Prior reservation is required. ",
+      "rating": 4.5,
+      "address": "Before Ramakrishna Mission, Shivanahalli",
+      "price_for_two": "INR 1,500",
+      "speciality": [
+        "Farm-to-Fork Dining",
+        "Natural Surroundings"
+      ],
+      "image_link": "https://b.zmtcdn.com/data/reviews_photos/e91/f5cd4cf799e07d9fbe6e8fdff7251e91_1676346372.jpg"
+    },
+    {
+      "name": "Green Roof Farm Cafe",
+      "description": "Set on a picturesque organic farm in Yelahanka, Green Roof Farm Caf\u00e9 offers wholesome meals prepared from fresh farm produce. The menu includes fresh juices, soups, salads, and more. ",
+      "rating": 4.4,
+      "address": "No. 175/122/43/43, Nagenahalli, Rajanakunte, Yelahanka",
+      "price_for_two": "INR 1,200",
+      "speciality": [
+        "Farm-Fresh Meals",
+        "Organic Ingredients"
+      ],
+      "image_link": "https://b.zmtcdn.com/data/pictures/9/20878479/19deb17fa56e79e0f9aae84e9b6cb615.jpg"
+    },
+    {
+      "name": "Yash Farm",
+      "description": "Yash Farm Stay offers a farm-to-fork restaurant where guests can enjoy nutritious and tasty traditional Indian food made from organic ingredients sourced from their own farm. ",
+      "rating": 4.3,
+      "address": "6 KM from Electronics City",
+      "price_for_two": "INR 1,000",
+      "speciality": [
+        "Traditional Indian Cuisine",
+        "Organic Ingredients"
+      ],
+      "image_link": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/ee/2b/69/getlstd-property-photo.jpg?w=700&h=-1&s=1"
+    },
+    {
+      "name": "Tamara Valley",
+      "description": "Offering organic managed farmland near Bangalore, Tamara Valley features a restaurant that serves farm-to-table dining with dishes crafted from fresh, organic produce. ",
+      "rating": 4.4,
+      "address": "Near Bangalore",
+      "price_for_two": "INR 1,500",
+      "speciality": [
+        "Farm-to-Table Dining",
+        "Organic Farmland"
+      ],
+      "image_link": "https://b.zmtcdn.com/data/reviews_photos/e5e/f1a5091aa6870e1264de0a337a5f5e5e_1536418963.jpg"
+    }
+  ],
+  "ethniccuisinerestaurants": [
+    {
+      "name": "Karavalli @ Taj",
+      "description": "Celebrated for its authentic coastal cuisine, Karavalli offers a menu inspired by the flavors of Kerala, Mangalore, and Goa. The rustic ambiance complements dishes like Meen Eleittad (fish wrapped in banana leaf) and Alleppey Fish Curry. (bangaloretoday.in)",
+      "rating": 4.8,
+      "address": "The Gateway Hotel, Residency Road",
+      "price_for_two": "INR 2,500",
+      "speciality": [
+        "Coastal Delicacies",
+        "Traditional Recipes"
+      ],
+      "image_link": "https://b.zmtcdn.com/data/pictures/5/50565/51b719456b8295934915930913ce5fb3.jpg?fit=around|750:500&crop=750:500;*,*"
+    },
+    {
+      "name": "NH8",
+      "description": "Specializing in Rajasthani cuisine, NH8 brings the vibrant flavors of Rajasthan to Bangalore. Signature dishes include Dal Bati Churma and Jodhpuri Gatta, served in a traditional setting that reflects Rajasthani culture. (slurrp.com)",
+      "rating": 4.5,
+      "address": "3rd Floor, 8th Main Road, 80 Feet Road, Indiranagar",
+      "price_for_two": "INR 1,200",
+      "speciality": [
+        "Rajasthani Thali",
+        "Traditional Ambiance"
+      ],
+      "image_link": "https://b.zmtcdn.com/data/pictures/0/51610/3ebd806ee9a5827d2145a62ef2f3d36b.jpg"
+    },
+    {
+      "name": "Rasovara",
+      "description": "Located in UB City, Rasovara offers a royal dining experience with its lavish Rajasthani and Gujarati thalis. The opulent decor and attentive service make it a favorite for those seeking authentic regional flavors. (curlytales.com)",
+      "rating": 4.6,
+      "address": "UB City, Lavelle Road",
+      "price_for_two": "INR 1,500",
+      "speciality": [
+        "Royal Thalis",
+        "Authentic Rajasthani and Gujarati Cuisine"
+      ],
+      "image_link": "https://b.zmtcdn.com/data/pictures/1/21097251/679efcb627279f581eace73dffcef6a4_featured_v2.jpg"
+    },
+    {
+      "name": "Purnabrahma Maharashtrian Restaurant",
+      "description": "One of the best Maharashtrian places in Bangalore, Purnabrahma Maharashtrian Restaurant has made its mark in the Garden City and has 3 outlets. They have interesting dishes like Balgopal Vada Pav, which gives your Vada Pav a cherry topping. (curlytales.com)",
+      "rating": 4.4,
+      "address": "Multiple Locations",
+      "price_for_two": "INR 1,000",
+      "speciality": [
+        "Maharashtrian Delicacies",
+        "Unique Vada Pav Variations"
+      ],
+      "image_link": "https://content3.jdmagicbox.com/v2/comp/bangalore/h2/080pxx80.xx80.150930105713.i7h2/catalogue/purnabramha-maharashtrian-restaurant-sarjapur-road-bangalore-restaurants-1kkcnxx.jpg"
+    },
+    {
+      "name": "Coorg - The Restaurant",
+      "description": "Offering authentic Coorgi cuisine, this restaurant is known for its heavenly and authentic pandi curry and chilli pork, complemented by noolputtu. The wonderful hosts and truly Coorg food make it a must-visit. (foursquare.com)",
+      "rating": 4.5,
+      "address": "477, Krishna Temple Rd, 1st Stage, Indiranagar",
+      "price_for_two": "INR 1,200",
+      "speciality": [
+        "Pandi Curry",
+        "Chilli Pork",
+        "Noolputtu"
+      ],
+      "image_link": "https://content.jdmagicbox.com/v2/comp/bangalore/e3/080pxx80.xx80.091224124842.x9e3/catalogue/coorg-restaurant-indiranagar-bangalore-north-indian-restaurants-om3u3eon17-250.jpg"
+    },
+    {
+      "name": "The Coorg Food Co.",
+      "description": "Specializing in authentic Coorgi cuisine, The Coorg Food Co. offers dishes like Pandi Curry (Pork Curry), Bamboo Shoot Curry, and the aromatic Coorgi Coffee. The restaurant takes great satisfaction in using only the freshest, most locally grown ingredients. (colive.com)",
+      "rating": 4.4,
+      "address": "466, Ground Floor, 17th G Main, 80 Feet Road, Koramangala 6th Block",
+      "price_for_two": "INR 1,000",
+      "speciality": [
+        "Pandi Curry",
+        "Bamboo Shoot Curry",
+        "Coorgi Coffee"
+      ],
+      "image_link": "https://b.zmtcdn.com/data/pictures/4/19443494/20d51544070daa4651dedc4f3920899d.jpg"
+    },
+    {
+      "name": "Mavalli Tiffin Room (MTR)",
+      "description": "A Bangalore institution, MTR has been serving authentic Kannada cuisine for decades. Known for its Rava Idli, Masala Dosa, and Bisibele Bath, the restaurant offers a nostalgic dining experience in a traditional setting. (bangaloretoday.in)",
+      "rating": 4.7,
+      "address": "14, Lal Bagh Road, Mavalli",
+      "price_for_two": "INR 800",
+      "speciality": [
+        "Rava Idli",
+        "Masala Dosa",
+        "Bisibele Bath"
+      ],
+      "image_link": "https://content.jdmagicbox.com/v2/comp/bangalore/d5/080pxx80.xx80.101202144514.w8d5/catalogue/mavalli-tiffin-room-jp-nagar-3rd-phase-bangalore-south-indian-restaurants-hem897pubp-250.jpg"
+    },
+    {
+      "name": "Shri Sagar CTR (Central Tiffin Room)",
+      "description": "Established in 1940, Shri Sagar CTR is renowned for its crispy Masala Dosa and other South Indian delicacies. The vintage ambiance and consistent quality have made it a favorite among locals and tourists alike. (bangaloretoday.in)",
+      "rating": 4.6,
+      "address": "7th Cross, Margosa Road, Malleshwaram",
+      "price_for_two": "INR 500",
+      "speciality": [
+        "Masala Dosa",
+        "Traditional South Indian Breakfast"
+      ],
+      "image_link": "https://b.zmtcdn.com/data/pictures/9/52459/371f74f8fddc19611686f661884cc1cb.jpg"
+    },
+    {
+      "name": "Koshy's",
+      "description": "Established in 1940 and moved to its current location in 1952, Koshy's has been around for almost 78 years and is the definition of a classic Bangalorean restaurant. It offers a diverse menu ranging from Indian to Continental dishes, making it suitable for family outings. (whatshot.in)",
+      "rating": 4.5,
+      "address": "39, St. Marks Road, Ashok Nagar",
+      "price_for_two": "INR 1,500",
+      "speciality": [
+        "Indian and Continental Cuisine",
+        "Historic Ambiance"
+      ],
+      "image_link": "https://media-cdn.tripadvisor.com/media/photo-s/12/98/44/cb/nice-comfy-dining-room.jpg"
+    },
+    {
+      "name": "Halli Mane",
+      "description": "Located in a vintage part of Bangalore, Hallimane features a village ambiance with its tiled roofs, natural brick walls, high ceilings, and an abundance of plants. It has been proclaimed as one of the best ethnic and value-for-money restaurants in Bangalore by the media. (hallimane.com)",
+      "rating": 4.4,
+      "address": "3rd Cross, Sampige Road, Malleshwaram",
+      "price_for_two": "INR 800",
+      "speciality": [
+        "Authentic Rural Cuisine",
+        "Village Ambiance"
+      ],
+      "image_link": "https://b.zmtcdn.com/data/pictures/chains/7/19898687/b47c1c6558fa7934aad3bcc732bdf131.jpg"
+    }
+  ],
+  "veganvegetarianspots": [
+    {
+      "name": "JustBe Cafe",
+      "description": "A premier vegan restaurant specializing in refined flour-free, oil-free, and wholesome plant-based dishes. The menu features vegan delights such as quesadillas, methi nachos, chole tikki, dahi papdi chaat, mac & cheese, avocado toast, tofu scramble, tulsi salsa, home-style curries, lasagna, pizza, and buttermilk. (yourstory.com)",
+      "rating": 4.8,
+      "address": "383/31, 13th Cross Rd, Sadashiva Nagar, Armane Nagar",
+      "price_for_two": "INR 1,500",
+      "speciality": [
+        "Plant-Based Whole Foods",
+        "Vegan Desserts"
+      ],
+      "image_link": "https://content.jdmagicbox.com/v2/comp/bangalore/j5/080pxx80.xx80.170714153108.f7j5/catalogue/justbe-cafe-sadashivanagar-bangalore-coffee-shops-56qtkzq98b.jpg"
+    },
+    {
+      "name": "Sante Spa Cuisine",
+      "description": "An upscale restaurant offering a diverse menu featuring Asian, Mediterranean, Italian, and European dishes. They cater to various dietary preferences, including vegan, keto, and gluten-free options. Their commitment to sourcing locally grown foods ensures freshness and quality in every dish. (yourstory.com)",
+      "rating": 4.7,
+      "address": "#151 2nd Stage 2nd Cross, Domlur, Indiranagar",
+      "price_for_two": "INR 2,000",
+      "speciality": [
+        "Customizable Meals",
+        "Locally Sourced Ingredients"
+      ],
+      "image_link": "https://b.zmtcdn.com/data/pictures/2/18812682/ee6acf21963b9fa3c922f56a6f55438d_featured_v2.jpg"
+    },
+    {
+      "name": "Vegan Vogue",
+      "description": "A charming restaurant in Indiranagar offering a distinctive menu with unique offerings like vegan pancakes, breakfast skillets, savory waffles, banana French toast, creamy veg salad, garlic and smoked cauliflower soup, summer rolls, vegan Greek salad, miso ramen, quiche, ravioli, pizza, spaghetti, refreshing fresh juices, bubble tea, and apple tart among other delectable choices. (yourstory.com)",
+      "rating": 4.6,
+      "address": "Indiranagar",
+      "price_for_two": "INR 1,800",
+      "speciality": [
+        "Diverse Vegan Menu",
+        "Tranquil Ambiance"
+      ],
+      "image_link": "https://b.zmtcdn.com/data/pictures/2/20023332/a7880741e08fb96fae52ed99c4851fa7.jpg"
+    },
+    {
+      "name": "Carrots",
+      "description": "India's first 100% vegan restaurant offering a variety of dishes, including Bolognese Pasta, vegan desserts, and health drinks. They focus on organic and locally sourced ingredients, providing a wholesome dining experience. (veganfirst.com)",
+      "rating": 4.5,
+      "address": "Koramangala",
+      "price_for_two": "INR 1,200",
+      "speciality": [
+        "Vegan Desserts",
+        "Health Drinks"
+      ],
+      "image_link": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/16/54/23/22/order-counter.jpg"
+    },
+    {
+      "name": "Green Theory",
+      "description": "Set in a colonial bungalow with a lush garden, Green Theory offers organic vegetarian dishes in a serene environment. The menu includes a variety of continental and Asian cuisines, making it a favorite among health-conscious diners. (veganfirst.com)",
+      "rating": 4.4,
+      "address": "11, Convent Road, Richmond Town",
+      "price_for_two": "INR 1,000",
+      "speciality": [
+        "Organic Vegetarian Cuisine",
+        "Garden Seating"
+      ],
+      "image_link": "https://vmnk.gumlet.io/assets/bangalore/green-theory-residency-road/images/original/green-theory-residency-road-0a990.JPG"
+    },
+    {
+      "name": "Go Native",
+      "description": "Emphasizing sustainability, Go Native serves vegetarian meals using fresh organic produce. The menu rotates seasonally, offering dishes that highlight local ingredients. The eco-friendly ambiance adds to the dining experience. (yourstory.com)",
+      "rating": 4.5,
+      "address": "Multiple Locations",
+      "price_for_two": "INR 1,200",
+      "speciality": [
+        "Seasonal Vegetarian Dishes",
+        "Eco-Friendly Ambiance"
+      ],
+      "image_link": "https://curlytales.com/wp-content/uploads/2020/01/Go-native-gallery-35-e1579591698425.jpg"
+    },
+    {
+      "name": "Yogi-sthaan Cafe",
+      "description": "A macrobiotic and vegan-friendly caf\u00e9 where all food is prepared and served based on Ayurvedic principles. Their brown rice with tofu is a must-have, along with green leafy veggie salads, pasta, medicinal teas, and smoothies. (veganfirst.com)",
+      "rating": 4.3,
+      "address": "Indiranagar & Koramangala",
+      "price_for_two": "INR 1,000",
+      "speciality": [
+        "Ayurvedic Meals",
+        "Health Beverages"
+      ],
+      "image_link": "https://content.jdmagicbox.com/v2/comp/bangalore/y9/080pxx80.xx80.170628130552.w8y9/catalogue/the-yogisthaan-cafe-koramangala-2nd-block-bangalore-diet-food-restaurants-0f1rzjwl5e.jpg"
+    },
+    {
+      "name": "Burma Burma",
+      "description": "Offering authentic Burmese cuisine, Burma Burma is a vegetarian restaurant with several vegan-friendly options. Dishes like Mock Meat Skewers, Samosa Soup, and Khao Suey are popular among patrons. (roshnisanghvi.com)",
+      "rating": 4.6,
+      "address": "Indiranagar",
+      "price_for_two": "INR 1,500",
+      "speciality": [
+        "Burmese Cuisine",
+        "Vegan-Friendly Options"
+      ],
+      "image_link": "https://www.burmaburma.in/images/Mumbai_Fort-Ambience.jpg"
+    },
+    {
+      "name": "Habibi Falafel",
+      "description": "Specializing in Middle Eastern cuisine, Habibi Falafel offers vegan-friendly dishes like falafel wraps, hummus, and salads. The casual setting and affordable prices make it a popular spot for quick bites. (roshnisanghvi.com)",
+      "rating": 4.4,
+      "address": "Indiranagar",
+      "price_for_two": "INR 800",
+      "speciality": [
+        "Falafel Wraps",
+        "Middle Eastern Salads"
+      ],
+      "image_link": "https://imgmedia.lbb.in/media/2023/09/64f1a9729f12bb145242347a_1693559154221.jpg"
+    },
+    {
+      "name": "Crave by Leena",
+      "description": "The only 100% vegan bakery in the city, Crave offers an extensive menu including 30+ varieties of vegan cakes, cupcakes, desserts like cheesecakes, cinnamon rolls, donuts, brownies, and cookies. They also cater to different dietary requirements with gluten-free, sugar-free, and vegan keto options. (veganfirst.com)",
+      "rating": 4.5,
+      "address": "Koramangala",
+      "price_for_two": "INR 1,000",
+      "speciality": [
+        "Vegan Bakery Items",
+        "Customizable Desserts"
+      ],
+      "image_link": "https://imgmedia.lbb.in/media/2023/09/64f1a9729f12bb145242347a_1693559154221.jpg"
+    }
+  ],
+  "icecreamgelatoshops": [
+    {
+      "name": "Milano Ice Cream",
+      "description": "Renowned for its authentic Italian gelato, Milano offers a plethora of flavors crafted with high-quality ingredients. The cozy ambiance and friendly staff make it a favorite spot for dessert lovers. (turn0search11)",
+      "rating": 4.8,
+      "address": "460, 2nd Cross, Krishna Temple Road, Indiranagar",
+      "price_for_two": "INR 400",
+      "speciality": [
+        "Belgian Chocolate Gelato",
+        "Tiramisu"
+      ],
+      "image_link": "https://b.zmtcdn.com/data/pictures/1/61111/8999ac1b4748b0140205e11a004e94cc.jpg"
+    },
+    {
+      "name": "Corner House Ice Cream",
+      "description": "A Bangalore institution, Corner House is famed for its sundaes and classic ice cream offerings. The 'Death by Chocolate' sundae is a must-try for chocolate enthusiasts. (turn0search3)",
+      "rating": 4.7,
+      "address": "Multiple Locations",
+      "price_for_two": "INR 300",
+      "speciality": [
+        "Death by Chocolate",
+        "Hot Chocolate Fudge"
+      ],
+      "image_link": "https://content.jdmagicbox.com/v2/comp/bangalore/g6/080pxx80.xx80.101124180856.m3g6/catalogue/corner-house-ice-creams-jayanagar-5th-block-bangalore-ice-cream-parlours-12y08m4.jpg"
+    },
+    {
+      "name": "Naturals Ice Cream",
+      "description": "Celebrated for its fruit-based ice creams made from natural ingredients, Naturals offers seasonal flavors that capture the essence of fresh produce. (turn0search3)",
+      "rating": 4.6,
+      "address": "Multiple Locations",
+      "price_for_two": "INR 250",
+      "speciality": [
+        "Tender Coconut",
+        "Sitaphal (Custard Apple)"
+      ],
+      "image_link": "https://content.jdmagicbox.com/v2/comp/bangalore/h7/080pxx80.xx80.100427121735.e1h7/catalogue/natural-ice-cream-parlour-basaveshwara-nagar-bangalore-ice-cream-parlours-8f3ofwdjv5.jpg"
+    },
+    {
+      "name": "Apsara Ice Creams",
+      "description": "Originating from Mumbai, Apsara Ice Creams brings natural and vegetarian ice creams to Bangalore. Their unique flavors and commitment to quality have garnered a loyal following. (turn0search2)",
+      "rating": 4.5,
+      "address": "844, Binnamangala, 1st Stage, Near B.D.A Complex, Double Road, Indiranagar",
+      "price_for_two": "INR 200",
+      "speciality": [
+        "Guava Glory",
+        "Pani Puri Pataka"
+      ],
+      "image_link": "https://content.jdmagicbox.com/v2/comp/bangalore/q7/080pxx80.xx80.171123210225.u2q7/catalogue/apsara-ice-creams-hebbal-bangalore-ice-cream-parlours-gzd5spze47.jpg"
+    },
+    {
+      "name": "Pabrai's Fresh & Naturelle Ice Creams",
+      "description": "Known for its natural flavors and unique offerings, Pabrai\u2019s serves ice creams without artificial additives. Their Tender Coconut and Nolen Gur flavors are particularly popular. (turn0search0)",
+      "rating": 4.4,
+      "address": "6, Wood Street, Ashok Nagar, Brigade Road",
+      "price_for_two": "INR 200",
+      "speciality": [
+        "Tender Coconut",
+        "Nolen Gur"
+      ],
+      "image_link": "https://content3.jdmagicbox.com/v2/comp/bangalore/d2/080pxx80.xx80.150204190033.u8d2/catalogue/pabrai-s-fresh-and-naturelle-ice-creams-hsr-layout-sector-1-bangalore-ice-cream-parlours-2xp80yjyzh.jpg"
+    },
+    {
+      "name": "Stoner",
+      "description": "Offering a unique experience where ice creams are mixed on a cold stone with various toppings, Stoner provides a customizable treat for every palate. (turn0search7)",
+      "rating": 4.3,
+      "address": "Multiple Locations",
+      "price_for_two": "INR 300",
+      "speciality": [
+        "Stone Ice Cream Creations",
+        "Ice Cream Jars"
+      ],
+      "image_link": "https://b.zmtcdn.com/data/pictures/7/50877/4d8018699ee5662ed44cf8add7422033_featured_v2.jpg"
+    },
+    {
+      "name": "Lakeview Milkbar",
+      "description": "One of the oldest ice cream parlors in Bangalore, Lakeview Milkbar combines nostalgia with a wide range of ice cream flavors and desserts. (turn0search6)",
+      "rating": 4.2,
+      "address": "13, 17th Main, 1st Cross, 5th A Block, Koramangala 5th Block",
+      "price_for_two": "INR 400",
+      "speciality": [
+        "Dark Chocolate Ice Cream",
+        "Nutella Skillet Sundae"
+      ],
+      "image_link": "https://b.zmtcdn.com/data/pictures/7/50877/4d8018699ee5662ed44cf8add7422033_featured_v2.jpg"
+    },
+    {
+      "name": "Glen\u2019s Bakehouse",
+      "description": "Known for its cozy ambiance and delectable desserts, Glen\u2019s Bakehouse offers a range of ice creams and baked goods that are perfect for any sweet tooth. (turn0search8)",
+      "rating": 4.1,
+      "address": "297, 100 Feet Road, Indiranagar",
+      "price_for_two": "INR 500",
+      "speciality": [
+        "Red Velvet Cupcake",
+        "Baked Cheesecake"
+      ],
+      "image_link": "https://content3.jdmagicbox.com/v2/comp/bangalore/d2/080pxx80.xx80.150204190033.u8d2/catalogue/pabrai-s-fresh-and-naturelle-ice-creams-hsr-layout-sector-1-bangalore-ice-cream-parlours-2xp80yjyzh.jpg"
+    },
+    {
+      "name": "Berryd Alive",
+      "description": "Specializing in innovative desserts, Berry\u2019d Alive offers a range of ice cream-based treats that are both visually appealing and delicious. (turn0search8)",
+      "rating": 4.0,
+      "address": "Multiple Locations",
+      "price_for_two": "INR 350",
+      "speciality": [
+        "Chocolate Caramel Tart",
+        "Strawberry Pavlova"
+      ],
+      "image_link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6cIoo8_7YIRpAFvJvPzPIh1ZheFaRuxE_rQ&s"
+    },
+    {
+      "name": "Lickies Gelato",
+      "description": "Offering a variety of gelato flavors and bubble tea, Lickies Gelato is a popular spot for those looking to indulge in sweet treats. (turn0search9)",
+      "rating": 4.0,
+      "address": "76, Ashok Nagar, Brigade Road",
+      "price_for_two": "INR 300",
+      "speciality": [
+        "Stracciatella Gelato",
+        "Bubble Tea"
+      ],
+      "image_link": "https://content.jdmagicbox.com/v2/comp/bangalore/q7/080pxx80.xx80.171123210225.u2q7/catalogue/apsara-ice-creams-hebbal-bangalore-ice-cream-parlours-gzd5spze47.jpg"
+    }
+  ],
+  "winebars": [
+    {
+      "name": "Toscano Wine Bar",
+      "description": "An Italian restaurant and wine bar offering an intimate yet vibrant atmosphere. It serves over 32 varieties of wines, pairing perfectly with their eclectic gourmet menu. (turn0search2)",
+      "rating": 4.8,
+      "address": "UB City, Vittal Mallya Road",
+      "price_for_two": "INR 2,500",
+      "speciality": [
+        "Extensive Italian Wine Selection"
+      ],
+      "image_link": "https://content3.jdmagicbox.com/v2/comp/bangalore/k2/080pxx80.xx80.180626225115.z8k2/catalogue/cafe-toscano-mahadevapura-bangalore-restaurants-lh4e4meg50.jpg"
+    },
+    {
+      "name": "Chianti Ristorante & Wine Bar",
+      "description": "An award-winning Italian restaurant and wine bar chain serving authentic Italian delicacies since 2012. They offer a variety of wines along with a premium dining experience. (turn0search8)",
+      "rating": 4.7,
+      "address": "Multiple Locations",
+      "price_for_two": "INR 2,000",
+      "speciality": [
+        "Authentic Italian Cuisine",
+        "Diverse Wine List"
+      ],
+      "image_link": "https://b.zmtcdn.com/data/pictures/1/20532261/af56c5b23883634c801a6c249fcefadd.jpg"
+    },
+    {
+      "name": "The Wine Company",
+      "description": "A chic wine bar offering an extensive selection of wines from around the world, complemented by a menu of global cuisines. The elegant ambiance makes it a perfect spot for wine enthusiasts.",
+      "rating": 4.6,
+      "address": "Indiranagar",
+      "price_for_two": "INR 2,200",
+      "speciality": [
+        "Global Wine Selection",
+        "Elegant Ambiance"
+      ],
+      "image_link": "https://media-cdn.tripadvisor.com/media/photo-s/07/1d/4d/94/the-wine-company.jpg"
+    },
+    {
+      "name": "Sly Granny",
+      "description": "A quirky and stylish venue known for its curated wine list and eclectic menu. The rooftop seating provides a cozy atmosphere, ideal for enjoying a glass of wine.",
+      "rating": 4.5,
+      "address": "Indiranagar",
+      "price_for_two": "INR 2,000",
+      "speciality": [
+        "Curated Wine List",
+        "Rooftop Seating"
+      ],
+      "image_link": "https://b.zmtcdn.com/data/pictures/1/18455571/e4d940143b9cb041fcf87991ef26221b.jpg"
+    },
+    {
+      "name": "Olive Beach",
+      "description": "A Mediterranean restaurant with a sophisticated wine bar, offering a selection of fine wines and a menu inspired by coastal cuisines. The chic decor adds to the dining experience.",
+      "rating": 4.4,
+      "address": "Ashok Nagar",
+      "price_for_two": "INR 2,500",
+      "speciality": [
+        "Mediterranean Wines",
+        "Coastal Cuisine"
+      ],
+      "image_link": "https://b.zmtcdn.com/data/pictures/2/50742/98935f39987c1ea60d31bea107670883.jpg"
+    },
+    {
+      "name": "The Reservoire",
+      "description": "Known for its extensive beverage menu, The Reservoire offers a variety of wines and a diverse food menu. The spacious setting and lively atmosphere make it a popular choice.",
+      "rating": 4.3,
+      "address": "Koramangala",
+      "price_for_two": "INR 1,800",
+      "speciality": [
+        "Diverse Wine Selection",
+        "Lively Ambiance"
+      ],
+      "image_link": "https://imgstaticcontent.lbb.in/lbbnew/wp-content/uploads/sites/2/2016/02/olivebeach-f.jpg"
+    },
+    {
+      "name": "Caperberry",
+      "description": "A fine dining restaurant offering a selection of wines paired with modern European cuisine. The elegant setting and attentive service enhance the overall experience.",
+      "rating": 4.2,
+      "address": "UB City, Vittal Mallya Road",
+      "price_for_two": "INR 3,000",
+      "speciality": [
+        "European Wines",
+        "Gourmet Cuisine"
+      ],
+      "image_link": "https://imgstaticcontent.lbb.in/lbbnew/wp-content/uploads/sites/2/2018/01/10195322/OliveBeach-i.jpg"
+    },
+    {
+      "name": "The Biere Club",
+      "description": "While primarily known as a microbrewery, The Biere Club also offers a selection of wines for those looking to explore different beverages. The casual setting is perfect for relaxed gatherings.",
+      "rating": 4.1,
+      "address": "Lavelle Road",
+      "price_for_two": "INR 1,500",
+      "speciality": [
+        "Casual Wine Selection",
+        "Relaxed Atmosphere"
+      ],
+      "image_link": "https://b.zmtcdn.com/data/pictures/7/51907/3c2ba0679eaf81753f506ad532d9f878.jpg?fit=around|750:500&crop=750:500;*,*"
+    },
+    {
+      "name": "Toit",
+      "description": "A popular brewpub that, in addition to its craft beers, offers a curated list of wines. The vibrant ambiance and diverse menu cater to various preferences.",
+      "rating": 4.0,
+      "address": "Indiranagar",
+      "price_for_two": "INR 1,800",
+      "speciality": [
+        "Curated Wine List",
+        "Vibrant Ambiance"
+      ],
+      "image_link": "https://b.zmtcdn.com/data/pictures/5/51705/1c12df6a37c71c57cd48cdc328bd2a9f.jpg"
+    },
+    {
+      "name": "Fava",
+      "description": "A Mediterranean restaurant and bar offering a selection of wines from the region. The alfresco seating and serene ambiance make it a delightful spot for wine lovers.",
+      "rating": 4.0,
+      "address": "UB City, Vittal Mallya Road",
+      "price_for_two": "INR 2,200",
+      "speciality": [
+        "Mediterranean Wines",
+        "Alfresco Dining"
+      ],
+      "image_link": "https://b.zmtcdn.com/data/pictures/7/18822687/3885c946e61194df5da3e08371a95a41.jpg"
+    }
+  ],
+  "teahouses": [
+    {
+      "name": "Infinitea",
+      "description": "A cozy tea room offering an extensive selection of teas from around the world, including rare blends and herbal infusions. The serene ambiance makes it a perfect spot for tea enthusiasts.",
+      "rating": 4.8,
+      "address": "2, Shah Sultan Complex, Cunningham Road",
+      "price_for_two": "INR 800",
+      "speciality": [
+        "Darjeeling First Flush",
+        "Herbal Infusions"
+      ],
+      "image_link": "https://b.zmtcdn.com/data/pictures/0/56770/f626a59610807d4358a3bd898b60fba4.jpg"
+    },
+    {
+      "name": "Chaipatty Tea Cafe",
+      "description": "Known for its relaxed atmosphere and diverse tea menu, Chaipatty offers traditional Indian teas alongside innovative blends. Their outdoor seating adds to the charm.",
+      "rating": 4.7,
+      "address": "Multiple Locations",
+      "price_for_two": "INR 600",
+      "speciality": [
+        "Masala Chai",
+        "Lemon Grass Tea"
+      ],
+      "image_link": "https://b.zmtcdn.com/data/pictures/0/21002880/af6c70c4645487592304caee5370c7c1_featured_v2.jpg"
+    },
+    {
+      "name": "Tea Brew",
+      "description": "A modern tea lounge offering a variety of teas, including green, black, and oolong, paired with light bites. The contemporary decor and soothing music enhance the experience.",
+      "rating": 4.6,
+      "address": "Indiranagar",
+      "price_for_two": "INR 700",
+      "speciality": [
+        "Oolong Tea",
+        "Tea Mocktails"
+      ],
+      "image_link": "https://content.jdmagicbox.com/v2/comp/bangalore/a1/080pxx80.xx80.190301203633.c9a1/catalogue/chai-mania-bangalore-0hcaxfyeag.jpg"
+    },
+    {
+      "name": "Chai Point",
+      "description": "A popular chain specializing in freshly brewed chai, Chai Point offers a range of teas and quick bites, making it a favorite among office-goers and students.",
+      "rating": 4.5,
+      "address": "Multiple Locations",
+      "price_for_two": "INR 400",
+      "speciality": [
+        "Ginger Chai",
+        "Filter Coffee"
+      ],
+      "image_link": "https://content.jdmagicbox.com/v2/comp/bangalore/f5/080pxx80.xx80.230107002611.p6f5/catalogue/chai-ki-chuski-bangalore-tea-stalls-yrq57g6opk.jpg"
+    },
+    {
+      "name": "The Tea Place by Manjushree",
+      "description": "An elegant tea room offering a curated selection of teas and an array of pastries. The sophisticated ambiance makes it ideal for afternoon tea sessions.",
+      "rating": 4.4,
+      "address": "Church Street",
+      "price_for_two": "INR 1,000",
+      "speciality": [
+        "Assam Tea",
+        "Scones"
+      ],
+      "image_link": "https://content.jdmagicbox.com/v2/comp/bangalore/u8/080pxx80.xx80.230711210602.q9u8/catalogue/the-chai-walah-adarsh-palm-retreat-bangalore-tea-stalls-isq43s3awj.jpg"
+    },
+    {
+      "name": "Dyu Art Cafe",
+      "description": "A charming caf\u00e9 combining art and tea, Dyu Art Caf\u00e9 offers a variety of teas and a menu of light meals. The artistic setting provides a unique experience.",
+      "rating": 4.3,
+      "address": "Koramangala",
+      "price_for_two": "INR 800",
+      "speciality": [
+        "Chamomile Tea",
+        "Art Exhibitions"
+      ],
+      "image_link": "https://b.zmtcdn.com/data/reviews_photos/1e2/c3cf453d22e422d226b4e16e760871e2_1520952307.jpg?fit=around|960:500&crop=960:500;*,*"
+    },
+    {
+      "name": "The Whitefield Arms",
+      "description": "A British-style pub offering a selection of teas and an extensive menu. The colonial-era decor and outdoor seating provide a distinctive ambiance.",
+      "rating": 4.2,
+      "address": "Whitefield",
+      "price_for_two": "INR 1,200",
+      "speciality": [
+        "English Breakfast Tea",
+        "High Tea"
+      ],
+      "image_link": "https://content.jdmagicbox.com/comp/surat/s8/0261px261.x261.181113131527.k4s8/catalogue/tea-post-ring-road-surat-tea-stalls-ktmgga1rqe.jpg"
+    },
+    {
+      "name": "Marzipan Cafe and Bakery",
+      "description": "A quaint caf\u00e9 offering a selection of teas and freshly baked goods. The cozy setting and friendly service make it a popular spot for tea lovers.",
+      "rating": 4.1,
+      "address": "Ulsoor",
+      "price_for_two": "INR 600",
+      "speciality": [],
+      "image_link": "https://b.zmtcdn.com/data/pictures/1/18140801/9afa3180f62f9750214ef54545bd1e69.jpg"
+    },
+    {
+      "name": "Sherlock's Pub",
+      "description": "A themed pub offering a variety of teas and a menu of snacks. The Sherlock Holmes-inspired decor adds a fun element to the tea-drinking experience.",
+      "rating": 4.0,
+      "address": "Frazer ",
+      "price_for_two": "Frazer Town",
+      "speciality": [
+        "Spiced Tea",
+        "Themed Events"
+      ],
+      "image_link": "https://b.zmtcdn.com/data/pictures/0/19351390/138788ab33916ca19992d2456c5d112d.jpg"
+    },
+    {
+      "name": "Hatti Kaapi",
+      "description": "A local chain specializing in traditional South Indian filter coffee and tea. The quick service and authentic flavors make it a favorite among locals.",
+      "rating": 3.9,
+      "address": "Multiple Locations",
+      "price_for_two": "INR 200",
+      "speciality": [
+        "Filter Coffee",
+        "Masala Chai"
+      ],
+      "image_link": "https://b.zmtcdn.com/data/pictures/4/20095374/abba53f3acf4c4bbc50838f65a15abc8.jpg"
+    }
+  ],
+  "fastfoodchains": [
+    {
+      "name": "Truffles",
+      "description": "A popular chain known for its gourmet burgers, sandwiches, and desserts. Truffles offers a casual dining experience with a modern ambiance, making it a favorite among young crowds.",
+      "rating": 4.8,
+      "address": "Koramangala 5th Block",
+      "price_for_two": "INR 1,000",
+      "speciality": [
+        "All-American Cheese Burger",
+        "Death by Chocolate"
+      ],
+      "image_link": "https://b.zmtcdn.com/data/pictures/0/51040/841d7bf085b51a89d75c708bc2068ff6.jpg"
+    },
+    {
+      "name": "Burger King",
+      "description": "An international fast-food chain renowned for its flame-grilled burgers and quick service. The spacious seating and consistent quality make it a go-to spot for burger enthusiasts.",
+      "rating": 4.7,
+      "address": "Multiple Locations",
+      "price_for_two": "INR 600",
+      "speciality": [
+        "Whopper",
+        "Chicken Fries"
+      ],
+      "image_link": "https://media-cdn.tripadvisor.com/media/photo-s/0d/28/b3/00/needed-a-bit-of-a-clean.jpg"
+    },
+    {
+      "name": "McDonald's",
+      "description": "A global fast-food giant offering a variety of burgers, fries, and beverages. Known for its efficient service and family-friendly environment, it's a staple for quick meals.",
+      "rating": 4.6,
+      "address": "Multiple Locations",
+      "price_for_two": "INR 500",
+      "speciality": [
+        "McSpicy Paneer",
+        "McFlurry"
+      ],
+      "image_link": "https://b.zmtcdn.com/data/pictures/3/15383/4632ce8f4a23ffde70f6865a0000356c.jpg?fit=around|750:500&crop=750:500;*,*"
+    },
+    {
+      "name": "KFC",
+      "description": "Famous for its crispy fried chicken and signature recipes, KFC provides a satisfying fast-food experience with a focus on quality and taste.",
+      "rating": 4.5,
+      "address": "Multiple Locations",
+      "price_for_two": "INR 700",
+      "speciality": [
+        "Zinger Burger",
+        "Hot & Crispy Chicken"
+      ],
+      "image_link": "https://fastly.4sqi.net/img/general/600x600/23203110_QsdGUUfINBAX-wnpPGwynK2liaaxUWE862xtxYJNaTA.jpg"
+    },
+    {
+      "name": "Subway",
+      "description": "Offering customizable sandwiches and salads, Subway caters to health-conscious individuals seeking quick and fresh meals. The variety of fillings and breads ensures something for everyone.",
+      "rating": 4.4,
+      "address": "Multiple Locations",
+      "price_for_two": "INR 400",
+      "speciality": [
+        "Veggie Delight",
+        "Chicken Teriyaki Sub"
+      ],
+      "image_link": "https://b.zmtcdn.com/data/pictures/2/10552/176ee40bdd28af6e26a84251bdee0bfd.jpg?fit=around|750:500&crop=750:500;*,*"
+    },
+    {
+      "name": "Domino's Pizza",
+      "description": "A leading pizza chain known for its prompt delivery and diverse pizza options. The consistent quality and frequent offers make it a popular choice for pizza lovers.",
+      "rating": 4.3,
+      "address": "Multiple Locations",
+      "price_for_two": "INR 800",
+      "speciality": [
+        "Pepper Barbecue Chicken Pizza",
+        "Choco Lava Cake"
+      ],
+      "image_link": "https://b.zmtcdn.com/data/pictures/6/110116/f63212a7cf2fbcfc95b71a4346590aa3.jpg?fit=around|750:500&crop=750:500;*,*"
+    },
+    {
+      "name": "Pizza Hut",
+      "description": "Offering a range of pizzas, pastas, and sides, Pizza Hut provides a comfortable dining experience with a focus on quality ingredients and flavorful dishes.",
+      "rating": 4.2,
+      "address": "Multiple Locations",
+      "price_for_two": "INR 900",
+      "speciality": [
+        "Veggie Supreme Pizza",
+        "Garlic Breadsticks"
+      ],
+      "image_link": "https://b.zmtcdn.com/data/pictures/7/90387/f5249ff2a4eb0d1a570f25b78d77be95.jpg?fit=around|750:500&crop=750:500;*,*"
+    },
+    {
+      "name": "Taco Bell",
+      "description": "Specializing in Mexican-inspired fast food, Taco Bell offers a variety of tacos, burritos, and nachos. The vibrant ambiance and unique flavors appeal to those seeking something different.",
+      "rating": 4.1,
+      "address": "Indiranagar",
+      "price_for_two": "INR 600",
+      "speciality": [
+        "Crunchy Taco",
+        "Quesadilla"
+      ],
+      "image_link": "https://b.zmtcdn.com/data/pictures/0/20314300/cc583aa4e072b7955e441aaa6ef76180.jpg?fit=around|960:500&crop=960:500;*,*"
+    },
+    {
+      "name": "WOW! Momo",
+      "description": "A homegrown chain focusing on a variety of momos (dumplings) with innovative fillings and flavors. The quick service and affordable pricing make it a hit among snack lovers.",
+      "rating": 4.0,
+      "address": "Multiple Locations",
+      "price_for_two": "INR 400",
+      "speciality": [
+        "Steamed Chicken Momo",
+        "Chocolate Momo"
+      ],
+      "image_link": "https://b.zmtcdn.com/data/reviews_photos/a60/88664fac5a34d670ec3088e9c55fca60_1688027201.jpg?fit=around|750:500&crop=750:500;*,*"
+    },
+    {
+      "name": "Faasos",
+      "description": "Offering a range of wraps, rolls, and rice bowls, Faasos combines traditional Indian flavors with modern fast-food convenience. The diverse menu caters to various taste preferences.",
+      "rating": 3.9,
+      "address": "Multiple Locations",
+      "price_for_two": "INR 500",
+      "speciality": [
+        "Chicken Bhuna Wrap",
+        "Paneer Tikka Rice Bowl"
+      ],
+      "image_link": "https://b.zmtcdn.com/data/pictures/7/21306877/32d09d37983dbbf2c7ff1c7210257c74_featured_v2.jpg"
+    }
   ]
 }

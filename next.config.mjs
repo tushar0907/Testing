@@ -1,18 +1,58 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
-    images: {
-      domains: [
-        "aburstofflavor.wordpress.com",
-        "justbeyou.in",
-        'dynamic-media-cdn.tripadvisor.com', // Add the domain here
-        "imgmedia.lbb.in",
-        "media-cdn.tripadvisor.com",
-        "imgstaticcontent.lbb.in",
-        "b.zmtcdn.com",
-        "encrypted-tbn0.gstatic.com",
-        'res.cloudinary.com', // new domain to allow
-      ],
-    },
-  };
+  images: {
+    domains: [
+      "aburstofflavor.wordpress.com",
+      "justbeyou.in",
+      "dynamic-media-cdn.tripadvisor.com",
+      "imgmedia.lbb.in",
+      "media-cdn.tripadvisor.com",
+      "imgstaticcontent.lbb.in",
+      "b.zmtcdn.com",
+      "encrypted-tbn0.gstatic.com",
+      "res.cloudinary.com",
+      "30bestbarsindia.in",
+      "fourseasons.com",
+      "jdmagicbox.com",
+      "dineout-media-assets.swiggy.com",
+      "safarway.com",
+      "vmnk.gumlet.io",
+      "images.jdmagicbox.com",
+      "colive.com",
+      "4sqi.net",
+      "bangaloremirror.indiatimes.com",
+      "pinimg.com",
+      "theplan.it",
+      "i.pinimg.com",
+      "content.jdmagicbox.com",
+      "smokehousedeli.in",
+      "mir-s3-cdn-cf.behance.net",
+      "toscano.in",
+      "tariqsp.com",
+      "cloudfront.net",
+      "highape.com",
+      "s3images.coroflot.com",
+      "airmenusimages.blr1.cdn.digitaloceanspaces.com",
+      "venuebookingz.com",
+      "dineout.co.in",
+      "smergers.com",
+      "toit.in",        
+      "four-seasons.com", 
+      "ik.imagekit.io",  
+      "businessoffood.in",
+      "bangalorelocale.com",
+      "fastly.4sqi.net",
+      "cdn.venuelook.com",
+      "zeezest.com",
+      "thebiereclub.com", 
+      "media.weddingz.in",
+      "media.safarway.com",
+      "curlytales.com",
+      "www.burmaburma.in",
+      "www.30bestbarsindia.in",
+
+    ],
+  },
+};
 
 export default nextConfig;

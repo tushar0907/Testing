@@ -20,6 +20,28 @@ type CafeOrRestaurant = {
 type CafesData = {
   cafes: CafeOrRestaurant[];
   restaurants: CafeOrRestaurant[];
+  restobars: CafeOrRestaurant[];
+  bars: CafeOrRestaurant[];
+  breweries: CafeOrRestaurant[];
+  streetfood: CafeOrRestaurant[];
+  dessertparlors: CafeOrRestaurant[];
+  bakeries: CafeOrRestaurant[];
+  finedining: CafeOrRestaurant[];
+  casualdining: CafeOrRestaurant[];
+  buffetrestaurants: CafeOrRestaurant[];
+  quickbites: CafeOrRestaurant[];
+  foodcourts: CafeOrRestaurant[];
+  themebasedeateries: CafeOrRestaurant[];
+  rooftopdining: CafeOrRestaurant[];
+  familyfriendlyrestaurants: CafeOrRestaurant[];
+  petfriendlycafes: CafeOrRestaurant[];
+  organiceateries: CafeOrRestaurant[];
+  ethniccuisinerestaurants: CafeOrRestaurant[];
+  veganvegetarianspots: CafeOrRestaurant[];
+  icecreamgelatoshops: CafeOrRestaurant[];
+  winebars: CafeOrRestaurant[];
+  teahouses: CafeOrRestaurant[];
+  fastfoodchains: CafeOrRestaurant[];
 };
 
 // Import cafesData JSON and cast it to the correct type
@@ -29,15 +51,9 @@ const cafesData = cafesDataJson as CafesData;
 // Component to use searchParams safely in Suspense
 function ExploreDetailsContent() {
   const searchParams = useSearchParams();
-  const category = searchParams.get("category") || "cafes"; // Default to 'cafes' if category is null
-
+  const category = searchParams.get("category")?.toLowerCase() || "cafes"; // Default to "cafes" if no category is provided
   // Select the correct data array based on category
-  const data =
-    category === "restaurants" && cafesData.restaurants
-      ? cafesData.restaurants
-      : category === "cafes" && cafesData.cafes
-      ? cafesData.cafes
-      : [];
+  const data = cafesData[category as keyof CafesData] || cafesData.cafes;
 
   return (
     <>
@@ -51,7 +67,9 @@ function ExploreDetailsContent() {
                 key={index}
                 className="mobile:w-full w-[699px] h-[528px] mobile:-mb-32 mb-24"
               >
-                <Link href={`/exploreblogs?section=${index}&category=${category}`}>
+                <Link
+                  href={`/exploreblogs?section=${index}&category=${category}`}
+                >
                   <div className="bg-transparent rounded-lg overflow-hidden">
                     <Image
                       src={item.image_link}
@@ -85,7 +103,8 @@ function ExploreDetailsContent() {
             ))
           ) : (
             <p className="text-center text-gray-500">
-              No items found for the selected category.
+              No items found for the selected category:{" "}
+              {category.charAt(0).toUpperCase() + category.slice(1)}.
             </p>
           )}
         </div>

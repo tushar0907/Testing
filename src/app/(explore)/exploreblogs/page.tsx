@@ -20,6 +20,29 @@ type CafeOrRestaurant = {
 type CafesData = {
   cafes: CafeOrRestaurant[];
   restaurants: CafeOrRestaurant[];
+  restobars: CafeOrRestaurant[];
+  bars: CafeOrRestaurant[];
+  breweries: CafeOrRestaurant[];
+  streetfood: CafeOrRestaurant[];
+  dessertparlors: CafeOrRestaurant[];
+  bakeries: CafeOrRestaurant[];
+  finedining: CafeOrRestaurant[];
+  casualdining: CafeOrRestaurant[];
+  buffetrestaurants: CafeOrRestaurant[];
+  quickbites: CafeOrRestaurant[];
+  foodcourts: CafeOrRestaurant[];
+  themebasedeateries: CafeOrRestaurant[];
+  rooftopdining: CafeOrRestaurant[];
+  familyfriendlyrestaurants: CafeOrRestaurant[];
+  petfriendlycafes: CafeOrRestaurant[];
+  organiceateries: CafeOrRestaurant[];
+  ethniccuisinerestaurants: CafeOrRestaurant[];
+  veganvegetarianspots: CafeOrRestaurant[];
+  icecreamgelatoshops: CafeOrRestaurant[];
+  winebars: CafeOrRestaurant[];
+  teahouses: CafeOrRestaurant[];
+  fastfoodchains: CafeOrRestaurant[];
+
 };
 
 const cafesDataJson = cafesData as CafesData;
@@ -31,10 +54,9 @@ function ExploreBlogsContent() {
   const searchParams = useSearchParams();
 
   // Determine the category and select the data accordingly
-  const category = searchParams.get("category");
+  const category = searchParams.get("category")?.toLowerCase() || "cafes"; // Default to "cafes" if no category provided
   const sectionIndex = parseInt(searchParams.get("section") || "0", 10); // Get the section index
-  const data = category === "restaurants" ? cafesDataJson.restaurants : cafesDataJson.cafes;
-
+  const data = cafesDataJson[category as keyof CafesData] || cafesDataJson.cafes;
   // Function to render stars based on rating
   const renderStars = (rating: number) => {
     const fullStars = Math.floor(rating); // Full stars count
@@ -109,8 +131,7 @@ function ExploreBlogsContent() {
         className={`flex flex-row items-center overflow-x-auto mobile:mb-8 mb-16 shadow-md border-b-[#eaeaea] px-2 py-4 sticky top-24 z-10 bg-white transition-colors duration-300`}
       >
         <h2 className="text-3xl flex w-[30%] items-center font-semibold text-[#342A28] text-left tab:text-2xl mobile:hidden">
-          {category === "restaurants" ? "Restaurants Collection" : "Cafes Collection"}
-        </h2>
+        {`${category.charAt(0).toUpperCase() + category.slice(1)} Collection`}        </h2>
         <div
           ref={sliderRef}
           className="flex items-center mobile:w-auto w-full overflow-x-auto space-x-4 mobile:pl-2"
@@ -134,8 +155,7 @@ function ExploreBlogsContent() {
       </div>
 
       <h2 className="text-5xl text-[#342A28] font-semibold flex w-full justify-center items-center mobile:mb-8 mb-24 tab:text-4xl mobile:text-3xl">
-        {category === "restaurants" ? "Top Places for Food Lovers" : "Top 5 Places for Dessert Lovers"}
-      </h2>
+      {`Top Places for ${category.charAt(0).toUpperCase() + category.slice(1)} Lovers`}      </h2>
 
       {/* Blog Content */}
       {data.map((item, index) => (
