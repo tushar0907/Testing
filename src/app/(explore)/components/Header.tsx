@@ -19,19 +19,16 @@ function Header() {
         {/* Contact Section - Visible only on Desktop */}
         <div className="flex">
           <Link href="https://www.spacez.co/" passHref>
-          <div className="mobile:hidden border mx-2 my-1 rounded-full p-3 py-3 px-8 flex items-center space-x-2 cursor-pointer">
-          <span className="text-lg font-normal px-2 text-[#4f3c31] leading-none">
-          Book Now
+            <div className="mobile:hidden border mx-2 my-1 bg-[#4f3c31] rounded-full p-3 py- px-8 flex items-center space-x-2 cursor-pointer">
+              <span className="text-lg font-normal px-2 text-white  leading-none">
+                Book a Villa Now
               </span>
             </div>
           </Link>
-          <Link
-            href="https://wa.me/9380834941"
-            passHref
-          >
-            <div className="mobile:hidden border rounded-full p-3 py-3 px-8 flex items-center space-x-2 cursor-pointer">
-              <FaWhatsapp className="text-[#4f3c31] align-middle" size={22} />
-              <span className="text-lg font-normal px-2 text-[#4f3c31] leading-none">
+          <Link href="https://wa.me/9380834941" passHref>
+            <div className="mobile:hidden border bg-[#4f3c31] rounded-full p-3 py-3 px-8 flex items-center space-x-2 cursor-pointer">
+              <FaWhatsapp className="text-green-600 align-middle" size={22} />
+              <span className="text-lg font-normal px-2 text-white  leading-none">
                 9380834941
               </span>
             </div>
