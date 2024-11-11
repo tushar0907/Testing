@@ -23,7 +23,7 @@ function Slider() {
       modules={[Autoplay, Pagination, Navigation]}
       className="mySwiper"
     >
-      {[...Array(4)].map((_, index) => (
+      {[...Array(1)].map((_, index) => (
         <SwiperSlide key={index}>
           <div className="relative w-full mobile:h-[250px] h-[550px] bg-[#7F7F69] rounded-md overflow-hidden mb-16">
           <div className="mobile:hidden relative w-full h-[550px] bg-[#7F7F69] rounded-md overflow-hidden mb-16 flex items-center justify-between px-10">
