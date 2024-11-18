@@ -5,6 +5,7 @@ import React, { Suspense } from "react";
 import Link from "next/link";
 import Slider from "../components/Slider";
 import { useSearchParams } from "next/navigation";
+import Pattern from "../../../../assets/pngwing.com (1) 3.png";
 
 // Define types for TypeScript
 type CafeOrRestaurant = {
@@ -58,7 +59,13 @@ function ExploreDetailsContent() {
   return (
     <>
       <Slider />
-      <div className="w-screen mx-auto p-6">
+      <div
+      style={{
+        backgroundImage: `url(${Pattern})`,
+        backgroundRepeat: "repeat",
+        backgroundSize: "contain", 
+      }}
+      className="w-screen mx-auto p-6">
         {/* Section Cards */}
         <div className="flex flex-wrap w-full justify-around items-start mb-16">
           {data && data.length > 0 ? (
@@ -74,7 +81,7 @@ function ExploreDetailsContent() {
                     <Image
                       src={item.image_link}
                       alt={item.name}
-                      className="w-[699px] mobile:h-[180px] h-[430px] rounded-[8px] object-cover"
+                      className="w-[699px] shadow-lg mobile:h-[220px] h-[430px] rounded-[8px] object-cover"
                       width={699}
                       height={430}
                     />
@@ -82,15 +89,15 @@ function ExploreDetailsContent() {
                       <h3 className="text-3xl mobile:text-lg font-semibold mobile:mb-0 text-[#342A28]">
                         {item.name}
                       </h3>
-                      <p className="text-lg mobile:text-base font-medium text-[#A58E74] mb-4">
+                      <p className="text-lg mobile:text-base font-medium text-[#A58E74] mb-3 underline">
                         {item.address}
                       </p>
                       <div className="flex items-center w-full mb-3 space-x-4 text-[#343534]">
-                        <p className="tab:text-base mobile:text-sm font-semibold text-[#584139]">
+                        <p className="tab:text-base mobile:text-sm font-bold text-[#584139]">
                           <span className="font-medium">Ticket Prices: </span>
                           {item.price_for_two}
                         </p>
-                        <span className="mx-4 text-[#9a7b4f]">|</span>
+                        <span className="mx-2 text-[#9a7b4f]">|</span>
                         <p className="tab:text-base mobile:text-sm font-semibold text-[#584139]">
                           <span className="font-normal">Speciality: </span>
                           {item.speciality.join(", ")}
