@@ -47,6 +47,7 @@ type CafesData = {
 
 // Import cafesData JSON and cast it to the correct type
 import cafesDataJson from "../../data.json";
+import { Footer } from "../components/Footer";
 const cafesData = cafesDataJson as CafesData;
 
 // Component to use searchParams safely in Suspense
@@ -115,6 +116,7 @@ function ExploreDetailsContent() {
             </p>
           )}
         </div>
+        <Footer />
       </div>
     </>
   );

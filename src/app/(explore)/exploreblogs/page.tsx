@@ -5,6 +5,7 @@ import { useSearchParams } from "next/navigation";
 import cafesData from "../../data.json"; // Ensure you have your JSON data here
 import { FaStar } from "react-icons/fa";
 import { FaStarHalf } from "react-icons/fa6";
+import { Footer } from "../components/Footer";
 
 // Define types for TypeScript
 type CafeOrRestaurant = {
@@ -258,6 +259,7 @@ function ExploreBlogsContent() {
           </div>
         </div>
       ))}
+       <Footer />
     </div>
   );
 }
