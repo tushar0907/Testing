@@ -3,6 +3,7 @@ import localFont from "next/font/local";
 import "./globals.css";
 import Header from "./(explore)/components/Header";
 import { Urbanist } from 'next/font/google';
+import { Footer } from "./(explore)/components/Footer";
 
 const urbanist = Urbanist({
   weight: '400',
@@ -41,6 +42,7 @@ export default function RootLayout({
         {children}
 
         </main>
+        <Footer />
       </body>
     </html>
   );

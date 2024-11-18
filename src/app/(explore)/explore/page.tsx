@@ -6,6 +6,7 @@ import "swiper/css/pagination";
 import "swiper/css/navigation";
 import Link from "next/link";
 import Slider from "../components/Slider";
+import {Footer} from "../components/Footer";
 
 function ExplorePage() {
   return (
@@ -429,6 +430,9 @@ function ExplorePage() {
             </div>
           </div>
         </div>
+
+
+        <Footer />
 
         {/* Section - Events to Break Monotony */}
         {/* <div className="mb-12">
