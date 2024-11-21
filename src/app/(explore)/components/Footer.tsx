@@ -94,7 +94,7 @@ const support = [
 
 export const Footer = () => {
   return (
-    <footer className="bg-[#F5F3F2] w-screen h-[588px] mobile:h-auto pt-24 mobile:pt-[50px] pb-12 mobile:pb-[50px]">
+    <footer className="bg-[#F5F3F2] overflow-x-hidden h-[588px] mobile:h-auto pt-24 mobile:pt-[50px] pb-12 mobile:pb-[50px]">
       <div className="px-[100px] mobile:px-[30px] w-full flex mobile:flex-col justify-between mobile:justify-normal h-[275px] mobile:h-auto">
         <div className="flex flex-col gap-y-6 mobile:justify-normal mobile:gap-y-5 mobile:w-full mobile:pt-6 mobile:pb-12 w-[400px]">
           <Image

@@ -429,10 +429,11 @@ function ExplorePage() {
               </Link>
             </div>
           </div>
+          <Footer />
         </div>
 
 
-        <Footer />
+       
 
         {/* Section - Events to Break Monotony */}
         {/* <div className="mb-12">
