@@ -13,11 +13,14 @@ function ExplorePage() {
   return (
     <>
       {/* Swiper for Banner */}
-      <Slider />
+      
 
       <div className="w-full overflow-x-hidden mobile:mt-12 h-[800px] mobile:pl-2 px-10 mobile:h-auto py-[16px] mobile:py-0">
+      <Slider />
+      <div className="mb-12 overflow-y-hidden">
+      
         {/* Section - Explore in and Around */}
-        <div className="mb-12">
+        
           <div className="flex items-center justify-between mb-4">
             <h3 className="text-2xl mx-2 mobile:font-bold font-semibold text-[#584139] tab:text-xl mobile:text-lg">
               explore in and around
