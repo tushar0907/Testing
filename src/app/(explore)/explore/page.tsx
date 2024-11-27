@@ -7,7 +7,7 @@ import "swiper/css/navigation";
 import Link from "next/link";
 import Slider from "../components/Slider";
 import {Footer} from "../components/Footer";
-// import BlogDisplay from "@/app/newblog/blogdisplay";
+import BlogDisplay from "@/app/newblog/blogdisplay";
 
 function ExplorePage() {
   return (
@@ -428,7 +428,7 @@ function ExplorePage() {
                 </div>
               </Link>
             </div>
-            {/* <BlogDisplay /> */}
+            <BlogDisplay />
           </div>
           <Footer />
         </div>

@@ -8,16 +8,19 @@ const BlogDisplay: React.FC = () => {
         title="How Ma’s Recipes Built a Leading Burmese Cuisine Brand"
         description="Discover how childhood friends Ankit Gupta and Chirag Chhajer brought Burma’s hidden treasures to India through a unique dining experience."
         imageUrl="https://zomatoblog.com/wp-content/uploads/2024/11/Burma-Burma-changes.png"
+        link="/blogs/blogone" // Link to the detailed blog page
       />
       <BlogLayout
         title="Exploring the Flavors of Traditional Burmese Cuisine"
         description="A journey into the aromatic spices and unique culinary traditions that define Burmese dishes."
         imageUrl="https://zomatoblog.com/wp-content/uploads/2024/11/Burma-Burma-changes.png"
+        link="#" // No link for now
       />
       <BlogLayout
         title="From Kitchen to Fame: The Story Behind Burma’s Delights"
         description="Learn how authentic family recipes have been reimagined to create a culinary empire."
         imageUrl="https://zomatoblog.com/wp-content/uploads/2024/11/Burma-Burma-changes.png"
+        link="#" // No link for now
       />
     </div>
   );
