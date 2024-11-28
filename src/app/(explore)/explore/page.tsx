@@ -431,13 +431,13 @@ function ExplorePage() {
                 </div>
               </Link>
             </div>
-            <div className="flex flex-col w-full h-full">
+            {/* <div className="flex flex-col w-full h-full">
               <div className="flex text-4xl mx-2 mobile:font-bold font-semibold text-[#584139] tab:text-xl mobile:text-lg mt-10 border-b py-2">Blogs</div>
               <div className="flex w-full">
               <BlogDisplay />
 
               </div>
-            </div>
+            </div> */}
           </div>
           <Footer />
         </div>
