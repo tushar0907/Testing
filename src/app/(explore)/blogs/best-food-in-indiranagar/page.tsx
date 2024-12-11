@@ -70,7 +70,7 @@ const BlogDisplay2: React.FC = () => {
       </div>
       {/* //-> List Bio 2 */}
       <p className="text-lg text-gray-600 leading-relaxed mb-6">
-      Whether vegan or just looking for something healthy, Copper + Clove has got you covered. Tucked away on the floor of a corporate building, this little cafe serves up healthy bowls in hues of every color imaginable, it is so bright and packed with flavor that eating clean really will feel like a treat. And if color is what you need, Copper + Clove has it with their plant-based options for a colorful, guilt-free meal. To talk a little bit about this cafe, usually this cafe is very crowded and you'll have to maybe wait a little bit before you get a seat, but when you do, you'll surely love the food. And the ambience is just perfect.
+      Whether vegan or just looking for something healthy, Copper + Clove has got you covered. Tucked away on the floor of a corporate building, this little cafe serves up healthy bowls in hues of every color imaginable, it is so bright and packed with flavor that eating clean really will feel like a treat. And if color is what you need, Copper + Clove has it with their plant-based options for a colorful, guilt-free meal. To talk a little bit about this cafe, usually this cafe is very crowded and you all have to maybe wait a little bit before you get a seat, but when you do, you all surely love the food. And the ambience is just perfect.
       </p>
       {/* ------------------------------------------------------------------------------------------------------------------------------------*/}
       
@@ -88,7 +88,7 @@ const BlogDisplay2: React.FC = () => {
       </div>
       {/* //-> List Bio 3 */}
       <p className="text-lg text-gray-600 leading-relaxed mb-6">
-      I cannot stop talking about this cafe! New in town and already my favorite! A must try if you love pork char siu. The char is just nice on the pork, and the flavors here get you wanting for more. Oh, and get a cup of kopi to complete your lunch—must have it! This cute cafe has now been one of my premiere one-stop destinations whenever I quickly wanna run down and have a quick meal. It's just amazing and I would definitely recommend it to you.
+      I cannot stop talking about this cafe! New in town and already my favorite! A must try if you love pork char siu. The char is just nice on the pork, and the flavors here get you wanting for more. Oh, and get a cup of kopi to complete your lunch—must have it! This cute cafe has now been one of my premiere one-stop destinations whenever I quickly wanna run down and have a quick meal. It is just amazing and I would definitely recommend it to you.
       </p>
 
       {/* ------------------------------------------------------------------------------------------------------------------------------------*/}

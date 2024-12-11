@@ -68,7 +68,7 @@ const BlogDisplay7: React.FC = () => {
       4. Make a Pit Stop at Blossom Book House
       </h3>
       <p className="text-lg text-gray-600 leading-relaxed mb-6">
-      Book lovers, this one's for you! No trip to Bengaluru is complete without a stop at <strong>Blossom Book House</strong> on Church Street. This legendary bookstore is crammed full of treasures—whether you’re after second-hand novels, the latest bestsellers, or quirky stationery. Even if you’re not big into reading, it’s worth checking out for unique souvenirs and gifts.
+      Book lovers, this ones for you! No trip to Bengaluru is complete without a stop at <strong>Blossom Book House</strong> on Church Street. This legendary bookstore is crammed full of treasures—whether you’re after second-hand novels, the latest bestsellers, or quirky stationery. Even if you’re not big into reading, it’s worth checking out for unique souvenirs and gifts.
       </p>
       <p className="text-lg text-gray-600 leading-relaxed mb-6">
       <strong>Pro Tip:</strong> If books aren’t your thing, you can still browse through their collection of quirky posters, funky notebooks, and other cool memorabilia that make perfect keepsakes from your Bengaluru adventure.
@@ -80,7 +80,7 @@ const BlogDisplay7: React.FC = () => {
       5. Lunch at Ranga Rao Military Hotel: A True Bengaluru Experience
       </h3>
       <p className="text-lg text-gray-600 leading-relaxed mb-6">
-      By this time, you’re probably ready for lunch, and there’s no better spot than <strong>Ranga Rao Military Hotel</strong> for an authentic taste of <strong>Bengaluru’s military hotel cuisine</strong>. This no-fuss eatery is a local favorite, serving hearty, flavorful dishes that are packed with the city's rich culinary traditions.
+      By this time, you’re probably ready for lunch, and there’s no better spot than <strong>Ranga Rao Military Hotel</strong> for an authentic taste of <strong>Bengaluru’s military hotel cuisine</strong>. This no-fuss eatery is a local favorite, serving hearty, flavorful dishes that are packed with the citys rich culinary traditions.
       </p>
       <p className="text-lg text-gray-600 leading-relaxed mb-6">
       <strong>What to Order?</strong> Go for the <strong>mutton biryani</strong> or the <strong>chicken curry</strong>—both are crowd-pleasers and will give you a true taste of the city’s food culture. The vibe is simple and unpretentious, just like the food, making it a perfect spot to recharge for the rest of the day.

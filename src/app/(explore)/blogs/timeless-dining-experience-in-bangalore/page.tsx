@@ -15,7 +15,7 @@ const BlogDisplay8: React.FC = () => {
       {/* //-> Title Image */}
       <div className="flex w-full justify-center rounded-lg">
       <img
-        src="https://yourimageurl.com" // Replace with a valid image URL for The Only Place
+        src="https://yourimageurl.com" 
         alt="The Only Place, Bangalore"
         className="rounded-[10px] flex w-[800px] mb-8"
       />
@@ -23,10 +23,10 @@ const BlogDisplay8: React.FC = () => {
 
       {/* //-> Title Description */}
       <p className="text-lg text-gray-600 leading-relaxed mb-6">
-      Bangalore is a city that’s always on the move, with new restaurants opening left, right, and center. Yet, among all this change, a few timeless places continue to hold their ground. One such classic is <strong>The Only Place</strong>, a restaurant that has been delighting food lovers since <strong>1965</strong>—a true legend in the city's food scene.
+      Bangalore is a city thats always on the move, with new restaurants opening left, right, and center. Yet, among all this change, a few timeless places continue to hold their ground. One such classic is <strong>The Only Place</strong>, a restaurant that has been delighting food lovers since <strong>1965</strong>—a true legend in the city food scene.
       </p>
       <p className="text-lg text-gray-600 leading-relaxed mb-6">
-      If you’re after a dining spot that offers a blend of history, charm, and delicious flavors, then <strong>The Only Place</strong> should be right at the top of your list. Let me walk you through why this place is such a gem and what you can expect when you visit.
+      If you arere after a dining spot that offers a blend of history, charm, and delicious flavors, then <strong>The Only Place</strong> should be right at the top of your list. Let me walk you through why this place is such a gem and what you can expect when you visit.
       </p>
 
       {/* ------------------------------------------------------------------------------------------------------------------------------------*/}

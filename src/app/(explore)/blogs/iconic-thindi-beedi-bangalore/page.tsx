@@ -9,7 +9,7 @@ const BlogDisplay8: React.FC = () => {
       {/* ------------------------------------------------------------------------------------------------------------------------------------*/}
       {/* //-> Title */}
       <h1 className="text-4xl font-extrabold text-center text-gray-800 mb-8">
-      Thindi Beedi: A Foodie's Paradise in Bengaluru
+      Thindi Beedi: A Foodies Paradise in Bengaluru
       </h1>
 
       {/* //-> Title Image */}
@@ -23,7 +23,7 @@ const BlogDisplay8: React.FC = () => {
 
       {/* //-> Title Description */}
       <p className="text-lg text-gray-600 leading-relaxed mb-6">
-      Whether you are a foodie in Bengaluru or just looking to have that one different kind of food adventure, there's only one place that needs to be in your top list: <strong>Thindi Beedi</strong> in VV Puram, or I like to call it, the OG food street of Bengaluru. It is heaven on earth for any street food lover just like me, and the best part is that you can fill your tummy with a variety of food just for five hundred rupees. The following walk down Thindi Beedi will let us know all about what not to miss.
+      Whether you are a foodie in Bengaluru or just looking to have that one different kind of food adventure, there is only one place that needs to be in your top list: <strong>Thindi Beedi</strong> in VV Puram, or I like to call it, the OG food street of Bengaluru. It is heaven on earth for any street food lover just like me, and the best part is that you can fill your tummy with a variety of food just for five hundred rupees. The following walk down Thindi Beedi will let us know all about what not to miss.
       </p>
 
       {/* ------------------------------------------------------------------------------------------------------------------------------------*/}
@@ -32,7 +32,7 @@ const BlogDisplay8: React.FC = () => {
       Go for the Classics at VV Bakery
       </h3>
       <p className="text-lg text-gray-600 leading-relaxed mb-6">
-      First, it has to be VV Bakery, an iconic bakery. Right on the street, you're hit with that warm, inviting aroma of fresh-baked goodies. The recommendation at this stop has to be <strong>Khara Bun Congress</strong>: a soft, savory bun filled with spicy, crunchy peanuts, a humble yet satisfying snack.
+      First, it has to be VV Bakery, an iconic bakery. Right on the street, you are hit with that warm, inviting aroma of fresh-baked goodies. The recommendation at this stop has to be <strong>Khara Bun Congress</strong>: a soft, savory bun filled with spicy, crunchy peanuts, a humble yet satisfying snack.
       </p>
       <p className="text-lg text-gray-600 leading-relaxed mb-6">
       And do not leave without trying <strong>honey cake</strong>; it is very moist and sweet, just what you need with a cup of chai. Both of these will not break the bank and are pieces of confectionery that will have you asking for more.
@@ -44,7 +44,7 @@ const BlogDisplay8: React.FC = () => {
       Snack on Koduballe: Fritter Delight
       </h3>
       <p className="text-lg text-gray-600 leading-relaxed mb-6">
-      The next one is a quirky local favorite: <strong>Koduballe</strong>. These crispy rings are something that one can just not stop munching on. Crunchy, light, and full of flavor, they're good to munch on when you want to tour down the remaining street. You find them being sold by local vendors at almost every corner. Grab a pack for your journey down Thindi Beedi, and you won't be disappointed!
+      The next one is a quirky local favorite: <strong>Koduballe</strong>. These crispy rings are something that one can just not stop munching on. Crunchy, light, and full of flavor, they are good to munch on when you want to tour down the remaining street. You find them being sold by local vendors at almost every corner. Grab a pack for your journey down Thindi Beedi, and you wont be disappointed!
       </p>
 
       {/* ------------------------------------------------------------------------------------------------------------------------------------*/}
@@ -53,7 +53,7 @@ const BlogDisplay8: React.FC = () => {
       Pineapple Bhaji: The Sweet and Salted Surprise
       </h3>
       <p className="text-lg text-gray-600 leading-relaxed mb-6">
-      I know the debate over pineapple on pizza is a hot one and if you like pineapple pizza—Congratulations, you are my enemy. But let me introduce you to pineapple in bhaji—a combination nothing short of genius. The sweetness and the tanginess of the pineapple perfectly complement the savory, spiced bhaji batter. A match made in heaven (I don’t wanna believe it but it’s true), unique and different from the usual fried snack. Well worth trying when you're feeling adventurous!
+      I know the debate over pineapple on pizza is a hot one and if you like pineapple pizza—Congratulations, you are my enemy. But let me introduce you to pineapple in bhaji—a combination nothing short of genius. The sweetness and the tanginess of the pineapple perfectly complement the savory, spiced bhaji batter. A match made in heaven (I don’t wanna believe it but it’s true), unique and different from the usual fried snack. Well worth trying when you are feeling adventurous!
       </p>
 
       {/* ------------------------------------------------------------------------------------------------------------------------------------*/}
@@ -62,7 +62,7 @@ const BlogDisplay8: React.FC = () => {
       Coconut Milk Drink: Refresh and Recharge
       </h3>
       <p className="text-lg text-gray-600 leading-relaxed mb-6">
-      As you munch along the street, you'll be needing something to wash it all down with. The <strong>coconut milk drink</strong> would be your savior on this count. Cool and refreshing, this is just the thing after munching on those rich, fried snacks. Besides, it's full of nutrients and a good way to hydrate yourself as you wander down the busy street. But to be honest, my friend liked it but personally I wouldn’t go with such stuff.
+      As you munch along the street, you all be needing something to wash it all down with. The <strong>coconut milk drink</strong> would be your savior on this count. Cool and refreshing, this is just the thing after munching on those rich, fried snacks. Besides, it is full of nutrients and a good way to hydrate yourself as you wander down the busy street. But to be honest, my friend liked it but personally I wouldn’t go with such stuff.
       </p>
 
       {/* ------------------------------------------------------------------------------------------------------------------------------------*/}
@@ -80,7 +80,7 @@ const BlogDisplay8: React.FC = () => {
       Stealer of the Limelight: Onion Dosa
       </h3>
       <p className="text-lg text-gray-600 leading-relaxed mb-6">
-      Among all the delights on this Thindi Beedi, <strong>onion dosas</strong> certainly steal the show. Thick yet crispy, this is also a kind of dosa perfection. The onions add that oomph to take the traditionally stale dosa to a completely new level. When served hot off the griddle, the fun of textural contrast between crunchy edges and a soft, slightly chewy inside is simply unforgettable. Don't miss it!
+      Among all the delights on this Thindi Beedi, <strong>onion dosas</strong> certainly steal the show. Thick yet crispy, this is also a kind of dosa perfection. The onions add that oomph to take the traditionally stale dosa to a completely new level. When served hot off the griddle, the fun of textural contrast between crunchy edges and a soft, slightly chewy inside is simply unforgettable. Dont miss it!
       </p>
 
       {/* ------------------------------------------------------------------------------------------------------------------------------------*/}
@@ -98,7 +98,7 @@ const BlogDisplay8: React.FC = () => {
       Final Thoughts
       </h2>
       <p className="text-lg text-gray-600 leading-relaxed mb-6">
-      From khaara buns to fried snacks, refreshing drinks to sweet treats, in Thindi Beedi one gets to experience the best of Bengaluru's street food, and that too within ₹500. So, what's one waiting for? A local or a tourist, this is the VV Puram's Thindi Beedi that one needs to venture out in search of to taste Bengaluru's rich and diverse street food. The taste buds shall thank one for the gesture. Follow us for more food adventures and the next great bite!
+      From khaara buns to fried snacks, refreshing drinks to sweet treats, in Thindi Beedi one gets to experience the best of Bengaluru street food, and that too within ₹500. So, whats one waiting for? A local or a tourist, this is the VV Purams Thindi Beedi that one needs to venture out in search of to taste Bengalurus rich and diverse street food. The taste buds shall thank one for the gesture. Follow us for more food adventures and the next great bite!
       </p>
 
     </div>
