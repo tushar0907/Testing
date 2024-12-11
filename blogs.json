@@ -1,0 +1,245 @@
+{
+    "blogs": [
+      {
+        "id": "diwaloween_spacez",
+        "mainTitle": "Celebrate Diwaloween at Spacez: A Unique Festive Fusion!",
+        "heroImage": {
+          "src": "https://zomatoblog.com/wp-content/uploads/2024/11/Burma-Burma-changes.png",
+          "alt": "Diwaloween at Spacez"
+        },
+        "description": "This October and early November, Spacez is excited to present a one-of-a-kind experience for our guests—Diwaloween! Imagine the sparkle of Diwali lights combined with Halloween’s playful spookiness, creating an enchanting atmosphere that feels both festive and unique. Here’s what makes Spacez the ultimate choice for a memorable stay this festive season.",
+        "sections": [
+          {
+            "title": "🎃🪔 What to Expect: Diwali Meets Halloween at Spacez 🎃🪔",
+            "image": {
+              "src": "https://zomatoblog.com/wp-content/uploads/2024/11/Burma-Burma-changes.png",
+              "alt": "Diwaloween at Spacez"
+            },
+            "content": "For the last week of October and first week of November, every Spacez property is getting a festive makeover! Guests can enjoy a fusion of Diwali’s warm lights and traditional rangolis alongside Halloween’s pumpkins, subtle spooky decor, and themed lighting. The result? A visually stunning space that celebrates both festivals in perfect harmony."
+          },
+          {
+            "title": "Customized Experiences for Groups and Corporate Guests",
+            "content": "Planning a group getaway or a corporate retreat this season? Spacez has you covered. Our Diwaloween experience extends beyond decor with customizations designed to make your stay exactly as you envision it."
+          }
+        ]
+      },
+      {
+        "id": "discover_dhondiling",
+        "mainTitle": "Discover Dhondiling: Karnataka’s Hidden Tibetan Haven",
+        "heroImage": {
+          "src": "https://yourimageurl.com",
+          "alt": "Dhondiling, Karnataka"
+        },
+        "description": "A peaceful Tibetan settlement near the Biligirirangan Hills.",
+        "sections": [
+          {
+            "title": "The Journey to Dhondiling: A Whole Different World",
+            "content": "Dhondiling is only about three and a half hours from Bangalore, nestled near the Biligirirangan Hills. The drive itself is stunning. You’ve got winding roads, changing landscapes, and this gradual shift from the city chaos to pure serenity."
+          },
+          {
+            "title": "Immersing in Tibetan Culture",
+            "content": "The settlement has been around since 1974, set up for Tibetan refugees. It’s got an authentic feel, with six monasteries and 22 villages where locals maintain their traditional way of life."
+          },
+          {
+            "title": "Foodies, Rejoice: Tibetan Cuisine Awaits",
+            "content": "Dhondiling has small cafes that serve steaming hot momos, soul-warming thukpa, and butter tea that complements the mountain air perfectly."
+          },
+          {
+            "title": "Staying in Dhondiling: Cozy Homestays Over Fancy Hotels",
+            "content": "Instead of large hotels, Dhondiling offers cozy homestays that immerse visitors in the serene village life, perfect for a quiet retreat."
+          },
+          {
+            "title": "Why Dhondiling is the Perfect Weekend Escape",
+            "content": "The place is an untouched gem with a peaceful vibe, far from the chaos of Bangalore."
+          }
+        ]
+      },
+      {
+        "id": "willys_pet_paradise",
+        "mainTitle": "Willy’s Pet Paradise: Bangalore’s Hidden Gem for Dog Lovers",
+        "heroImage": {
+          "src": "https://yourimageurl.com",
+          "alt": "Willy’s Pet Paradise, Bangalore"
+        },
+        "description": "A dog lover’s retreat in Bangalore with a cafe to relax.",
+        "sections": [
+          {
+            "title": "A Hidden Gem for Dog Lovers (and Basically Everyone)",
+            "content": "Willy’s Pet Paradise is tucked away from the noise of Bangalore’s streets. Dogs roam freely, and visitors can spoil them with belly rubs, treats, or just hang out."
+          },
+          {
+            "title": "What’s the Vibe Like?",
+            "content": "For just INR 200, you can enjoy the park and redeem the fee at the cafe inside. It's perfect for unwinding with dogs."
+          },
+          {
+            "title": "A Fun Twist for a First Date",
+            "content": "If you’re bored of typical coffee shop dates, Willy’s Pet Paradise is a unique spot to bond over playful pups."
+          },
+          {
+            "title": "Craving Some Furry Love?",
+            "content": "Perfect for those moments when you’re craving unconditional love that only dogs can provide."
+          }
+        ]
+      },
+      {
+        "id": "avocado_brownies",
+        "mainTitle": "Avocado and Brownies: Bangalore’s Hidden Dessert Paradise",
+        "heroImage": {
+          "src": "https://yourimageurl.com",
+          "alt": "Avocado and Brownies, Kamanahalli"
+        },
+        "description": "Discover a dessert haven in Kamanahalli that is a delightful secret waiting to be explored.",
+        "sections": [
+          {
+            "title": "A Brownie Wonderland",
+            "content": "With over 15 flavors of brownies, from classic fudgy to inventive marshmallow and nutty variations, this is a dessert lover's paradise."
+          },
+          {
+            "title": "Sweet Surprises Beyond Brownies",
+            "content": "Mini croissants, tres leches cake, and milk cake slices offer a modern twist to traditional treats."
+          },
+          {
+            "title": "The Guacamole Croissant Sandwich",
+            "content": "This savory delight combines flaky croissants with creamy guacamole and melted cheese."
+          },
+          {
+            "title": "Cozy Vibes in Kamanahalli",
+            "content": "The cafe offers a warm and inviting ambiance, perfect for enjoying desserts and coffee in a peaceful setting."
+          }
+        ]
+      },
+      {
+        "id": "ultimate_guide_bengaluru",
+        "mainTitle": "The Ultimate 24-Hour Guide to Exploring Bengaluru",
+        "heroImage": {
+          "src": "https://yourimageurl.com",
+          "alt": "Exploring Bengaluru in 24 Hours"
+        },
+        "description": "Maximize your day in Bengaluru with this 24-hour guide to food, culture, and relaxation.",
+        "sections": [
+          {
+            "title": "Start Your Day with a Ghee-Loaded Dosa at Vidyarthi Bhavan",
+            "content": "Kick off your day with a crispy, ghee-soaked dosa from the iconic Vidyarthi Bhavan, paired with their signature chutney."
+          },
+          {
+            "title": "Walk Off Breakfast by Admiring Street Art in Malleswaram",
+            "content": "Explore Bengaluru's vibrant street art and historic charm in the Malleswaram neighborhood."
+          },
+          {
+            "title": "Take a Relaxing Stroll Through Lalbagh Botanical Garden",
+            "content": "Discover rare plants, ancient trees, and serene paths at this 240-acre green space."
+          },
+          {
+            "title": "Make a Pit Stop at Blossom Book House",
+            "content": "Browse a wide range of books and quirky gifts at this iconic Church Street bookstore."
+          },
+          {
+            "title": "Lunch at Ranga Rao Military Hotel: A True Bengaluru Experience",
+            "content": "Indulge in authentic mutton biryani and chicken curry at this beloved local eatery."
+          },
+          {
+            "title": "End Your Day with a Cold Beer at Juke Box",
+            "content": "Relax with affordable drinks and a laid-back vibe at this local favorite bar."
+          }
+        ]
+      },
+      {
+        "id": "thindi_beedi_foodies_paradise",
+        "mainTitle": "Thindi Beedi: A Foodie’s Paradise in Bengaluru",
+        "heroImage": {
+          "src": "https://yourimageurl.com",
+          "alt": "Thindi Beedi, VV Puram"
+        },
+        "description": "Explore Bengaluru's OG food street, VV Puram's Thindi Beedi, for an unforgettable street food journey.",
+        "sections": [
+          {
+            "title": "Go for the Classics at VV Bakery",
+            "content": "Try the iconic Khara Bun Congress and honey cake at this beloved bakery."
+          },
+          {
+            "title": "Snack on Koduballe: Fritter Delight",
+            "content": "Crispy, flavorful rings that are perfect for munching as you explore the street."
+          },
+          {
+            "title": "Pineapple Bhaji: The Sweet and Salted Surprise",
+            "content": "Experience the unexpected combination of tangy pineapple and spiced bhaji batter."
+          },
+          {
+            "title": "Mysore Bhaji: The Softest Bhaji in Town",
+            "content": "Light, fluffy, and perfectly spiced, this bhaji is a must-try."
+          },
+          {
+            "title": "Stealer of the Limelight: Onion Dosa",
+            "content": "Thick yet crispy dosas with a savory onion topping—an unforgettable treat."
+          },
+          {
+            "title": "Sweet Ending: Honey Jalebi and Tadpora",
+            "content": "Wrap up your food journey with crispy honey jalebis or refreshing tadpora fruit."
+          }
+        ]
+      },
+      {
+        "id": "govern_misal_pav",
+        "mainTitle": "Govern Misal: The Best Misal Pav in Bengaluru?",
+        "heroImage": {
+          "src": "https://yourimageurl.com",
+          "alt": "Govern Misal, Bengaluru"
+        },
+        "description": "Savor the authentic taste of Maharashtrian misal pav at Bengaluru's Govern Misal.",
+        "sections": [
+          {
+            "title": "What Exactly is Misal Pav?",
+            "content": "A spicy sprouts curry topped with sev and paired with soft pav—a Maharashtrian classic."
+          },
+          {
+            "title": "The Secret Behind Govern Misal’s Flavors",
+            "content": "Authentic ingredients sourced from Kolhapur and traditional cooking over a wood fire."
+          },
+          {
+            "title": "A Fun Twist: Vada Pav with Peanut Topping",
+            "content": "Enjoy a crunchy, flavorful twist on the classic vada pav with peanut topping."
+          },
+          {
+            "title": "Cool Down with a Refreshing Kokum Sharbat",
+            "content": "Balance the heat with this tangy, refreshing Maharashtrian beverage."
+          },
+          {
+            "title": "Final Verdict: Does Govern Misal Live Up to the Hype?",
+            "content": "Bold, authentic flavors and traditional techniques make this a must-visit spot in Bengaluru."
+          }
+        ]
+      },
+      {
+        "id": "the_only_place",
+        "mainTitle": "The Only Place: A Bangalore Legend Since 1965",
+        "heroImage": {
+          "src": "https://yourimageurl.com",
+          "alt": "The Only Place, Bangalore"
+        },
+        "description": "Experience Bangalore’s culinary history at this iconic restaurant serving continental classics since 1965.",
+        "sections": [
+          {
+            "title": "A Stroll Through Time: The Only Place Since 1965",
+            "content": "Step into a timeless space offering delicious food and a cozy, nostalgic vibe."
+          },
+          {
+            "title": "What to Order: Signature Dishes You Can’t Miss",
+            "content": "Try the Fiery Chicken, Chicken Supreme, and their perfectly grilled steaks with mushroom sauce."
+          },
+          {
+            "title": "Insider Tip: Beat the Crowd!",
+            "content": "Visit early to avoid waiting for a table—lunchtime gets busy fast."
+          },
+          {
+            "title": "The Ambiance: Nostalgic and Welcoming",
+            "content": "Rustic decor, friendly staff, and a homely atmosphere make every meal special."
+          },
+          {
+            "title": "The Verdict: Taste and Price",
+            "content": "Generous portions and consistent quality make it worth every penny."
+          }
+        ]
+      }
+    ]
+  }
+  
